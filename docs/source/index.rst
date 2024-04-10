@@ -1,7 +1,7 @@
 Lumen et Umbra MUD
 ===================================
 
-.. image:: images/leu.png
+.. image:: ../images/leu.png
   :width: 400
   :alt: Alternative text
 
