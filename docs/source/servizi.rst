@@ -6,14 +6,14 @@ Rent
 Ogni personoggio deve affittare una camera e pagare l'affitto. L'affitto base è fissato a 10 monete d'oro 
 al giorno (tempo reale), alcuni oggetti hanno un costo di rent ed incrementato il conto, alcuni oggetti
 sono **NO RENT** e scompariranno dall'inventario del personaggio in caso di disconnessione per un tempo
-prolungato. ``Giulietta`` offre questo servizio ad Alma Civitas, ma non è l'unica. Comandi utili:
+prolungato. **Giulietta** offre questo servizio ad Alma Civitas, ma non è l'unica.
 
-- ``offer``
-- ``rent``
+- preventivo: ``offer``
+- affitta camera: ``rent``
 
 Astral e Portal
 ---------------
-Sono due metodi di viaggio veloce, questi servizi sono offerti da ``Zryon`` nella *Gilda dei Viaggiatori*:
+Sono due metodi di viaggio veloce, questi servizi sono offerti da **Zryon** nella *Gilda dei Viaggiatori*:
 
 - path da *Alma Civitas*: ``s;s;e;e;n``
 - astral: ``ask Zryon astral``
@@ -27,34 +27,32 @@ Qui è possibile depositare soldi e ingredienti:
 - bilancio: ``balance``
 - deposita: ``deposit``
 - ritira: ``withdraw``
-- visualizza cassetta (ingredienti): ``cassetta`` o ``cassetta x`` per una specifica pagina
+- visualizza cassetta (ingredienti): ``cassetta`` oppure ``cassetta x`` per una specifica pagina
 
 Maestri Abilità Secondarie
 --------------------------
 Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal:
 
-- ``Maestro Ninja``
-  Si trova lungo la via del mare ad ovest di Alma.
+- **Maestro Ninja** (``maestro-ninja``):
 
   - cavalcare
   - sfondare porte
   - scassinare
 
-- ``Marinaio di Alma``
+- **Marinaio di Alma** (``marinaio-alma``):
 
   - nuotare
 
-- ``Cacciatore``
+- **Cacciatore** (``cacciatore``)
 
   - cacciare
   - primo soccorso
 
-- ``Occhio di Falco``
+- **Occhio di Falco** (``occhio-falco``):
 
   - spot
 
-- ``Saggio di Mordilnia``
-  per il portal usare la key ``11.saggio``
+- **Saggio di Mordilnia** (``11.saggio``):
 
   - cerca
   - leggere il magico
@@ -68,11 +66,40 @@ In *Via delle Gilde* si trovano i maestri per i bassi livelli.
 
 Identificazione Equipaggiamento
 -------------------------------
-Questo servizio è offerto da Gnosh, path da *Alma Civitas*: ``s;e;e;s;s``
+Questo servizio è offerto ad Alma da Gnosh.
+
+* path da *Alma Civitas*: ``s;e;e;s;s``
+* comando: ``give NOME_OGGETTO gnosh``
 
 Riparazione Equipaggiamento
 ---------------------------
-Per gli oggetti di basso livello il servizio è offerto ad *Alma Civitas*
+
+* path per **Iwaldur** da *Alma Civitas* (oggetti di basso livello):
+  ``s;e;e;n``
+* path per **Plutarco** da *Alma Civitas* (ripara tutto):
+  ``astral;``
+
+Localizzazione oggetti
+----------------------
+
+* path da *Alma Civitas*: ``s;s;e;e;e``
+* comando: ``whisper gitana NOME_OGGETTO``
 
 Allania
 -------
+Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
+è possibile comprare oggetti quest e ingredienti.
+
+* path per andare all'intersezione delle gallerie:
+  ``astral;u;n;w;w;n;u;w;u;u;w;d;w;s;s;s;s;w;w;w;w;d;d``
+* path per tornare dall'intersezione delle gallerie:
+  ``w;s;s;e;s;enter portale``
+* per esaminare i servizi, dall'intersezione delle gallerie:
+  ``exa prima | seconda | ... | quinta``
+* path per **Tarr** (vende il **cristallo crono-traslazione**), dall'intersezione
+  delle gallerie: ``n;e;e;n;u;u;e;e;e;n``
+* path per viaggiatori (oggetti speciali), bisogna avere 
+  il cristallo della crono-traslazione in inventario,
+  poi dall'intersezione delle gallerie:
+  ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
+
