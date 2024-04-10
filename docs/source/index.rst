@@ -1,5 +1,5 @@
-Lumen et Umbra MUD
-===================================
+Lumen et Umbra Documentation
+=============================
 
 .. figure:: images/leu.png
   :align: center

@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'LeU Manual'
+project = 'LeU Documentation'
 copyright = '2024, Kemosh'
 author = 'Kemosh'
 
@@ -29,7 +29,6 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
