@@ -13,7 +13,7 @@ e poi sviluppato fino a diventare completamente indipendete sia per struttura di
 Attualmente gestito e mantenuto da **Archie**.
 
 Questo progetto ha lo scopo di raccogliere le meccaniche di gioco e tutte le informazioni utili per
-addentrarsi e orientarsi nel mondo di LeU. Ecco l'indirizzo per accedere al gioco:
+addentrarsi e orientarsi nel mondo di LeU. Consulta :doc:`getting_started` per iniziare.
 
 - **LeU LIVE**: mclink.mclmud.it:6000 (versione corrente del gioco)
 - LeU Prova: ... (versione di prova della futura evoluzione)
