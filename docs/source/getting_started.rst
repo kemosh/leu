@@ -12,8 +12,8 @@ Per accedere al gioco è necessrio connettersi con un client telnet all'indirizz
 
    mclmud.mclink.it:6000
 
-E' possibile usare un qualunque client telnet, ma questo renderà le cose più difficili, per godere meglio
-l'esperienza ludica è opportuno usare un client dedicato come `Mudlet <https://www.mudlet.org/it/>`_,
+È possibile usare un qualunque client telnet, ma per migliorare sensibilmente l'esperienza ludica
+è caldamente consigliato usare un client dedicato come `Mudlet <https://www.mudlet.org/it/>`_,
 uno dei pochi attivamente mantenuto e sviluppato.
 
 .. _configurazione_mudlet:
@@ -27,7 +27,7 @@ default è ``;;``, alcuni preferiscono ``;`` e questa opzione può essere config
 .. _configurazione_leu:
 
 Configurazione LeU
----------------------
+------------------
 
 Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
 

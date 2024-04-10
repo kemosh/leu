@@ -26,3 +26,4 @@ Contents
 .. toctree::
 
    getting_started
+   servizi
