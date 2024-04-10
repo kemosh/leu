@@ -1,7 +1,7 @@
 Lumen et Umbra MUD
 ===================================
 
-.. figure:: /images/leu.png
+.. figure:: images/leu.png
   :align: center
   :scale: 100%
   :alt: LeU login screen
