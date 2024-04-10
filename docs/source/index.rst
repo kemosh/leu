@@ -1,5 +1,5 @@
-Lumen et Umbra Documentation
-=============================
+Lumen et Umbra - Documentazione
+===============================
 
 .. figure:: images/leu.png
   :align: center

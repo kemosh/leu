@@ -6,16 +6,32 @@ Getting Started
 Come Connettersi
 ----------------
 
-Per accedere al gioco è necessrio connettersi con un client telnet all'indirizzo: mclmud.mclink.it:6000. E' possibile usare un qualunque client telned ma questo renderà le cose più difficili, per godere meglio l'esperienza ludica è consigliato usare un client dedicato come `Mudlet <https://www.mudlet.org/it/>`_, uno dei pochi attivamente mantenuto e sviluppato.
-
-To use Lumache, first install it using pip:
+Per accedere al gioco è necessrio connettersi con un client telnet all'indirizzo: 
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   mclmud.mclink.it:6000
 
-Creating recipes
-----------------
+E' possibile usare un qualunque client telnet, ma questo renderà le cose più difficili, per godere meglio
+l'esperienza ludica è opportuno usare un client dedicato come `Mudlet <https://www.mudlet.org/it/>`_,
+uno dei pochi attivamente mantenuto e sviluppato.
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+.. _configurazione_mudlet:
+
+Configurazione Mudlet
+---------------------
+
+Bisogna creare un profilo dedicato, fare attenzione ad alcune opzioni come il separatore di riga che di
+default è ";;", alcuni preferiscono ";" e questa opzione può essere configurata. 
+
+.. _configurazione_leu:
+
+Configurazione Mudlet
+---------------------
+
+Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
+
+- Prompt
+- Colori
+- Autoexits
+- Compact Combat
