@@ -8,7 +8,8 @@ https://leu.readthedocs.io/it/latest/
 On local machine follow this steps to clone repository and genrate documentation:
 
 - clone repository:
-  git clone https://github.com/kemosh/leu
+  .. code-block:: console
+    git clone https://github.com/kemosh/leu
 - install python requirements:
   pip install -r requirements.txt
 - run sphinx:
