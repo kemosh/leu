@@ -1,9 +1,10 @@
 Lumen et Umbra MUD
 ===================================
 
-.. image:: ../images/leu.png
-  :width: 400
-  :alt: Alternative text
+.. figure:: /images/leu.png
+  :align: center
+  :scale: 100%
+  :alt: LeU login screen
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
