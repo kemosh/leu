@@ -77,7 +77,7 @@ Riparazione Equipaggiamento
 * path per **Iwaldur** da *Alma Civitas* (oggetti di basso livello):
   ``s;e;e;n``
 * path per **Plutarco** da *Alma Civitas* (ripara tutto):
-  ``astral;``
+  ``astral;u;n;w;w;n;u;w;u;u;enter spe;``
 
 Localizzazione oggetti
 ----------------------
@@ -88,7 +88,7 @@ Localizzazione oggetti
 Allania
 -------
 Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
-è possibile comprare oggetti quest e ingredienti.
+è possibile comprare oggetti quest, ingredienti e fare varie conversioni.
 
 * path per andare all'intersezione delle gallerie:
   ``astral;u;n;w;w;n;u;w;u;u;w;d;w;s;s;s;s;w;w;w;w;d;d``
