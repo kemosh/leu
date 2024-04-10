@@ -64,12 +64,15 @@ Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili
  
 Maestri Gilde
 -------------
+In *Via delle Gilde* si trovano i maestri per i bassi livelli.
 
 Identificazione Equipaggiamento
 -------------------------------
+Questo servizio è offerto da Gnosh, path da *Alma Civitas*: ``s;e;e;s;s``
 
 Riparazione Equipaggiamento
 ---------------------------
+Per gli oggetti di basso livello il servizio è offerto ad *Alma Civitas*
 
 Allania
 -------
