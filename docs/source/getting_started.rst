@@ -22,11 +22,11 @@ Configurazione Mudlet
 ---------------------
 
 Bisogna creare un profilo dedicato, fare attenzione ad alcune opzioni come il separatore di riga che di
-default è `;;`, alcuni preferiscono `;` e questa opzione può essere configurata. 
+default è ``;;``, alcuni preferiscono ``;`` e questa opzione può essere configurata. 
 
 .. _configurazione_leu:
 
-Configurazione Mudlet
+Configurazione LeU
 ---------------------
 
 Ci sono alcune importanti configurazioni che vanno impostate nel gioco:

@@ -13,23 +13,8 @@ e poi sviluppato fino a diventare completamente indipendete sia per struttura di
 Attualmente gestito e mantenuto da **Archie**.
 
 Questo progetto ha lo scopo di raccogliere le meccaniche di gioco e tutte le informazioni utili per
-addentrarsi e orientarsi nel mondo di LeU. Consulta :doc:`getting_started` per iniziare.
-
-- **LeU LIVE**: mclink.mclmud.it:6000 (versione corrente del gioco)
-- LeU Prova: ... (versione di prova della futura evoluzione)
-
-Consulta 
-
-`CNN <https://dikumud.com/>`_
-mclink.mclmud.it
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API. Prova.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+addentrarsi e orientarsi nel mondo di LeU. Consulta :doc:`getting_started` per iniziare e in particolare
+la sezione :ref:`connessione` per connetersi al gioco.
 
 .. note::
 
