@@ -98,7 +98,7 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   ``exa prima | seconda | ... | quinta``
 * path per **Tarr** (vende il **cristallo crono-traslazione**), dall'intersezione
   delle gallerie: ``n;e;e;n;u;u;e;e;e;n``
-* path per viaggiatori (oggetti speciali), bisogna avere 
+* path per **Viaggiatori** (oggetti speciali), bisogna avere 
   il cristallo della crono-traslazione in inventario,
   poi dall'intersezione delle gallerie:
   ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
