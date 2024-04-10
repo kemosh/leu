@@ -14,6 +14,7 @@ prolungato. ``Giulietta`` offre questo servizio ad Alma Civitas, ma non è l'uni
 Astral e Portal
 ---------------
 Sono due metodi di viaggio veloce, questi servizi sono offerti da ``Zryon`` nella *Gilda dei Viaggiatori*:
+
 - path da *Alma Civitas*: ``s;s;e;e;n``
 - astral: ``ask Zryon astral``
 - portal: ``ask Zryon portal nome_mob``
@@ -21,6 +22,7 @@ Sono due metodi di viaggio veloce, questi servizi sono offerti da ``Zryon`` nell
 Banca
 -----
 Qui è possibile depositare soldi e ingredienti:
+
 - path da *Alma Civitas*: ``s;e;e;e;s``
 - bilancio: ``balance``
 - deposita: ``deposit``
@@ -30,22 +32,44 @@ Qui è possibile depositare soldi e ingredienti:
 Maestri Abilità Secondarie
 --------------------------
 Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal:
+
 - ``Maestro Ninja``
+  Si trova lungo la via del mare ad ovest di Alma.
+
   - cavalcare
   - sfondare porte
   - scassinare
-  Si trova lungo la via del mare ad ovest di Alma.
+
 - ``Marinaio di Alma``
+
   - nuotare
+
 - ``Cacciatore``
+
   - cacciare
   - primo soccorso
+
 - ``Occhio di Falco``
+
   - spot
+
 - ``Saggio di Mordilnia``
+  per il portal usare la key ``11.saggio``
+
   - cerca
   - leggere il magico
   - linguaggio dei segni
   - linguaggi vari
   - lore
-  per il portal usare la key ``11.saggio``
+ 
+Maestri Gilde
+-------------
+
+Identificazione Equipaggiamento
+-------------------------------
+
+Riparazione Equipaggiamento
+---------------------------
+
+Allania
+-------
