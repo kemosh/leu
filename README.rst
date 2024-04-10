@@ -1,13 +1,14 @@
 LeU Documentation
 =======================================
 
-LeU Documentation is based on ReadTheDocs and GitHub. For every push to master branch a new documentation version is generate on ReadTheDocs and can be accessed using this link:
+LeU Documentation is based on ReadTheDocs and GitHub. When push/merge on master is done, new documentation version is generated on ReadTheDocs and can be accessed using this link:
 
-Check DOCS: https://leu.readthedocs.io/it/latest/
+https://leu.readthedocs.io/it/latest/
 
 On local machine follow this steps to clone repository and genrate documentation:
 
-- git clone
+- clone repository:
+  git clone https://github.com/kemosh/leu
 - install python requirements:
   pip install -r requirements.txt
 - run sphinx:
