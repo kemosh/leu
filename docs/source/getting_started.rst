@@ -22,7 +22,7 @@ Configurazione Mudlet
 ---------------------
 
 Bisogna creare un profilo dedicato, fare attenzione ad alcune opzioni come il separatore di riga che di
-default è ``;;``, alcuni preferiscono ``;`` e questa opzione può essere configurata. 
+default è ``;;``, mentre alcuni preferiscono ``;``, questa opzione può essere configurata a piacere. 
 
 .. _configurazione_leu:
 
