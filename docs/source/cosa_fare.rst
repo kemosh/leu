@@ -21,6 +21,10 @@ Quest di Irisidel
 -----------------
 Vedi :ref:`accademia_quest`.
 
+Quest
+-----
+Vedi :doc:`/quest/quest`
+
 Boss
 ----
 
