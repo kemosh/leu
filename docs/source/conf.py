@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',
+    'rst2pdf.pdfbuilder',
 ]
 
 intersphinx_mapping = {
@@ -33,3 +34,8 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Options for PDF output
+pdf_name = project
+pdf_doc_title = project
+pdf_documents = [('index', pdf_name, pdf_doc_title, author)]
