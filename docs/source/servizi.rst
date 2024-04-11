@@ -6,7 +6,8 @@ Rent
 Ogni personoggio deve affittare una camera e pagare l'affitto. L'affitto base è fissato a 10 monete d'oro 
 al giorno (tempo reale), alcuni oggetti hanno un costo di rent ed incrementato il conto, alcuni oggetti
 sono **NO RENT** e scompariranno dall'inventario del personaggio in caso di disconnessione per un tempo
-prolungato. **Giulietta** offre questo servizio ad Alma Civitas, ma non è l'unica.
+prolungato. **Giulietta** offre questo servizio ad Alma, presso la *Reception* della *Taberna Viatoris*,
+ma non è l'unica.
 
 - preventivo: ``offer``
 - affitta camera: ``rent``
