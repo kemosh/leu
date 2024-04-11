@@ -25,7 +25,7 @@ Boss
 ----
 
 * :ref:`Boss dell'Accademia Astrale <accademia_boss>`
-* :doc:`getting_started`
+* :doc:`erranti`
 
 Invasioni
 ---------

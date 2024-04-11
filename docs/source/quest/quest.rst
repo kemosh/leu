@@ -2,10 +2,19 @@ Quest
 =====
 Si dividino in 5 livelli.
 
-Quest Livello 1
----------------
+.. table::
+   :align: left
+   :widths: auto
+   
+   ================================== ====== ==========
+   Quest                              Note   Repop time                                    
+   ================================== ====== ==========
+   `Google <https://www.google.com>`_        no repop
+   :doc:`tirck`             
+   `CNN <https://www.cnn.com>`_       
+   ================================== ====== ==========
 
-.. list-table:: Title
+.. list-table:: Livello 1
    :widths: 25 25 50
    :header-rows: 1
 
@@ -49,7 +58,7 @@ Quest Livello 1
      - 
      - 90 min
 
-   * - :doc:`getting_started`
+   * - :doc:`/getting_started`
      - 
      - 150 min
 
