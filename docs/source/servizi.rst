@@ -28,7 +28,8 @@ Qui è possibile depositare soldi e ingredienti:
 - bilancio: ``balance``
 - deposita: ``deposit``
 - ritira: ``withdraw``
-- visualizza cassetta (ingredienti): ``cassetta`` oppure ``cassetta x`` per una specifica pagina
+- visualizza cassetta (ingredienti): ``cassetta`` oppure ``cassetta NUMERO`` 
+  per una specifica pagina (inserire un numero da 1 a 5)
 
 Maestri Abilità Secondarie
 --------------------------
