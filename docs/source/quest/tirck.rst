@@ -56,7 +56,8 @@ se si viene presi mentre si passa la matrice inizierà a evocare mob.
 
 - vai tutto west
 - ``unlock n;open n;n;get chiave disco;unlock passaggio;open passaggio``
-- impugnare il falcetto, la prossima stringa tenterà di saltare la **Matrice di Evocazione**
+- impugnare il falcetto, la prossima stringa tenterà di saltare la
+  **Matrice di Evocazione**
 - ``n;cut nebbia;turn vortice;d;get cube ucis;u;u``
 - ``s;e;e;n;open alchimia;n;e``
 
@@ -75,9 +76,8 @@ Cupola
 Si parte dalla Cupola che è una stanza safe, è possibile tornare alla Cupola
 da qualunque locazione con: ``run s; run e;n;e``
 
-- cercare i 6 frammenti procedendo per colonne (w tutto sud o nord, ancora w e
-  tutto nord o sud, etc) e uccidendo i mob e cercando i **frammenti di mithril**
-  nei cadaveri
+- cercarere 6 **frammenti di mithril** procedendo per colonne (w tutto sud o nord, ancora w e
+  tutto nord o sud, etc), uccidendo i mob e recuperando i frammenti dai cadaveri
 - tornare alla stanza safe: ``run s;run e;n;e``
 
 Stanza Finale con Premio

@@ -68,7 +68,7 @@ Ci sono 3 boss che posso essere affrontati per ottenere oggetti e preziosi ingre
     e attaccarlo di continuo cercando di non dargli tregua, altrimenti si curerà 
     (2500 HP di cura). Per vincere bisogna riuscire a fare almeno 1000-1200 HP di danno
     a round.
-  | Premi: **barcciale angeli** o **barcciale demoni**, **cuore** (da aprire per ricevere gemme)
+  | Premi: **bracciale angeli** o **bracciale demoni**, **cuore** (da aprire per ricevere gemme)
 
 * | **Azidahaka**
   | Per affrontare questo boss...
