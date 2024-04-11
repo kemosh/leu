@@ -14,16 +14,24 @@ Requisiti
 * **pala** o arma/oggetto con flag **dig**
 * **falcetto** o arma/oggetto con flag **cut**
 
+Premi
+-----
+* oggetti vendibili per un totale di 200-250 mdc
+* lingotti e frammenti
+* sacchetti d'oro e platino
+* sesterzio di bronzo
+
 Inizio
 ------
 Si trova a nord di Talonia (dal centro della piazza andare tutto North, arrivati 
 alla prateria cercare la locazione con la P grande e proseguire verso quell’uscita. 
-Fare lift ramo e proseguire verso .2n push cancello .4ws)
+Fare lift ramo e proseguire verso .2n push cancello .4ws), ma ci si può arrivare
+anche portalando su **Cane Briciola**.
 
 - portal cane-briciola
-- andare nella scuola di Tirk: ``e;open south;s``
-- impugna pala: ``turn tempo;d;dig passaggio;d``
-- uccidi il **Guardiano**
+- andare nella *Scuola di Tirck*: ``e;open south;s``
+- impugnare la pala: ``turn tempo;d;dig passaggio;d``
+- uccidere il **Guardiano**
 - ``get armatura guardiano;unlock down;open down;d;d``
 
 Cubetto GIALLO
@@ -48,7 +56,7 @@ se si viene presi mentre si passa la matrice inizierà a evocare mob.
 
 - vai tutto west
 - ``unlock n;open n;n;get chiave disco;unlock passaggio;open passaggio``
-- impugna falcetto, la prossima stringa tenterà di saltare la **Matrice**
+- impugnare il falcetto, la prossima stringa tenterà di saltare la **Matrice di Evocazione**
 - ``n;cut nebbia;turn vortice;d;get cube ucis;u;u``
 - ``s;e;e;n;open alchimia;n;e``
 
@@ -67,10 +75,10 @@ Cupola
 Si parte dalla Cupola che è una stanza safe, è possibile tornare alla Cupola
 da qualunque locazione con: ``run s; run e;n;e``
 
-- cerca i 6 frammenti procedendo per colonne (w tutto sud o nord, ancora w e
+- cercare i 6 frammenti procedendo per colonne (w tutto sud o nord, ancora w e
   tutto nord o sud, etc) e uccidendo i mob e cercando i **frammenti di mithril**
   nei cadaveri
-- torna stanza safe: ``run s;run e;n;e``
+- tornare alla stanza safe: ``run s;run e;n;e``
 
 Stanza Finale con Premio
 ------------------------
@@ -83,5 +91,5 @@ Stanza Finale con Premio
 
 Uscita
 ------
-- impugna pala
+- impugnare la pala
 - ``d;s;u;u;dig parete;w;dig passaggio;u;turn stalla;n``
