@@ -4,29 +4,29 @@ Cosa Fare
 Aree XP
 -------
 
-* Colosseo
-* Magione Ducale
+* | **Colosseo**
+  | path da *Alma Civitas*:
+
+* | **Magione Ducale**
+  | path da *Alma Civitas*:
+
+* | **Terme di Alma**
+  | path da *Alma Civitas*:
 
 Dungeon
 -------
-Vedi :ref:`accademia_dungeon`
+Vedi :ref:`accademia_dungeon`.
 
 Quest di Irisidel
 -----------------
-Vedi :ref:`Quest di Irisidel <accademia_quest>`
+Vedi :ref:`accademia_quest`.
 
 Boss
 ----
 
-* Boss dell'Accademia Astrale
-* Erranti
+* :ref:`Boss dell'Accademia Astrale <accademia_boss>`
+* :doc:`getting_started`
 
 Invasioni
 ---------
-Le invasioni sono degli eventi casuali che si verificano in un'area 
-e trasmormano tutti i mob in *Grottesche*, versioni potenziate che
-pagano **frammenti di ethereum** e **frammenti iridiscenti**. I frammenti
-di ethereum possono essere mangiati (``eat frammento-eth``), i frammenti
-iridescenti possono essere uniti per formare semisfere e poi sfere iridescenti.
-Nell'area compaiono anche dei **Luogotenenti del Caos** e un portale **Squarcio**
-che da accesso ad una zona temporanea dove ci sono altri mob e ingredienti.
+Vedi :doc:`invasioni`.

@@ -31,3 +31,7 @@ Contents
    servizi
    cosa_fare
    accademia_astrale
+   erranti
+   quest
+
+

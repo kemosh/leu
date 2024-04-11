@@ -67,10 +67,10 @@ In *Via delle Gilde* si trovano i maestri per i bassi livelli.
 
 Identificazione Equipaggiamento
 -------------------------------
-Questo servizio è offerto ad Alma da Gnosh.
+Questo servizio è offerto ad Alma da **Gnosh**.
 
 * path da *Alma Civitas*: ``s;e;e;s;s``
-* comando: ``give NOME_OGGETTO gnosh``
+* comando: ``give OGGETTO gnosh``
 
 Riparazione Equipaggiamento
 ---------------------------
@@ -84,7 +84,7 @@ Localizzazione oggetti
 ----------------------
 
 * path da *Alma Civitas*: ``s;s;e;e;e``
-* comando: ``whisper gitana NOME_OGGETTO``
+* comando: ``whisper gitana OGGETTO``
 
 Allania
 -------
