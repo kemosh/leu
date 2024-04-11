@@ -1,16 +1,19 @@
 Cosa Fare
 =========
 
-Aree XP per i Primi Livelli
----------------------------
+Aree XP
+-------
 
 * Colosseo
 * Magione Ducale
 
-Accademia Astrale
-------------------------------
+Dungeon
+-------
+Vedi :ref:`accademia_dungeon`
 
-* path da *Alma Civitas*:
+Quest di Irisidel
+-----------------
+Vedi :ref:`Quest di Irisidel <accademia_quest>`
 
 Boss
 ----

@@ -30,3 +30,4 @@ Contents
    getting_started
    servizi
    cosa_fare
+   accademia_astrale
