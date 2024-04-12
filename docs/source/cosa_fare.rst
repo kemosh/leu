@@ -23,12 +23,12 @@ Vedi :ref:`accademia_quest`.
 
 Quest
 -----
-Vedi :doc:`/quest/quest`
+Vedi :doc:`quest`
 
 Boss
 ----
 
-* :ref:`Boss dell'Accademia Astrale <accademia_boss>`
+* :ref:`accademia_boss`
 * :doc:`erranti`
 
 Invasioni

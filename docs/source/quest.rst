@@ -20,11 +20,6 @@ Livello 1
    GIORNI DEL TEMPO                          90 min
    MAGMA                                     90 min
    HUMA                                      90 min
-   :doc:`tirck`                              150 min
+   :doc:`quest/tirck`                        150 min
    COSTANTINOPOLI (2)                        no repop
    ================================== ====== ==========
-
-
-
-.. include:: tirck.rst
-

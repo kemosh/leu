@@ -35,3 +35,24 @@ Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
 - Colori
 - Autoexits
 - Compact Combat
+
+Scopo del Gioco
+---------------
+LeU è un gioco persistente, si crea un personaggio, scegliendo tra le molte opzioni
+possibili, per poi farlo crescere e diventare sempre più potente in modo da affrontare
+e sconfiggere creature leggendarie, sempre più forti. Idealmente per ogni combattimento
+vinto si guadagna qualcosa (**punti esperienza**, **equipaggiamento**, **gemme**, etc.)
+che può essere utile a personalizzare e potenziare il proprio alter ego, i potenziamenti
+permetteranno di affrontare nuove sfide in aree prima inaccessibili, riuscendo a 
+battere creature che prima era impensabile solo avvicinare.
+Inevitabilmente a volte il proprio personaggio sarà sconfitto e la morte porterà a una
+perdita di risorse (punti esperienze e danneggiamento dell'equipaggiamento), che
+comunque sarà facile recuperare.
+Oltre alla libera eplorazione, ci sono eventi particolari, come le quest, che saranno
+disponibili a intervalli regolari o riappariranno dopo un certo tempo dall'ultimo
+completamento.
+Tutte le fide possono essere affrontate in solitaria e in gruppo.
+**La crescita e il potenziamento del proprio personaggio è l'elemento cardine del
+gioco** e gran parte del potenziamento sarà legato al reperimento e allo sviluppo
+dell'equipaggiamento.
+Vedi le meccaniche di gioco.

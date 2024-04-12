@@ -5,20 +5,12 @@ Rent
 ----
 Ogni personoggio deve affittare una camera e pagare l'affitto. L'affitto base è fissato a 10 monete d'oro 
 al giorno (tempo reale), alcuni oggetti hanno un costo di rent ed incrementato il conto, alcuni oggetti
-sono **NO RENT** e scompariranno dall'inventario del personaggio in caso di disconnessione per un tempo
+sono **NORENT** e scompariranno dall'inventario del personaggio in caso di disconnessione per un tempo
 prolungato. **Giulietta** offre questo servizio ad Alma, presso la *Reception* della *Taberna Viatoris*,
 ma non è l'unica.
 
 - preventivo: ``offer``
 - affitta camera: ``rent``
-
-Astral e Portal
----------------
-Sono due metodi di viaggio veloce, questi servizi sono offerti da **Zryon** nella *Gilda dei Viaggiatori*:
-
-- path da *Alma Civitas*: ``s;s;e;e;n``
-- astral: ``ask Zryon astral``
-- portal: ``ask Zryon portal nome_mob``
 
 Banca
 -----
@@ -29,11 +21,12 @@ Qui è possibile depositare soldi e ingredienti:
 - deposita: ``deposit``
 - ritira: ``withdraw``
 - visualizza cassetta (ingredienti): ``cassetta`` oppure ``cassetta NUMERO`` 
-  per una specifica pagina (inserire un numero da 1 a 5)
+  per una specifica pagina (con NUMERO = 1, .., 5)
 
 Maestri Abilità Secondarie
 --------------------------
-Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal:
+Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal e la key è
+tra parentesi:
 
 - **Maestro Ninja** (``maestro-ninja``):
 
@@ -81,11 +74,20 @@ Riparazione Equipaggiamento
 * path per **Plutarco** da *Alma Civitas* (ripara tutto):
   ``astral;u;n;w;w;n;u;w;u;u;enter spe;``
 
-Localizzazione oggetti
+Localizzazione Oggetti
 ----------------------
 
 * path da *Alma Civitas*: ``s;s;e;e;e``
 * comando: ``whisper gitana OGGETTO``
+
+Localizzazione Lingotti
+-----------------------
+I lingotti (incluse le pietre) si trovano nei tesori delle quest e in alcune
+**scatole nere** che appaiono a caso addosso ad alcuni mob. È possibile
+individuare quali mob hanno la scatola chidendo al **vacchietto**:
+
+* path da *Alma Civitas*: ``s;s;e;e;s``
+* comando: ``ask vecchietto ingredienti``
 
 Allania
 -------
@@ -97,7 +99,7 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
 * path per tornare dall'intersezione delle gallerie:
   ``w;s;s;e;s;enter portale``
 * per esaminare i servizi, dall'intersezione delle gallerie:
-  ``exa prima | seconda | ... | quinta``
+  ``exa NUMERO``, con NUMERO = prima, ..., quinta
 * path per **Tarr** (vende il **cristallo crono-traslazione**), dall'intersezione
   delle gallerie: ``n;e;e;n;u;u;e;e;e;n``
 * path per **Viaggiatori** (oggetti speciali), bisogna avere 
@@ -105,3 +107,18 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   poi dall'intersezione delle gallerie:
   ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
 
+Astral e Portal
+---------------
+Sono due metodi di viaggio veloce, questi servizi sono offerti da **Zryon** nella
+*Gilda dei Viaggiatori*:
+
+- path da *Alma Civitas*: ``s;s;e;e;n``
+- astral: ``ask Zryon astral``
+- portal: ``ask Zryon portal nome_mob``
+
+Aviani Elfici
+-------------
+È un metodo di trasporto, si aspettano gli aviani, si sale e si scende alla fermata
+desiderata.
+
+- path da *Alma Civitas*: ``s;e;e;e;e;e;e;e;s;u``

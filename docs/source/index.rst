@@ -39,23 +39,23 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
    :caption: Main
    :maxdepth: 2
+   :hidden:
 
    getting_started
+   meccaniche
    servizi
    cosa_fare
    accademia_astrale
    erranti
    invasioni
+   quest
    
 .. toctree::
-   :caption: Quests
+   :caption: Quest
    :maxdepth: 2
    :hidden:
 
-   quest/quest
+   quest/tirck

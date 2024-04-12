@@ -48,12 +48,12 @@ Portalabile.
 
 Quartieri Privati
 -----------------
-Zona molto pericolosa.
+Zona molto pericolosa, qui si trova la **cabina** che permette di incrementare il **cap di ethereum** del proprio personaggio.
 
 .. _accademia_boss:
 
-Boss
-----
+Boss dell'Accademia Astrale
+---------------------------
 Ci sono 3 boss che posso essere affrontati per ottenere oggetti e preziosi ingredienti.
 
 * | **Atramedai**
