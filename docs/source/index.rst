@@ -43,6 +43,8 @@ Contents
 --------
 
 .. toctree::
+   :caption: Main
+   :maxdepth: 2
 
    getting_started
    servizi
@@ -50,7 +52,10 @@ Contents
    accademia_astrale
    erranti
    invasioni
+   
+.. toctree::
+   :caption: Quests
+   :maxdepth: 2
+   :hidden:
+
    quest/quest
-   quest/tirck
-
-

@@ -23,3 +23,8 @@ Livello 1
    :doc:`tirck`                              150 min
    COSTANTINOPOLI (2)                        no repop
    ================================== ====== ==========
+
+
+
+.. include:: tirck.rst
+
