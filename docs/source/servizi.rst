@@ -21,7 +21,7 @@ Qui è possibile depositare soldi e ingredienti:
 - deposita: ``deposit``
 - ritira: ``withdraw``
 - visualizza cassetta (ingredienti): ``cassetta`` oppure ``cassetta NUMERO`` 
-  per una specifica pagina (con NUMERO = 1, .., 5)
+  per una specifica pagina, con ``NUMERO = 1, ..., 5``
 
 Maestri Abilità Secondarie
 --------------------------
@@ -99,7 +99,7 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
 * path per tornare dall'intersezione delle gallerie:
   ``w;s;s;e;s;enter portale``
 * per esaminare i servizi, dall'intersezione delle gallerie:
-  ``exa NUMERO``, con NUMERO = prima, ..., quinta
+  ``exa NUMERO``, con ``NUMERO = prima, ..., quinta``
 * path per **Tarr** (vende il **cristallo crono-traslazione**), dall'intersezione
   delle gallerie: ``n;e;e;n;u;u;e;e;e;n``
 * path per **Viaggiatori** (oggetti speciali), bisogna avere 
