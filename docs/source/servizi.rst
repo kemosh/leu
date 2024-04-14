@@ -122,3 +122,26 @@ Aviani Elfici
 desiderata.
 
 - path da *Alma Civitas*: ``s;e;e;e;e;e;e;e;s;u``
+
+
+Thor: La Forgia degli Dei
+-------------------------
+Nella forgia di **Thor** è possibile creare vari oggetti. Come raggiungere la forgia:
+
+- portal ``topo-deserto`` e down fino a *La Base della Piramide*
+- ``n;n;n;e;e;e;e;e;u;u;u;e;d;e;e``
+- uccidi **RockHound** e poi ``get chiave-pietra cad``
+- ``unlock fessura;open fessura;e;pull stalagmite;n``
+- attendere teleport
+- ``say raido``
+
+A questo punto ci si trova davanti a **Thor**, per il processo di creazione:
+
+- ``ask thor sfere``, **Thor** dirà di mettere le sfere nella fornace
+- mettere gli ingredienti nella ``fornace``
+- ``nod thor``
+
+Ricette Invasioni:
+
+- Simbolo di **Benem**: 4 amaranto, 2 smeraldo, 3 monili
+- Simbolo di **Hansolo**: 4 indaco, 2 ambra, 3 monili

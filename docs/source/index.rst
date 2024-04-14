@@ -28,7 +28,7 @@ Creato nel 1994 dal programmatore **Benem** (Emanuele Benedetti) e da
 **Joy** (Giuseppe Caggese), inizialmente come derivato del popolare
 `DikuMUD <https://dikumud.com/>`_ e poi sviluppato fino a diventare completamente
 indipendete sia per struttura di gioco che per contenuti.
-Attualmente gestito e mantenuto da **Archie**.
+Attualmente sviluppato, mantenuto e gestito da **Archie**.
 
 Questo progetto ha lo scopo di raccogliere le meccaniche di gioco e tutte le 
 informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
