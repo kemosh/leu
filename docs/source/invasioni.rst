@@ -95,6 +95,10 @@ Ecco un elenco delle possibili invasioni e come raggiungerle:
 * Fogne di Palanthas
 * Giganti dei Ghiacci
 * Fortezza Pennina
+
+  - zona 1: ``portal flaminio;s;e;e;e;e;s;e;e;d;d;e;u;u;n;u;e;n;n;w;u``
+  - zona 2: ``astral;n;u;u;n;w;w;n;u;e;ent spe``
+
 * Deserto del Sud
 * Lycantropia
 * Eldorado
