@@ -74,8 +74,8 @@ per i dettagli: ``help position``. Ecco le 5 procedure:
   | *difficoltà*: difficile
   | *procedura*: ?
 
-* | **???**
-  | *frase*: ``?``
+* | **Aura**
+  | *frase*: ``Rxacc..o..glxiyerete.. ymolzto piuy` diz quanto.. ..av..eyte yszemi..nayto``
   | *difficoltà*: difficile
   | *procedura*: ?
 
