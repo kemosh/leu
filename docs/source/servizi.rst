@@ -123,9 +123,11 @@ Bisogna prima essere in grado di individuare le trappole e poi poterle disarmare
 servono 2 oggetti:
 
 * **pergamena translucida**, da recitare per individuare il nome della trappola
+  
   - path per venditore, da *Allania*: ``...``
   
 * **attrezzi da scasso**, per disarmare, il disarm costa 5000 monete d'oro e lagga
+
   - path per venditore (**Heimslan** a *Mordilnia*): ``portal 11.saggio;w;w;w;w;;s;e``
 
 Sanctuary
