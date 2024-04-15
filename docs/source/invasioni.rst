@@ -1,7 +1,7 @@
 Invasioni
 =========
 Le invasioni sono degli eventi casuali che si verificano in un'area 
-e trasformano tutti i mob in **Grottesche**, versioni potenziate che
+e trasformano tutti i mob in **Grottesche**, versioni potenziate del MOB che
 pagano **frammenti di ethereum** e **frammenti iridiscenti**. I frammenti
 di ethereum possono essere mangiati, i frammenti iridescenti possono essere
 uniti per formare **semisfere iridescenti** e poi **sfere iridescenti**.
