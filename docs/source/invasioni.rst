@@ -24,21 +24,21 @@ Premi
   ``join sfera-amaranto sfera-iridescente``. La sfera iridescente verrà consumata
   e il colore sarà cambiato a caso
 * **concentrato di essenza caotica**: pagando 5K ethereum può essere scambiato
-  da Vitalik con un cristallo che può potenziare gli oggetti **NOEDIT**
+  da **Vitalik** con un cristallo che può potenziare gli oggetti **NOEDIT**
 * **pagina indecifrabile**: può essere data a **Kryo** per avere indizi su come
   usare gli ingredienti
 * **frammento di monile dorato**: con 10 frammenti in inventario usare il comando:
   (``join 1.frammento 2.frammento``), i 10 frammenti saranno uniti per formare
   un ``monile triangolare``
 * **frammento corrotto**: si trova negli squarci, addosso ai MOB di livello 53 e
-  56, è **NORENT**, può essere scambiato da **Vitalik** con un altro ingrediente
+  56, è **NORENT**, e può essere scambiato da **Vitalik** con un altro ingrediente
   random al costo di **50 eth**
 
 Vedi :ref:`forgia_di_thor` per la creazione degli **oggetti invasione**.
 
 Squarcio
 --------
-Questo portale appare durante un'invasione nella zona interessata, da accesso A
+Questo portale appare durante un'invasione nella zona interessata, da accesso a
 un'area temporanea (``enter squarcio``) che è anche una **zona di guerra**
 (quindi con pkill attivo, vedi ``help zona guerra``). Nello squarcio ci sono
 molti MOB con molti punti ferita e danno medio-basso, i mob di livello 53 e 56
@@ -50,14 +50,14 @@ Compaiono nella zona dell'invasione e non sono aggressivi. Hanno procedure
 particolari e una volta ingaggiati non è possibile scappare. Il tipo di procedura
 sarà evidente solo dopo l'ingaggio e si capisce da una frase pronunciata dal
 luogotenente. Ci sono 5 possibili procedure, tutte si basano sul muoversi in
-posizioni diverse della stanza durante il combattimento consultare l'help
+posizioni diverse della stanza durante il combattimento, consultare l'help
 per i dettagli: ``help position``. Ecco le 5 procedure:
 
 * | **Unione**
   | *frase*: ``L'unionxe fa.. ..la mortye.....``
   | *difficoltà*: facile
-  | *procedura*: usare il comando ``move`` per distribuire tutti in personaggi coinvolti
-  in posizioni diverse della stanza
+  | *procedura*: usare il comando ``move`` per distribuire tutti i personaggi coinvolti
+  | in posizioni diverse della stanza
 
 * | **Raggio**
   | *frase*: ``?``
@@ -104,3 +104,4 @@ Ecco un elenco delle possibili invasioni e come raggiungerle:
 * Deadhame
 * Magione Ducale
 * Sauria
+* Olimpo

@@ -134,7 +134,7 @@ Sanctuary
 parte delle abilità della propria classe, ecco come procurarselo:
 
 * **Scettro di Ravenloft**, ha 6 cariche, quando usato lancia sanctuary su tutti i
-  mob/giocatori nella stanza
+  presenti:
 
   - andare ad *Allania*, all'intersezione delle gallerie
   - andare da **Arren**: ``n;e;e;n;u;u;e;e;n``
@@ -142,7 +142,7 @@ parte delle abilità della propria classe, ecco come procurarselo:
     rivenduto per **70 mdc**
   - tornare: ``s;w;w;d;d;s;w;w;s``
 
-* **Scudo di Silver**, lancia sanctuary a piacere, ha un cooldown di 2 round
+* **Scudo di Silver**, lancia sanctuary a piacere, ha un cooldown di 2 round:
 
   - andare ad **Allania** e poi dai **Viaggiatori**, andare 2 volte a nord
   - comprare lo scudo e indossarlo
