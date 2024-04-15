@@ -28,7 +28,7 @@ nel caso comparirà il messaggio:
 
 Lo spell focus da 101% a 300% invece fornisce una possibilità di infliggere
 un colpo critico (0.25% per ogni punto oltre 100% di spell focus),
-nel caso comparirò il messaggio:
+nel caso comparirà il messaggio:
 
 ``Riesci criticamente a colpire MOB in un punto vitale!``
 
