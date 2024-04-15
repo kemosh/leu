@@ -14,7 +14,7 @@ Livello 1
    AMON                                      60 min
    KELEPHO                                   60 min
    TORRE DELLA MAGIA                         60 min
-   ANCALADOR                                 90 min
+   :doc:`quest/ancalador`                    90 min
    CYNIDICEA                                 90 min
    ELMINSTER                                 90 min
    GIORNI DEL TEMPO                          90 min

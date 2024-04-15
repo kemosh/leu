@@ -87,7 +87,7 @@ Localizzazione Oggetti
 Localizzazione Lingotti
 -----------------------
 I lingotti (incluse le pietre) si trovano nei tesori delle quest e in alcune
-**scatole nere laccata** che appaiono a caso addosso ad alcuni mob. È possibile
+**scatole nere laccate** che appaiono a caso addosso ad alcuni mob. È possibile
 individuare quali mob hanno la scatola chidendo al **vacchietto**:
 
 * path da *Alma Civitas*: ``s;s;e;e;s``
@@ -135,13 +135,15 @@ parte delle abilità della propria classe, ecco come procurarselo:
 
 * **Scettro di Ravenloft**, ha 6 cariche, quando usato lancia sanctuary su tutti i
   mob/giocatori nella stanza
+
   - andare ad *Allania*, all'intersezione delle gallerie
   - andare da **Arren**: ``n;e;e;n;u;u;e;e;n``
   - comprare lo scettro: ``buy 7``, costa **350 mdc** e, una volta scarico, può essere 
     rivenduto per **70 mdc**
   - tornare: ``s;w;w;d;d;s;w;w;s``
 
-* **Scudo di Silver**, lancia sanctuary a piacere, ha un cooldown di 2 RockHound
+* **Scudo di Silver**, lancia sanctuary a piacere, ha un cooldown di 2 round
+
   - andare ad **Allania** e poi dai **Viaggiatori**, andare 2 volte a nord
   - comprare lo scudo e indossarlo
   - usare il comando: ``silver``

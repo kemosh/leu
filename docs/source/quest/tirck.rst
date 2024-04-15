@@ -73,12 +73,13 @@ Cubetto VERDE
 
 Cupola
 ------
-Si parte dalla Cupola che è una stanza safe, è possibile tornare alla Cupola
-da qualunque locazione con: ``run s; run e;n;e``
+Si parte dalla *Cupola* che è una stanza safe, è possibile tornare alla Cupola
+da qualunque locazione con: ``run s;run e;n;e``
 
-- cercarere 6 **frammenti di mithril** procedendo per colonne (w tutto sud o nord, ancora w e
-  tutto nord o sud, etc), uccidendo i mob e recuperando i frammenti dai cadaveri
-- tornare alla stanza safe: ``run s;run e;n;e``
+- cercarere 6 **frammenti di mithril** procedendo per colonne (w, tutto sud o
+  nord, ancora w e tutto nord o sud, etc), uccidendo i mob e recuperando i 
+  frammenti dai cadaveri
+- tornare alla *Cupola*: ``run s;run e;n;e``
 
 Stanza Finale con Premio
 ------------------------
