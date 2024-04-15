@@ -25,14 +25,15 @@ Qui è possibile depositare soldi e ingredienti:
 
 Maestri Abilità Secondarie
 --------------------------
-Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal e la key è
-tra parentesi:
+Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal
+e la key è tra parentesi:
 
 - **Maestro Ninja** (``maestro-ninja``):
 
   - cavalcare
   - sfondare porte
   - scassinare
+  - spy
 
 - **Marinaio di Alma** (``marinaio-alma``):
 
@@ -57,7 +58,10 @@ tra parentesi:
  
 Maestri Gilde
 -------------
-In *Via delle Gilde* si trovano i maestri per i bassi livelli.
+In *Via delle Gilde* si trovano i maestri per i bassi livelli. Altri maestri di alto livello:
+
+* **Grenetta** per i maghi: ``astral u;n;w;n;enter spe;n;n;e;e;d;s;s;s;s;w;w;w;w;n;n;open w;w;open d;d;open d;d;open ea;e;s;s;e;e;e;open s;s``
+* **Ibn Sina** per i chierici: ``astral n;u;u;n;w;w;n;u;enter spe;e;n;e;s;u;e;e;d;w``
 
 Identificazione Equipaggiamento
 -------------------------------
@@ -94,18 +98,55 @@ Allania
 Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
 è possibile comprare oggetti quest, ingredienti e fare varie conversioni.
 
-* path per andare all'intersezione delle gallerie:
+* path per andare a *Un'intersezione tra le gallerie*:
   ``astral;u;n;w;w;n;u;w;u;u;w;d;w;s;s;s;s;w;w;w;w;d;d``
-* path per tornare dall'intersezione delle gallerie:
+* path per tornare da *Un'intersezione tra le gallerie*:
   ``w;s;s;e;s;enter portale``
-* per esaminare i servizi, dall'intersezione delle gallerie:
+* per esaminare i servizi, una volta arrivati a *Un'intersezione tra le gallerie*:
   ``exa NUMERO``, con ``NUMERO = prima, ..., quinta``
-* path per **Tarr** (vende il **cristallo crono-traslazione**), dall'intersezione
-  delle gallerie: ``n;e;e;n;u;u;e;e;e;n``
+* path per **Tarr** (vende il **cristallo crono-traslazione**), da
+  *Un'intersezione tra le gallerie*: ``n;e;e;n;u;u;e;e;e;n``
 * path per **Viaggiatori** (oggetti speciali), bisogna avere 
   il cristallo della crono-traslazione in inventario,
-  poi dall'intersezione delle gallerie:
+  poi da *Un'intersezione tra le gallerie*:
   ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
+
+Pick Lock
+---------
+Comprare la **bacchetta di quercia** da **Elvira** al costo di 28750 monete d'oro
+
+* path per **Elvira**: ``portal turista;e;n``
+
+Disarm Traps
+------------
+Bisogna prima essere in grado di individuare le trappole e poi poterle disarmare,
+servono 2 oggetti:
+
+* **pergamena translucida**, da recitare per individuare il nome della trappola
+  - path per venditore, da *Allania*: ``...``
+  
+* **attrezzi da scasso**, per disarmare, il disarm costa 5000 monete d'oro e lagga
+  - path per venditore (**Heimslan** a *Mordilnia*): ``portal 11.saggio;w;w;w;w;;s;e``
+
+Sanctuary
+---------
+È molto importante avere a disposizione l'incantesimo **sanctuary** anche se non fa
+parte delle abilità della propria classe, ecco come procurarselo:
+
+* **Scettro di Ravenloft**, ha 6 cariche, quando usato lancia sanctuary su tutti i
+  mob/giocatori nella stanza
+  - andare ad *Allania*, all'intersezione delle gallerie
+  - andare da **Arren**: ``n;e;e;n;u;u;e;e;n``
+  - comprare lo scettro: ``buy 7``, costa **350 mdc** e, una volta scarico, può essere 
+    rivenduto per **70 mdc**
+  - tornare: ``s;w;w;d;d;s;w;w;s``
+
+* **Scudo di Silver**, lancia sanctuary a piacere, ha un cooldown di 2 RockHound
+  - andare ad **Allania** e poi dai **Viaggiatori**, andare 2 volte a nord
+  - comprare lo scudo e indossarlo
+  - usare il comando: ``silver``
+  - per costo e dettagli: ``help scudi supremi``
+
 
 Astral e Portal
 ---------------

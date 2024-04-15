@@ -3,6 +3,34 @@ Meccaniche di Gioco
 
 Meccaniche base
 ---------------
+TBD
+
+Tiro per Colpire
+----------------
+Viene usato sia per gli attacchi fisici che per gli incantesimi, nel caso degli
+incantesimi viene usato solo per stabilire se l'attacco è particolarmente efficace,
+in entrami i casi comparirà il messaggio:
+
+``Riesci a scovare il punto debole di MOB e COLPISCI!``
+
+Spell Power
+-----------
+Viene fornito dalla razza, dall'intelligenza ma in massima parte dall'equipaggiamento.
+Da notare che la metà del tiro di dado dell'arma impugnata verrà sommata allo spell focus nel
+momento in cui viene lanciato un incantesiomo.
+
+Spell Focus
+-----------
+Lo spell focus da 1 a 100 è la probabilità di infliggere un danno aumentato del 20%,
+nel caso comparirà il messaggio:
+
+``La tua conoscenza della magia aumenta il danno dell'incantesimo!``
+
+Lo spell focus da 101% a 300% invece fornisce una possibilità di infliggere
+un colpo critico (0.25% per ogni punto oltre 100% di spell focus),
+nel caso comparirò il messaggio:
+
+``Riesci criticamente a colpire MOB in un punto vitale!``
 
 Riduzione Danno
 ---------------
