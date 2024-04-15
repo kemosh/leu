@@ -16,8 +16,8 @@ in entrami i casi comparirà il messaggio:
 Spell Power
 -----------
 Viene fornito dalla razza, dall'intelligenza ma in massima parte dall'equipaggiamento.
-Da notare che la metà del tiro di dado dell'arma impugnata verrà sommata allo spell focus nel
-momento in cui viene lanciato un incantesiomo.
+Da notare che la metà del tiro di dado dell'arma impugnata verrà sommato allo spell focus
+nel momento in cui viene lanciato un incantesiomo.
 
 Spell Focus
 -----------

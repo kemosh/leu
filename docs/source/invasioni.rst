@@ -13,7 +13,7 @@ Premi
 -----
 
 * **frammento di ethereum**: ogni frammento va mangiato (``eat frammento-eth``)
-  e fornisce **100 eth**, si trovano nei cadaveri delle **Grottesche**,
+  per ottenere **100 eth**, si trovano nei cadaveri delle **Grottesche** e
   sono **NORENT**
 * **frammento iridescente**: possono essere uniti in semisfere
   (``join 1.fra 2.fra``) e due semisfere possono essere unite per formare una
@@ -34,48 +34,60 @@ Premi
   56, è **NORENT**, può essere scambiato da **Vitalik** con un altro ingrediente
   random al costo di **50 eth**
 
+Vedi :ref:`forgia_di_thor` per la creazione degli **oggetti invasione**.
+
 Squarcio
 --------
 Questo portale appare durante un'invasione nella zona interessata, da accesso A
 un'area temporanea (``enter squarcio``) che è anche una **zona di guerra**
 (quindi con pkill attivo, vedi ``help zona guerra``). Nello squarcio ci sono
 molti MOB con molti punti ferita e danno medio-basso, i mob di livello 53 e 56
-hanno addosso **frammenti corrotti** e **frammenti di monile**
+hanno addosso **frammenti corrotti** e **frammenti di monile dorato**
 
 Luogotenenti del Caos
 ---------------------
 Compaiono nella zona dell'invasione e non sono aggressivi. Hanno procedure
 particolari e una volta ingaggiati non è possibile scappare. Il tipo di procedura
 sarà evidente solo dopo l'ingaggio e si capisce da una frase pronunciata dal
-luogotenente, ci sono 5 possibili procedure:
+luogotenente. Ci sono 5 possibili procedure, tutte si basano sul muoversi in
+posizioni diverse della stanza durante il combattimento consultare l'help
+per i dettagli: ``help position``. Ecco le 5 procedure:
 
 * | **Unione**
-  | frase: ``L'unionxe fa.. ..la mortye.....``
-  | difficoltà: facile
+  | *frase*: ``L'unionxe fa.. ..la mortye.....``
+  | *difficoltà*: facile
+  | *procedura*: usare il comando ``move`` per distribuire tutti in personaggi coinvolti
+  in posizioni diverse della stanza
 
 * | **Raggio**
-  | frase: ``?``
-  | difficoltà: medio
+  | *frase*: ``?``
+  | *difficoltà*: medio
+  | *procedura*: ?
 
 * | **Turbine**
-  | frase: ``Lz'et..exrno ..turbinare ..d..el dziso..rdinyez zvi ingzhixott..ira`...y``
-  | difficoltà: medio
+  | *frase*: ``Lz'et..exrno ..turbinare ..d..el dziso..rdinyez zvi ingzhixott..ira`...y``
+  | *difficoltà*: medio
+  | *procedura*: ?
 
 * | **Tremore**
-  | frase: ``?``
-  | difficoltà: difficile
+  | *frase*: ``?``
+  | *difficoltà*: difficile
+  | *procedura*: ?
 
 * | **???**
-  | frase: ``?``
-  | difficoltà: difficile
+  | *frase*: ``?``
+  | *difficoltà*: difficile
+  | *procedura*: ?
 
 Se non si segue la procedura si subisce danno mortale (3000 HP), invece seguire la 
 procedura permette di continuare a svolgere il combattimento subendo il normale danno.
 I Luogotenenti non hanno **dispel magic**, quindi l'incantesimo **sanctuary** è molto utile.
-Il nome dei luogotenenti cambia sempre ad ogni invasione.
+Il nome dei luogotenenti cambia sempre a ogni invasione, una volta sconfitti è possibile
+recuperare dai loro corpi: **frammenti di monile dorato**, **frammenti iridescenti** e
+**concentrati di essenza caotica**. 
 
-Invasioni
----------
+Possibili Invasioni
+-------------------
 Ecco un elenco delle possibili invasioni e come raggiungerle:
 
 * Scacchiera

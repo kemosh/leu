@@ -26,21 +26,24 @@ Dungeon
 -------
 I dungeon, divisi in **strappi liquidi** e **strappi stabili**, permettono di guadagnare:
 
-* eq dei dungeon che non fa parte di un set (NO_SET)
-* eq dei dungeon che fa parte di uno dei **set astrali**:
+* equipaggiamento astrale che **non** fa parte di un set (**NOSET**)
+* equipaggiamento astrale che fa parte di uno dei **set astrali**:
 
   * Guaritore dei Piani (caster, spell focus)
   * Manipolatore dei Piani (caster, spell power)
   * Difensore dei Piani (tank)
-  * Distruttore dei Piani
+  * Distruttore dei Piani (danno fisico)
+
 * gemme (bolle e globi astrali da aprire)
-* eq random (di solito di scarsa qualità)
+* equipaggiamento ordinario random (di solito di scarsa qualità, ma ai bassi livelli può
+  essere venduto per **mdc**)
 * monete (5 mdc) e dobloni (50 mdc)
 * una piccola quantità di **ethereum** e **mdc** all'uccisione del boss del dungeon
 
 Lothard
 -------
-Si trova sotto la piattaforma per accedere ai dungeon ed è anche portalabile.
+Si trova sotto la piattaforma per accedere ai dungeon ed è anche portalabile. permette
+di far salira il livello dell'equipaggiamento astrale spendento **astralite**.
 
 Vitalik
 -------
@@ -77,5 +80,3 @@ Ci sono 3 boss che posso essere affrontati per ottenere oggetti e preziosi ingre
 * | **Camael**
   | Per affrontare questo boss...
   | Premi: 2-4 **frammento entropico maggiore**
-
-
