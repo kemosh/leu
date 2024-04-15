@@ -31,7 +31,7 @@ Premi
   (``join 1.frammento 2.frammento``), i 10 frammenti saranno uniti per formare
   un ``monile triangolare``
 * **frammento corrotto**: si trova negli squarci, addosso ai MOB di livello 53 e
-  56, è **NORENT**, e può essere scambiato da **Vitalik** con un altro ingrediente
+  56, è **NORENT** e può essere scambiato da **Vitalik** con un altro ingrediente
   random al costo di **50 eth**
 
 Vedi :ref:`forgia_di_thor` per la creazione degli **oggetti invasione**.
