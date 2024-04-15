@@ -1,7 +1,7 @@
 Invasioni
 =========
 Le invasioni sono degli eventi casuali che si verificano in un'area 
-e trasmormano tutti i mob in **Grottesche**, versioni potenziate che
+e trasformano tutti i mob in **Grottesche**, versioni potenziate che
 pagano **frammenti di ethereum** e **frammenti iridiscenti**. I frammenti
 di ethereum possono essere mangiati, i frammenti iridescenti possono essere
 uniti per formare **semisfere iridescenti** e poi **sfere iridescenti**.
@@ -17,7 +17,7 @@ Premi
   sono **NORENT**
 * **frammento iridescente**: possono essere uniti in semisfere
   (``join 1.fra 2.fra``) e due semisfere possono essere unite per formare una
-  **sfera iridescente** (``join 1.semi 2.semi``). Dando in sequenza una sfere a
+  **sfera iridescente** (``join 1.semi 2.semi``). Dando in sequenza una sfera a
   **Vitalik** (vedi :doc:`accademia_astrale`) e spendendo in sequenza 
   3.5K, 7K, 14K ethereum, si ottiene una sfera colorata. E' possibile cambiare
   il colore di una sfera colorata usando una sfera iridescente, per esempio:
