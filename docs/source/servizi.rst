@@ -87,7 +87,7 @@ Localizzazione Oggetti
 Localizzazione Lingotti
 -----------------------
 I lingotti (incluse le pietre) si trovano nei tesori delle quest e in alcune
-**scatole nere** che appaiono a caso addosso ad alcuni mob. È possibile
+**scatole nere laccata** che appaiono a caso addosso ad alcuni mob. È possibile
 individuare quali mob hanno la scatola chidendo al **vacchietto**:
 
 * path da *Alma Civitas*: ``s;s;e;e;s``
