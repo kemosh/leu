@@ -129,6 +129,7 @@ servono 2 oggetti:
 * **attrezzi da scasso**, per disarmare, il disarm costa 5000 monete d'oro e lagga
 
   - path per venditore (**Heimslan** a *Mordilnia*): ``portal 11.saggio;w;w;w;w;;s;e``
+  - gli attrezzi da scasso hanno un costo di rent non riducibile di 500 monete d'oro
 
 Sanctuary
 ---------

@@ -52,6 +52,8 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    erranti
    invasioni
    quest
+   luoghi
+   gilde
    
 .. toctree::
    :caption: Quest
@@ -59,3 +61,4 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    :hidden:
 
    quest/tirck
+   quest/ancalador
