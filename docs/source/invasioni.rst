@@ -1,7 +1,7 @@
 Invasioni
 =========
 Le invasioni sono degli eventi casuali che si verificano in un'area 
-e trasmormano tutti i mob in **Grottesche**, versioni potenziate che
+e trasformano tutti i mob in **Grottesche**, versioni potenziate del MOB che
 pagano **frammenti di ethereum** e **frammenti iridiscenti**. I frammenti
 di ethereum possono essere mangiati, i frammenti iridescenti possono essere
 uniti per formare **semisfere iridescenti** e poi **sfere iridescenti**.
@@ -17,7 +17,7 @@ Premi
   sono **NORENT**
 * **frammento iridescente**: possono essere uniti in semisfere
   (``join 1.fra 2.fra``) e due semisfere possono essere unite per formare una
-  **sfera iridescente** (``join 1.semi 2.semi``). Dando in sequenza una sfere a
+  **sfera iridescente** (``join 1.semi 2.semi``). Dando in sequenza una sfera a
   **Vitalik** (vedi :doc:`accademia_astrale`) e spendendo in sequenza 
   3.5K, 7K, 14K ethereum, si ottiene una sfera colorata. E' possibile cambiare
   il colore di una sfera colorata usando una sfera iridescente, per esempio:
@@ -31,7 +31,7 @@ Premi
   (``join 1.frammento 2.frammento``), i 10 frammenti saranno uniti per formare
   un ``monile triangolare``
 * **frammento corrotto**: si trova negli squarci, addosso ai MOB di livello 53 e
-  56, è **NORENT**, e può essere scambiato da **Vitalik** con un altro ingrediente
+  56, è **NORENT** e può essere scambiato da **Vitalik** con un altro ingrediente
   random al costo di **50 eth**
 
 Vedi :ref:`forgia_di_thor` per la creazione degli **oggetti invasione**.
@@ -74,8 +74,8 @@ per i dettagli: ``help position``. Ecco le 5 procedure:
   | *difficoltà*: difficile
   | *procedura*: ?
 
-* | **???**
-  | *frase*: ``?``
+* | **Aura**
+  | *frase*: ``Rxacc..o..glxiyerete.. ymolzto piuy` diz quanto.. ..av..eyte yszemi..nayto``
   | *difficoltà*: difficile
   | *procedura*: ?
 
@@ -95,6 +95,10 @@ Ecco un elenco delle possibili invasioni e come raggiungerle:
 * Fogne di Palanthas
 * Giganti dei Ghiacci
 * Fortezza Pennina
+
+  - zona 1: ``portal flaminio;s;e;e;e;e;s;e;e;d;d;e;u;u;n;u;e;n;n;w;u``
+  - zona 2: ``astral;n;u;u;n;w;w;n;u;e;ent spe``
+
 * Deserto del Sud
 * Lycantropia
 * Eldorado
