@@ -24,7 +24,11 @@ Premi
   ``join sfera-amaranto sfera-iridescente``. La sfera iridescente verrà consumata
   e il colore sarà cambiato a caso
 * **concentrato di essenza caotica**: pagando 5K ethereum può essere scambiato
-  da **Vitalik** con un cristallo che può potenziare gli oggetti **NOEDIT**
+  da **Vitalik** con un cristallo che può potenziare gli oggetti **NOEDIT**.
+  E' possibile anche unire 10 concentrati per ottenere un cristallo senza pagare
+  eth, oppure unire due cristalli per ottenerne uno di diverso tipo (random).
+  Infine è possibile scambiare 3 cristalli qualsiasi con un **cristallo robusto**
+  da Archie. Il **cristallo robusto** aggiunge 5HP a uno slot HP ed è il più raro
 * **pagina indecifrabile**: può essere data a **Kryo** per avere indizi su come
   usare gli ingredienti
 * **frammento di monile dorato**: con 10 frammenti in inventario usare il comando:
