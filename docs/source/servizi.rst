@@ -104,7 +104,7 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   ``w;s;s;e;s;enter portale``
 * per esaminare i servizi, una volta arrivati a *Un'intersezione tra le gallerie*:
   ``exa NUMERO``, con ``NUMERO = prima, ..., quinta``
-* path per **Tarr** (vende il **cristallo crono-traslazione**), da
+* path per **Tarr** (vende il **cristallo della crono-traslazione**), da
   *Un'intersezione tra le gallerie*:
 
   - andata: ``n;e;e;n;u;u;e;e;e;n``
