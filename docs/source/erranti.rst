@@ -15,7 +15,7 @@ Erranti
   | dove trovarlo: vicino **Flaminio**
 
 * | **Uratha, il Teriantropo Alfa**
-  | messaggio: *Il signore dei licantropi si appresta a distruggere Alma*
+  | messaggio: *Il Signore dei Licantropi sta preparando i suoi eserciti per distruggere Alma!*
   | dove trovarlo: **Lycantropia**
   | note: ha 5 **Fenrir** come seguaci, se ferito si cura
 
