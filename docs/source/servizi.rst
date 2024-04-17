@@ -105,11 +105,17 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
 * per esaminare i servizi, una volta arrivati a *Un'intersezione tra le gallerie*:
   ``exa NUMERO``, con ``NUMERO = prima, ..., quinta``
 * path per **Tarr** (vende il **cristallo crono-traslazione**), da
-  *Un'intersezione tra le gallerie*: ``n;e;e;n;u;u;e;e;e;n``
+  *Un'intersezione tra le gallerie*:
+
+  - andata: ``n;e;e;n;u;u;e;e;e;n``
+  - ritorno: ``s;w;w;w;d;d;s;w;w;s``
+
 * path per **Viaggiatori** (oggetti speciali), bisogna avere 
   il cristallo della crono-traslazione in inventario,
   poi da *Un'intersezione tra le gallerie*:
-  ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
+
+  - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
+  - ritorno: ``w;w;w;w;w;d;d;s;w;w;s``
 
 Pick Lock
 ---------
