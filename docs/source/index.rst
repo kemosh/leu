@@ -47,6 +47,7 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    getting_started
    meccaniche
    servizi
+   evoluzione
    cosa_fare
    accademia_astrale
    erranti

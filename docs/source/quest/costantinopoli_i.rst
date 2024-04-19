@@ -8,8 +8,13 @@ Nessuno
 
 Premi
 -----
-* molte **monete d'argento**: sui MOB, può essere venduta per **mdc**
+* molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
 * 1-4 moneta con l'effige de **aquila**, **lupa**, **alloro**, **croce**
+
+Note
+----
+La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB in gran parte non dispellano
+ed è altamente consigliato avere **sanctuary**. Alcuni MOB caricano, l'effetto è un ``bash`` ad area.
 
 Inizio
 ------
