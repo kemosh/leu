@@ -1,6 +1,10 @@
 Erranti
 =======
 
+* | **Ancalagon, il Nero**
+  | messaggio: *signore dei draghi*
+  | dove: **Anxur**,  Goblin, alla Contea (Hobbit) o a Tirck
+
 * | **Ancalagon**
   | messaggio: *Il dio degli Orchi si appresta a guidare una terribile invasione*
   | dome trovarlo: **Tirck**

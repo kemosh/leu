@@ -37,6 +37,12 @@ Premi
 * **frammento corrotto**: si trova negli squarci, addosso ai MOB di livello 53 e
   56, è **NORENT** e può essere scambiato da **Vitalik** con un altro ingrediente
   random al costo di **50 eth**
+* **rocchetto di purissimo filo d'argento**: si trova sul **Boss dei Luogotenenti**,
+  serve per rendere gli oggetti **NOEDIT** e poi poter applicare i cristalli
+* **sfera di caos rutilante**: se holdata da delle penalità ma aumenta del 10% la
+  probabilità che un MOB si trasformi in **Grottesca**, è cumulabile con altri membri
+  del gruppo e questa probabilità è di suo aumentata del 10% durante un'invasione.
+  Se usata evoca il **Boss dei Luogotenenti**
 
 Vedi :ref:`forgia_di_thor` per la creazione degli **oggetti invasione**.
 
@@ -88,21 +94,22 @@ procedura permette di continuare a svolgere il combattimento subendo il normale 
 I Luogotenenti non hanno **dispel magic**, quindi l'incantesimo **sanctuary** è molto utile.
 Il nome dei luogotenenti cambia sempre a ogni invasione, una volta sconfitti è possibile
 recuperare dai loro corpi: **frammenti di monile dorato**, **frammenti iridescenti** e
-**concentrati di essenza caotica**. 
+**concentrati di essenza caotica**.
+
+Boss dei Luogotenenti
+---------------------
+Mentre i **Luogotenenti del Caos** sono di livello 61, questo mob, evocabile con la
+**sfera di caos rutilante**, è di livello 63.
 
 Possibili Invasioni
 -------------------
-Ecco un elenco delle possibili invasioni e come raggiungerle:
+Ecco un elenco delle possibili invasioni:
 
 * Scacchiera
 * Camelot
 * Fogne di Palanthas
-* Giganti dei Ghiacci
+* Giganti del Ghiaccio
 * Fortezza Pennina
-
-  - zona 1: ``portal flaminio;s;e;e;e;e;s;e;e;d;d;e;u;u;n;u;e;n;n;w;u``
-  - zona 2: ``astral;n;u;u;n;w;w;n;u;e;ent spe``
-
 * Deserto del Sud
 * Lycantropia
 * Eldorado
@@ -113,3 +120,5 @@ Ecco un elenco delle possibili invasioni e come raggiungerle:
 * Magione Ducale
 * Sauria
 * Olimpo
+
+Per il path consultare: :doc:`luoghi`
