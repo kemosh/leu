@@ -37,8 +37,9 @@ Premi
 * **frammento corrotto**: si trova negli squarci, addosso ai MOB di livello 53 e
   56, è **NORENT** e può essere scambiato da **Vitalik** con un altro ingrediente
   random al costo di **50 eth**
-* **rocchetto di purissimo filo d'argento**: si trova sul **Boss dei Luogotenenti**,
-  serve per rendere gli oggetti **NOEDIT** e poi poter applicare i cristalli
+* **rocchetto di purissimo filo d'argento**: si trova sul 
+  **Boss Luogotenenti del Caos**, serve per rendere gli oggetti **NOEDIT** e
+  poi poter applicare i cristalli
 * **sfera di caos rutilante**: se holdata da delle penalità ma aumenta del 10% la
   probabilità che un MOB si trasformi in **Grottesca**, è cumulabile con altri membri
   del gruppo e questa probabilità è di suo aumentata del 10% durante un'invasione.
@@ -102,9 +103,9 @@ Il nome dei luogotenenti cambia sempre a ogni invasione, una volta sconfitti è 
 recuperare dai loro corpi: **frammenti di monile dorato**, **frammenti iridescenti** e
 **concentrati di essenza caotica**.
 
-Boss dei Luogotenenti
----------------------
-Mentre i **Luogotenenti del Caos** sono di livello 61, questo mob, evocabile con la
+Boss Luogotenenti del Caos
+--------------------------
+Mentre i **Luogotenenti del Caos** sono di livello 61, questo MOB, evocabile con la
 **sfera di caos rutilante**, è di livello 63.
 
 Possibili Invasioni
