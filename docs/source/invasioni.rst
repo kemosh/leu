@@ -72,12 +72,14 @@ per i dettagli: ``help position``. Ecco le 5 procedure:
 * | **Raggio**
   | *frase*: ``?``
   | *difficoltà*: medio
-  | *procedura*: ?
+  | *procedura*: il MOB guarderà un punto della stanza e poi, il round successivo, lo colpirà
+     con un raggio, causando 1500 HP di danno a chiunque si trovi in quella posizione.
 
 * | **Turbine**
   | *frase*: ``Lz'et..exrno ..turbinare ..d..el dziso..rdinyez zvi ingzhixott..ira`...y``
   | *difficoltà*: medio
-  | *procedura*: ?
+  | *procedura*: il MOB creerà un turbine in un punto della stanza e poi, il round successivo,
+    ogni altro punto verrà investito dall'espansione del turbine, causando 1500 HP di danno.
 
 * | **Tremore**
   | *frase*: ``?``
