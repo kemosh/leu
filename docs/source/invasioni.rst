@@ -104,7 +104,7 @@ recuperare dai loro corpi: **frammenti di monile dorato**, **frammenti iridescen
 **concentrati di essenza caotica**.
 
 Boss Luogotenenti del Caos
----------------------
+--------------------------
 Mentre i **Luogotenenti del Caos** sono di livello 61, questo MOB, evocabile con la
 **sfera di caos rutilante**, è di livello 63.
 
