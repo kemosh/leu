@@ -102,9 +102,9 @@ Il nome dei luogotenenti cambia sempre a ogni invasione, una volta sconfitti è 
 recuperare dai loro corpi: **frammenti di monile dorato**, **frammenti iridescenti** e
 **concentrati di essenza caotica**.
 
-Boss dei Luogotenenti
+Boss Luogotenenti del Caos
 ---------------------
-Mentre i **Luogotenenti del Caos** sono di livello 61, questo mob, evocabile con la
+Mentre i **Luogotenenti del Caos** sono di livello 61, questo MOB, evocabile con la
 **sfera di caos rutilante**, è di livello 63.
 
 Possibili Invasioni
