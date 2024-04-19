@@ -60,5 +60,8 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    :maxdepth: 2
    :hidden:
 
-   quest/tirck
    quest/ancalador
+   quest/tirck
+   quest/ecate
+   quest/celestia
+   quest/costantinopoli_i

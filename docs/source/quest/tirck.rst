@@ -9,16 +9,15 @@ che servono per comporre una chiave (**piramide di mithril**).
 Requisiti
 ---------
 
-* **pick lock**, door bash, incantesimo knock dei maghi o **bacchetta di quercia**
-  che si compra a *Talonia* da **Elvira**
+* **pick lock**
 * **pala** o arma/oggetto con flag **dig**
 * **falcetto** o arma/oggetto con flag **cut**
 
 Premi
 -----
 * oggetti vendibili per un totale di 200-250 mdc
-* lingotti e frammenti
-* sacchetti d'oro e platino
+* lingotti: soprattutto fasce B, C, meno probabili D, E, frammenti A sui mob 
+* sacchetti: fino a **oro**
 * sesterzio di bronzo
 
 Inizio
