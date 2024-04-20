@@ -56,7 +56,7 @@ Livello 3
    AVATAR GUARDIANO                          90 min.
    :doc:`quest/ecate`                        180 min.
    GIARDINI                                  180 min.
-   INCUBI                                    180 min.
+   :doc:`quest/incubi`                       180 min.
    RHYODIN                            eth    180 min.
    OLTRE IL PORTALE                          240 min.
    PILASTRI                           eth    300 min.

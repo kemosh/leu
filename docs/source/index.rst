@@ -64,5 +64,6 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    quest/ancalador
    quest/tirck
    quest/ecate
+   quest/incubi
    quest/celestia
    quest/costantinopoli_i

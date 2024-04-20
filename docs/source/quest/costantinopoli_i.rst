@@ -18,3 +18,6 @@ ed è altamente consigliato avere **sanctuary**. Alcuni MOB caricano, l'effetto 
 
 Inizio
 ------
+
+* ``astral;n;enter spe;n;u;push pulsante;w;enter portale; open parete; w; w; enter terra``
+* ``open cassettone;get gladio cassettone;unlock porta;twist porta;s``
