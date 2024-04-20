@@ -63,12 +63,15 @@ Qui sono raccolti tutti i path che non sono specificati altrove (per esempio **P
   | può apparire in 10-12 posti diversi, per sapere dov'è bisogna chiedere alla **chiromante**:
     ``portal gitani;e;n;n;n;n;w;ask chiromante eldorado``, poi a seconda della risposta:
 
-    * ``unintricatolabirinto``: *Hoeur*, path: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;w;w;w;s;s;s;d;d;d;get chiave;unlock ea;open ea;e``
-    * ``una spiaggetta in un bosco``: ?
+    * | ``un intricato labirinto``: *Hoeur*
+      | vai alla *Pozza di Mercurio*: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;w;w;w;s;s;s;open down;d``
+      | vai: ``d;d;get chiave;unlock ea;open ea;e``
+
+    * | ``una spiaggetta in un bosco``: ?
 
 Note
 ----
-Vulcano: ``portal mercurio;w;w;w;w;w;w;w;w;w;w``
-Draconia: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w``
-Tempio di Draconia (a est Tana del Drago): ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;e;d;e;e``
-Pozza di Mercurio: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;w;w;w;s;s;s;d``
+* Vulcano: ``portal mercurio;w;w;w;w;w;w;w;w;w;w``
+* Draconia: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w``
+* Tempio di Draconia (a est Tana del Drago): ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;e;d;e;e``
+* Pozza di Mercurio: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;w;w;w;s;s;s;open do;d``
