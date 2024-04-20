@@ -85,7 +85,9 @@ per i dettagli: ``help position``. Ecco le 5 procedure:
 * | **Tremore**
   | *frase*: ``?``
   | *difficoltà*: difficile
-  | *procedura*: ?
+  | *procedura*: il MOB guarda 2 posizioni, è necessario coprirle entrambe (ci vogliono almeno
+    2 personaggi) altrimenti si subisce danno. Se se ne copre solo una il danno è ridotto
+    (1000 HP), se non se ne copre nessuna il danno è più alto, di solito mortale.
 
 * | **Aura**
   | *frase*: ``Rxacc..o..glxiyerete.. ymolzto piuy` diz quanto.. ..av..eyte yszemi..nayto``

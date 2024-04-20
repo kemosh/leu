@@ -60,10 +60,11 @@ Qui sono raccolti tutti i path che non sono specificati altrove (per esempio **P
   | tag: *invasioni*
 
 * | **Eldorado**
-  | può apparire in 10-12 posti diversi, per sapere dov'è bisogna chiedere alla **chiromante**,
-    path per chiromante: ``portal gitani``, poi a seconda della risposta:
+  | può apparire in 10-12 posti diversi, per sapere dov'è bisogna chiedere alla **chiromante**:
+    ``portal gitani;e;n;n;n;n;w;ask chiromante eldorado``, poi a seconda della risposta:
 
     * ``unintricatolabirinto``: *Hoeur*, path: ``portal mercurio;w;w;w;w;w;w;w;w;w;s;s;s;s;s;s;w;w;w;w;s;s;w;w;w;s;s;s;d;d;d;get chiave;unlock ea;open ea;e``
+    * ``una spiaggetta in un bosco``: ?
 
 Note
 ----
