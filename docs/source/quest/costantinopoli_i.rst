@@ -48,7 +48,7 @@ Recuperare una ``vittoria-importante`` e procedere a west.
 
 Corridoio 
 ----------
-Inizia una serie di stanze, ogni volta bisogna uccidere i mob, prendere ``vittoria-importante``
+Inizia una serie di 5 stanze chiuse, ogni volta bisogna uccidere i mob, prendere ``vittoria-importante``
 e ``piani-sultano``, aprire i piani usando la vittria come chiave per ottenere ``vittoria-decisiva``.
 Usare la ``vittoria-decisiva`` per aprire a west e procedere al prossimo combattimento.
 
@@ -61,4 +61,5 @@ Scatta una seconda teleport in cui si viene bersagliati da frecce e proiettili, 
 Sultano e Guardia Personale
 ---------------------------
 Alla fine della seconda teleport ci si trova allo scontro finale con il **Sultano**. Appena ucciso
-si può prendere la chiave dal suo corpo, aprire e scappare.
+si può prendere la chiave dal suo corpo (**Vessillo Ottomano**), aprire a **west** e scappare.
+Dopo una teleport ci si ritroverà davanti a 2 forzieri con i premi.
