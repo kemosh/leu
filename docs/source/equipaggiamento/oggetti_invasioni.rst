@@ -12,21 +12,29 @@ I cristalli possono essere applicati su tutti gli oggetti NOEDIT, ecco gli effet
    ============================ ================= =======
    Cristallo                    Effetto           Max                                    
    ============================ ================= =======
-   flessibile                   +2 mana regain    +10
-   tagliente                    +1 redu slash     +2
-   brillante                    +1 HIT&SP         +1
-   concentrato                  +1 focus          +3
-   fluorescente                 +6 mana           +30
-   frastagliato                 +1 HIT&DAM        +1
-   pungente                     +1 redu pierce    +2
-   luminoso                     +1 SP             +1
    affilato                     +1 HIT            +2
    appuntito                    +1 DAM            +1
-   contundente                  +1 redu blunt     +2
-   irrequieto                   +1 extra attack   +3
+   luminoso                     +1 SP             +1
+   frastagliato                 +1 HIT&DAM        +1
+   brillante                    +1 HIT&SP         +1
    rigenerante                  +4 hit regain     +20
+   flessibile                   +2 mana regain    +10
+   irrequieto                   +1 extra attack   +3
+   concentrato                  +1 focus          +3
+   tagliente                    +1 redu slash     +2
+   pungente                     +1 redu pierce    +2
+   contundente                  +1 redu blunt     +2
+   fluorescente                 +6 mana           +30
    robusto                      +5 HP             +45
    ============================ ================= =======
+
+.. note::
+
+   Se un oggetto ha più slot dello stesso tipo, il cristallo sarà applicato solo
+   al primo slot. Quindi, in questo senso, è più conveniente avere oggetti con
+   slot diversi. Se si usa un cristallo su un oggetto con uno slot libero e il
+   cristallo è di un tipo diverso dagli effetti negli slot occupati, allora il
+   bonus andrà nel primo slot libero.
 
 Simboli e Armi Invasioni
 ------------------------
