@@ -74,3 +74,4 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    :hidden:
 
    equipaggiamento/oggetti_ethereum
+   equipaggiamento/oggetti_invasioni
