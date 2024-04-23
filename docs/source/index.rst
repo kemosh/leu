@@ -67,3 +67,10 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    quest/incubi
    quest/celestia
    quest/costantinopoli_i
+
+.. toctree::
+   :caption: Equipaggiamento
+   :maxdepth: 2
+   :hidden:
+
+   equipaggiamento/oggetti_ethereum

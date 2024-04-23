@@ -35,8 +35,9 @@ Erranti
 
 * | **Tifone, il dio dei giganti**
   | messaggio: *Il dio dei Giganti si appresta a scalare l'Olimpo per distruggere gli dei*
-  | dove trovarlo: *Deserto del Sud*, fare ``portal topo-deserto`` e cercare nell'area
-  | note: ...
+  | dove trovarlo: *Deserto del Sud*, fare ``portal topo-deserto`` e cercare nell'area,
+    visto in *La Porta dei Giganti* che è picchi, dove c'è Thor
+  | note: ha 6 **Tifeide** come seguaci
 
 * | **Gruumsh, il dio degli orchi**
   | messaggio: ...
