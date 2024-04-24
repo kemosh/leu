@@ -20,15 +20,14 @@ Premi
 -----
 * molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
 * 0-4 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
-  servono per forgiare orecchini speciali, vedi: :doc:`oggetti/oggetti_costantinopoli`
+  servono per forgiare orecchini speciali, vedi: :doc:`oggetti_costantinopoli`
 * monete d'oro
 * lingotti
 
 .. note::
 
-   La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB non dispellano,
-   è altamente consigliato avere **sanctuary**. Alcuni MOB caricano,
-   l'effetto è un ``bash`` ad area.
+   Nell'area della quest non è possibile lasciare oggetti, attenzione a non
+   raccogliere troppe **monete d'argento**!
 
 Inizio
 ------
@@ -40,6 +39,12 @@ Inizio
 * ci sono due portali: ``enter salvatori``
 * al ternime della teleport: ``s;s;s;s;s;s;s;w;s;s;s;s;w;s;s;open w;w;w;open w;w``
 * *inizia la battaglia per Costantinopoli*: aspettare la teleport e andare a ``w``
+
+.. note::
+
+   La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB non dispellano,
+   è altamente consigliato avere **sanctuary**. Alcuni MOB caricano,
+   l'effetto è un ``bash`` ad area.
 
 Campo di Battaglia I
 --------------------
