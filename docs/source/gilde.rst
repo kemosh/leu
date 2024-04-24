@@ -15,9 +15,10 @@ Oggetti speciali:
   | Puo' essere indossato su : INVENTARIO TENUTO 
   | Peso: 1, Valore: 10000, Costo di rent: 500 [COMUNE]
   | Puo` lanciare incantesimi di livello 50:
-  | benedizione
-  | santuario
-  | aiuto divino
+
+  - benedizione
+  - santuario
+  - aiuto divino
 
 * | Oggetto '**protezione fisks pergamena**', Tipo: PERGAMENA
   | L'oggetto e`: ORGANICO FRAGILE 
@@ -62,10 +63,10 @@ Oggetti speciali:
 
   1. Effetto:  +4 a Colpire e Danno Fisico
 
-  Servizi:
+Servizi:
 
-  * MOG guatitore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
-  * Fabbro
-  * Identificazione equipaggiamento
-  * Astral
-  * Portal
+* MOG guatitore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
+* Fabbro
+* Identificazione equipaggiamento
+* Astral
+* Portal
