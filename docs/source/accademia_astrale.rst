@@ -78,8 +78,8 @@ Ci sono 3 boss che posso essere affrontati per ottenere oggetti e preziosi ingre
   | Premi: **fiala** per potenziare i bracciali o trasformarli in anelli
 
 * | **Camael, il principe dell'ottavo cielo**
-  | Per affrontare è necessario farsi abilitare un flag o aver già battuto ****, 
-    fatto questo bisogna recarsi da **Vitalik** e dare i comandi:
+  | Per affrontare è necessario farsi abilitare un *flag* dagli immortali o aver già battuto
+    **Azidahaka**, fatto questo bisogna recarsi da **Vitalik** e dare i comandi:
 
   - ``whisper vitalik camael``: per aprire il portale, avrà un costo di **3K eth** 
     per ogni membro del gruppo
