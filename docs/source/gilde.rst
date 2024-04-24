@@ -15,38 +15,43 @@ Oggetti speciali:
   | Puo' essere indossato su : INVENTARIO TENUTO 
   | Peso: 1, Valore: 10000, Costo di rent: 500 [COMUNE]
   | Puo` lanciare incantesimi di livello 50:
-  | benedizione
-  | santuario
-  | aiuto divino
+
+  - benedizione
+  - santuario
+  - aiuto divino
 
 * | Oggetto '**protezione fisks pergamena**', Tipo: PERGAMENA
   | L'oggetto e`: ORGANICO FRAGILE 
   | Puo' essere indossato su : INVENTARIO TENUTO 
   | Peso: 1, Valore: 19999, Costo di rent: 0 [COMUNE]
   | Puo` lanciare incantesimi di livello 50:
-  | disincantare
-  | santuario
+
+  - disincantare
+  - santuario
 
 * | Oggetto '**sapienza khelben pergamena**', Tipo: PERGAMENA
   | L'oggetto e`: ORGANICO FRAGILE 
   | Puo' essere indossato su : INVENTARIO TENUTO 
   | Peso: 1, Valore: 7000, Costo di rent: 0 [COMUNE]
   | Puo` lanciare incantesimi di livello 50:
-  | potere arcano
+  
+  - potere arcano
 
 * | Oggetto '**juri sferzata pergamena**', Tipo: PERGAMENA
   | L'oggetto e`: ORGANICO FRAGILE 
   | Puo' essere indossato su : INVENTARIO TENUTO 
   | Peso: 1, Valore: 7000, Costo di rent: 0 [COMUNE]
   | Puo` lanciare incantesimi di livello 50:
-  | scarica di adrenalina
+  
+  - scarica di adrenalina
 
 * | Oggetto '**artiglio rais pergamena**', Tipo: PERGAMENA
   | L'oggetto e`: ORGANICO FRAGILE 
   | Puo' essere indossato su : INVENTARIO TENUTO 
   | Peso: 1, Valore: 13000, Costo di rent: 0 [COMUNE]
   | Puo` lanciare incantesimi di livello 50:
-  | fulmini a catena
+
+  - fulmini a catena
 
 * | Oggetto '**lancia luce**', Tipo: ARMA
   | L'oggetto e`: RESISTENTE 
@@ -55,10 +60,13 @@ Oggetti speciali:
   | Il dado dei danni e` '2D4'
   | Il tipo di danno e` trafiggere
   | Ecco i suoi effetti:
-  | Effetto:  +4 a Colpire e Danno Fisico
 
-  Servizi:
+  1. Effetto:  +4 a Colpire e Danno Fisico
 
-  * Fabbro
-  * Identificazione equipaggiamento
-  * Astral
+Servizi:
+
+* MOG guaritore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
+* Fabbro
+* Identificazione equipaggiamento
+* Astral
+* Portal
