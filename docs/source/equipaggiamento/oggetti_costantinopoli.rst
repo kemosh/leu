@@ -1,5 +1,3 @@
-.. _oggetti_costantinopoli:
-
 Oggetti Costantinopoli
 ======================
 Con 10 ``monete-aquila``, 10 ``monete-lupa``, 10 ``monete-alloro`` o 10 ``monete-croce``

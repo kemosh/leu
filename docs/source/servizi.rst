@@ -190,11 +190,12 @@ Nella forgia di **Thor** è possibile creare vari oggetti. Come raggiungere la f
 
 A questo punto ci si trova davanti a **Thor**, per il processo di creazione:
 
-- ``ask thor sfere``, **Thor** dirà di mettere le sfere nella fornace
+- ``ask thor sfere``, **Thor** dirà di mettere le sfere nella ``fornace``
 - mettere gli ingredienti nella ``fornace``
 - ``nod thor``
 
-Ricette Invasioni:
+Per gli oggetti che si possono forgiare vedi:
 
-- Simbolo di **Benem**: 4 amaranto, 2 smeraldo, 3 monili
-- Simbolo di **Hansolo**: 4 indaco, 2 ambra, 3 monili
+- :doc:`equipaggiamento/oggetti_drow`
+- :doc:`equipaggiamento/oggetti_invasioni`
+- :doc:`equipaggiamento/oggetti_costantinopoli`

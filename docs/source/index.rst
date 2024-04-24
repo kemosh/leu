@@ -76,6 +76,7 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    :maxdepth: 2
    :hidden:
 
+   equipaggiamento/oggetti_drow
    equipaggiamento/oggetti_ethereum
    equipaggiamento/oggetti_invasioni
    equipaggiamento/oggetti_costantinopoli
