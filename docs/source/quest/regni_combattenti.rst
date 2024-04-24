@@ -1,4 +1,4 @@
-Regni Combattenti
+REGNI COMBATTENTI
 =================
 La quest consiste nell'attraversare un campo di battaglia dove ci sono 4 castelli,
 trovare le chiavi dei 4 castelli e sconfiggere i 4 sovrani che sono nei castelli.
