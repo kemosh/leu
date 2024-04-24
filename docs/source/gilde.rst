@@ -65,7 +65,7 @@ Oggetti speciali:
 
 Servizi:
 
-* MOG guatitore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
+* MOG guaritore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
 * Fabbro
 * Identificazione equipaggiamento
 * Astral
