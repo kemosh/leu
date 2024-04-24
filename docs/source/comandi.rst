@@ -3,7 +3,7 @@ Comandi
 
 Comandi Base
 ------------
-I comandi base possono essere visti nell'help digitando ``help`` e ``help comandi``,
+I comandi base possono essere visti nell'help digitando ``help``,
 riportiamo di seguito alcuni comandi particolarmente utili:
 
 * | interagire con key composte, per esempio un **frammento iridescente** avendo in
@@ -33,7 +33,7 @@ riportiamo di seguito alcuni comandi particolarmente utili:
   - ``drop -``
   - ``sell -``
 
-* | posare a dare **monete d'oro**, in questo caso va usata la key ``coins``:
+* | posare o dare **monete d'oro**, in questo caso va usata la key ``coins``:
   
   - ``drop 1 coin``
   - ``drop 100 coins``
