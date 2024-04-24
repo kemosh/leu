@@ -1,4 +1,4 @@
-Bosco dei Sogni
+BOSCO DEI SOGNI
 ===============
 La quest consiste nello sconfiggere vari MOB che rappresentano le miserie umane
 (**La Vecchiaia**, **La Malattia**, **La Morte**, etc), recuperare da ogni mob
