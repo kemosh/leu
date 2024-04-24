@@ -18,7 +18,7 @@ Nessuno
 
 Premi
 -----
-* molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
+* molte **monete d'argento** sui MOB: possono essere vendute per **5 mdc** l'una
 * 0-4 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
   servono per forgiare orecchini speciali, vedi: :doc:`equipaggiamento/oggetti_costantinopoli`
 * monete d'oro
