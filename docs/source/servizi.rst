@@ -181,7 +181,7 @@ Thor: la Forgia degli Dei
 -------------------------
 Nella forgia di **Thor** è possibile creare vari oggetti. Come raggiungere la forgia:
 
-- portal ``topo-deserto`` e down fino a *La Base della Piramide*
+- portal ``topo-deserto`` e down fino a *Alla base della Piramide*
 - ``n;n;n;e;e;e;e;e;u;u;u;e;d;e;e``
 - uccidere **RockHound** e poi ``get chiave-pietra cad``
 - ``unlock fessura;open fessura;e;pull stalagmite;n``

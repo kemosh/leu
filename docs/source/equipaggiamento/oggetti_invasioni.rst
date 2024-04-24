@@ -82,9 +82,9 @@ ecco i possibili slot e valori:
    SPELL FAIL                   -20        -60      
    ============================ ========== ==========
 
-Si hanno a disposizione un numero limitato di reroll gratis, poi il reroll avrà un costo
-incrementale fino a un max di **25K eth**. Per effettuare il reroll basta consegnare
-l'oggetto **Vitalik**, è possibile fissare alcuni slot, rirollando solo gli altri, ma
+Si hanno a disposizione **4 reroll gratis**, poi ogni ulteriore reroll avrà un costo
+di **25K eth**. Per effettuare il reroll basta consegnare l'oggetto **Vitalik**,
+è possibile **bloccare** alcuni slot, facendo il reroll solo degli altri, ma
 questo avrà un costo di un **monile triangolare dorato** per ogni slot che si vuole
-fissare, va fatto ad ogni reroll. Il comando è: ``use monile OGGETTO SLOT`` con
+fissare e va fatto prima di ogni reroll. Il comando è: ``use monile OGGETTO SLOT`` con
 ``SLOT = 2, ..., 5``, dato che il primo slot è fisso.
