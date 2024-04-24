@@ -30,14 +30,16 @@ Creato nel 1994 dal programmatore **Benem** (Emanuele Benedetti) e da
 indipendete sia per struttura di gioco che per contenuti.
 Attualmente sviluppato, mantenuto e gestito da **Archie**.
 
-Questo progetto ha lo scopo di raccogliere le meccaniche di gioco e tutte le 
-informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
-:doc:`getting_started` per iniziare e in particolare la sezione
-:ref:`connessione` per connetersi al gioco.
-
 .. note::
 
-   This project is under active development.
+   Questo progetto ha lo scopo di raccogliere informazioni utili per orientarsi
+   nel mondo di **LeU**, è una guida che affianca l'help e **non** intende sostituirlo.
+   Spesso giocando a LeU mi sono accorto che esiste una conoscenza custodita esclusivamente
+   nelle menti dei giocatori più esperti, che però è indispensabile per non rimanere
+   bloccati (*Cosa faccio? Cosa sono le quest? Come trovo questo oggetto? Come sfido questo MOB?*)
+   e rendere il gioco più abbordabile e divertente. **Attenzione agli spoiler**,
+   la sezione quest può contenere informazioni dettagliate che potrebbero rovinare
+   il piacere della scoperta.
 
 .. toctree::
    :caption: Main
