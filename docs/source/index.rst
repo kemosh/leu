@@ -65,7 +65,9 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
    quest/tirck
    quest/ecate
    quest/incubi
+   quest/bosco_dei_sogni
    quest/celestia
+   quest/regni_combattenti
    quest/costantinopoli_i
 
 .. toctree::

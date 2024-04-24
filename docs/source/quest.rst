@@ -77,12 +77,12 @@ Livello 4
    ================================== ====== ===========================
    LAGO GHIACCIATO                           240 min.
    LABIRINTI                          eth    360 min.
-   BOSCO SOGNI                        eth    no repop
+   :doc:`quest/bosco_dei_sogni`       eth    no repop
    :doc:`quest/celestia`                     no repop
    CHED NASAD                         eth    no repop
    CITTADELLA                         eth    no repop
    CUSTODI BARRIERA                          no repop
-   REGNI COMBATTENTI                         no repop
+   :doc:`quest/regni_combattenti`            no repop
    YETHRAEL                                  33% pop in OLTRE IL PORTALE
    ================================== ====== ===========================
 
