@@ -10,14 +10,14 @@ Premi
 -----
 * molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
 * 0-2 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
-  servono per forgiare orecchini speciali, vedi: :ref:`oggetti_costantinopoli`
+  servono per forgiare orecchini speciali, vedi: :doc:`oggetti_costantinopoli`
 * monete d'oro
 * lingotti
 
-Note
-----
-La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB in gran parte non dispellano
-ed è altamente consigliato avere **sanctuary**. Alcuni MOB caricano, l'effetto è un ``bash`` ad area.
+.. note::
+
+   La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB in gran parte non dispellano
+   ed è altamente consigliato avere **sanctuary**. Alcuni MOB caricano, l'effetto è un ``bash`` ad area.
 
 Inizio
 ------
