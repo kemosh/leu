@@ -33,7 +33,49 @@ Livello Valore  AC   HP/Mana SP/DAM Red HIT Ea/Foc TS  F.M. Regain
 25      200000  20   130     7      6   12  18     -20 -60  70
 ======= ======  ===  ======= ====== === === ====== === ==== ======
 
+.. note::
+
+    I pezzi tank (set Difensore e oggetti di ferro) hanno un bonus del
+    75% ai punti ferita, quindi il massimo al 25° livello è **227 HP**
+
 Set Guaritore Astrale
 ---------------------
 
+Set Manipolatore Astrale
+------------------------
 
+Set Difensore dei Piani
+-----------------------
+
+* | Oggetto '**mantello difensore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO INTORNO PERSONAL-EQ
+
+  1. HP (max 227)
+  2. DAM (max 7)
+  3. redu pierce (max 6)
+  4. redu slash (max 6)
+  5. TS (max -20)
+
+* | Oggetto '**pavese difensore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO SCUDO PERSONAL-EQ
+
+  1. HP (max 227)
+  2. DAM (max 7)
+  3. redu blunt (max 6)
+  4. redu blunt (max 6)
+  5. TS (max -20)
+
+* | Oggetto '**gambali difensore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO GAMBE PERSONAL-EQ
+
+  1. HP regain (max 70)
+  2. redu blunt (max 6)
+  3. redu slash (max 6)
+  4. redu pierce (max 6)
+  5. TS (max -20)
+
+Set Distruttore Astrale
+-----------------------
