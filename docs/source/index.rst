@@ -78,3 +78,5 @@ informazioni utili per addentrarsi e orientarsi nel mondo di LeU. Consulta
 
    equipaggiamento/oggetti_ethereum
    equipaggiamento/oggetti_invasioni
+   equipaggiamento/oggetti_costantinopoli
+   equipaggiamento/oggetti_regni
