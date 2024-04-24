@@ -20,7 +20,7 @@ Premi
 -----
 * molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
 * 0-4 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
-  servono per forgiare orecchini speciali, vedi: :doc:`oggetti_costantinopoli`
+  servono per forgiare orecchini speciali, vedi: :doc:`equipaggiamento/oggetti_costantinopoli`
 * monete d'oro
 * lingotti
 
@@ -83,5 +83,5 @@ Scatta una seconda teleport in cui si viene bersagliati da frecce e proiettili, 
 Sultano e Guardia Personale
 ---------------------------
 Alla fine della seconda teleport ci si trova allo scontro finale con il **Sultano**. Appena ucciso
-si può prendere la chiave dal suo corpo (**Vessillo Ottomano**), aprire a **west** e scappare.
-Dopo una teleport ci si ritroverà davanti a 2 forzieri con i premi.
+si può prendere la chiave dal suo corpo (``vessillo-ottomano``), aprire a **west** e scappare.
+Dopo l'ennesima teleport ci si ritroverà davanti a 2 forzieri con i premi.
