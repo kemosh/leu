@@ -9,7 +9,10 @@ Nessuno
 Premi
 -----
 * molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
-* 1-4 moneta con l'effige de **aquila**, **lupa**, **alloro**, **croce**
+* 0-2 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
+  servono per forgiare orecchini speciali, vedi: :ref:`oggetti_costantinopoli`
+* monete d'oro
+* lingotti
 
 Note
 ----
@@ -29,16 +32,18 @@ Inizio
 
 Campo di Battaglia I
 --------------------
-Area 3x3 con *varco* a west, uccidere gli ottomani, raccogliere tutte le ``vittoria-battaglia`` che è la
-chiave per il varco. Aprire il varco e procedere a west. Per evitare il tiro degli arceri spostarsi a est.
+Area 3x3 con *varco* a west o a nord, uccidere gli ottomani, raccogliere una ``vittoria-battaglia``
+che è la chiave per il *varco*. Aprire il *varco* e procedere oltre. Per evitare il tiro degli
+arceri spostarsi a est.
 
 Campo di Battaglia II
 ---------------------
-Area 3x3 con *varco* a nord. Raccogliere la ``vittoria-battaglia``, aprire il *varco* e procedere oltre.
+Area 3x3 con *varco* a weat o a nord. Raccogliere la ``vittoria-battaglia``, aprire il *varco*
+e procedere oltre.
 
 Campo di Battaglia III
 ----------------------
-Area 3x3 con *varco* nord.
+Area 3x3 con *varco* a west o a nord.
 
 Campo di Battaglia IV
 ---------------------
@@ -48,9 +53,10 @@ Recuperare una ``vittoria-importante`` e procedere a west.
 
 Corridoio 
 ----------
-Inizia una serie di 5 stanze chiuse, ogni volta bisogna uccidere i mob, prendere ``vittoria-importante``
-e ``piani-sultano``, aprire i piani usando la vittria come chiave per ottenere ``vittoria-decisiva``.
-Usare la ``vittoria-decisiva`` per aprire a west e procedere al prossimo combattimento.
+Inizia una serie di 5 stanze chiuse, ogni volta bisogna uccidere i MOB, prendere la 
+``vittoria-importante`` e ``piani-sultano``, aprire i piani usando la vittoria come chiave e 
+ottenere una ``vittoria-decisiva``. Usare la ``vittoria-decisiva`` per aprire a west e procedere
+al prossimo combattimento.
 
 Teleport per il Sultano
 -----------------------
