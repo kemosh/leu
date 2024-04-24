@@ -1,6 +1,16 @@
 COSTANTINOPOLI I
 ================
-Quest di puro combattimento attraverso 4 aree 3x3 e un corridoio da cui non si può fleare.
+I giocatori vengono trasportati in una linea storica alternativa, nel 1453,
+durante l'assedio di **Costantinopoli** che fu portato dall'impero Ottomano
+e segnò la fine dell'Impero Romano d'Oriente. Martedì 29 maggio del 1453
+fu l'ultimo giorno di vita della Costantinopoli "*romana*" e durante l'assedio
+perse la vita l'ultimo imperatore: **Costantino XI Paleologo**.
+In questa linea di storia alternativa i giocatori hanno l'occasione di
+affrontare e sconfiggere gli ottomani per salvare l'Impero Romano.
+Si tratta di una quest di puro combattimento attraverso 4 aree 3x3 e un 
+corridoio finale, da cui non si può fleare, che porta a fronteggiare
+il MOB finale: il **sultano Maometto II**.
+
 
 Requisiti
 ---------
@@ -9,15 +19,16 @@ Nessuno
 Premi
 -----
 * molte **monete d'argento** sui MOB: possono essere vendute per **mdc**
-* 0-2 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
+* 0-4 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
   servono per forgiare orecchini speciali, vedi: :doc:`oggetti_costantinopoli`
 * monete d'oro
 * lingotti
 
 .. note::
 
-   La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB in gran parte non dispellano
-   ed è altamente consigliato avere **sanctuary**. Alcuni MOB caricano, l'effetto è un ``bash`` ad area.
+   La key di tutti i mob è ``otto``, abbreviazione per **ottomano**. I MOB non dispellano,
+   è altamente consigliato avere **sanctuary**. Alcuni MOB caricano,
+   l'effetto è un ``bash`` ad area.
 
 Inizio
 ------
@@ -25,10 +36,10 @@ Inizio
 * ``astral;n;enter spe;n;u;push pulsante;w;enter portale;open parete;w;w;enter terra``
 * aspettare la teleport per *Costantinopoli*
 * ``open cassettone;get gladio cassettone;unlock porta;twist porta;s``
-* aspettare di essere portati al cospetto dell'imperatore **Costantino XI**
+* aspettare di essere portati al cospetto dell'imperatore **Costantino XI Paleologo**
 * ci sono due portali: ``enter salvatori``
 * al ternime della teleport: ``s;s;s;s;s;s;s;w;s;s;s;s;w;s;s;open w;w;w;open w;w``
-* inizia la battaglia: aspettare la teleport e andare a ``w``
+* *inizia la battaglia per Costantinopoli*: aspettare la teleport e andare a ``w``
 
 Campo di Battaglia I
 --------------------
