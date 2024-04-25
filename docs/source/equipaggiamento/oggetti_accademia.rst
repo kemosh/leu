@@ -1,5 +1,14 @@
 Oggetti Accademia Astrale
 =========================
+Si dividono in due categorie: **SET** e **NOSET**. I pezzi **SET** fanno parte
+di uno dei set dei piani (**Guaritore**, **Manipolatore**, **Difensore**
+e **Distruttore**), hanno livello massimo 25 e se ne possono indossare fino
+a 5. Inoltre indossando più pezzi di uno stesso set si ottengono bonus
+speciali (vedi ``help set piani``), usando il comando ``info set`` si vede
+quali di questi bonus sono attivi. I pezzi **NOSET** hanno un cap al livello
+che può essere alzato fino a 20 usando i **frammenti entropici** e
+fino a 25 usando i **frammenti entropici maggiori**, l'operazione costa
+**ethereum**, chiedere l'help a **Vitalik**.
 Tutti i pezzi hanno la seguente tabella di evoluzione degli slot, a seconda
 del livello di infusione (vedi ``help infusione``):
 
@@ -38,7 +47,7 @@ Livello AC   HP/Mana SP/DAM Red HIT Ea/Foc TS  F.M. Regain
    I pezzi tank (set Difensore e oggetti di ferro) hanno un bonus del
    75% ai punti ferita, quindi il massimo al 25° livello è **227 HP**
 
-Il livello di rarità di tutti gli oggetti (SET e NOSET) dipende dal livello,
+Il livello di rarità di tutti gli oggetti (**SET** e **NOSET**) dipende dal livello,
 secondo la seguente tabella:
 
 ======== ==========  ============
@@ -52,12 +61,22 @@ Livello  Rarità      Punti Rarità
 
 .. note::
 
-   La key pendente è usata sia per alcuni orecchini (pendente-oro-massiccio) che
-   per alcune collane (pendente-argento), attenzione a non spendere risorse in un
-   pezzo che poi non si può indossare!
+   La key ``pendente`` è usata sia per alcuni orecchini (per esempio ``pendente-oro-massiccio``),
+   sia per alcune collane (per esempio ``pendente-argento``), attenzione a non spendere risorse
+   in un pezzo che non si può indossare!
 
 Set Guaritore dei Piani
 -----------------------
+
+* | Oggetto '**elmo guaritore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO TESTA PERSONAL-EQ
+
+  1. HP (max 130)
+  2. mana regain (max 70)
+  3. SP (max 7)
+  4. focus (max 18)
+  5. TS (max -20)
 
 * | Oggetto '**occhio guaritore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
@@ -82,6 +101,16 @@ Set Guaritore dei Piani
 Set Manipolatore dei Piani
 --------------------------
 
+* | Oggetto '**elmo manipolatore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO TESTA PERSONAL-EQ 
+
+  1. mana regain (max 70)
+  2. SP (max 7)
+  3. HIT (max 12)
+  4. focus (max 18)
+  5. TS (max -20)
+
 * | Oggetto '**occhio manipolatore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
   | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ
@@ -90,6 +119,16 @@ Set Manipolatore dei Piani
   2. SP (max 7)
   3. HIT (max 12)
   4. HIT (max 12)
+  5. TS (max -20)
+
+* | Oggetto '**spallacci manipolatore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO BRACCIA PERSONAL-EQ 
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. HIT (max 12)
+  4. focus (max 18)
   5. TS (max -20)
 
 Set Difensore dei Piani
@@ -127,6 +166,16 @@ Set Difensore dei Piani
 
 Set Distruttore dei Piani
 -------------------------
+
+* | Oggetto '**orecchino distruttore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ ORECCHIO 
+
+  1. HP (max 130)
+  2. DAM (max 7)
+  3. HIT (max 12)
+  4. extra attack (max 18)
+  5. TS (max -20)
 
 NOSET Equivalenti
 -----------------

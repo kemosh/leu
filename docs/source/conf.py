@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'LeU Documentation'
+project = 'LeU Vademecum'
 copyright = '2024, Kemosh'
 author = 'Kemosh'
 

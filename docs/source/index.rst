@@ -1,5 +1,5 @@
-Lumen et Umbra - Documentazione
-===============================
+Lumen et Umbra Vademecum
+========================
 
 .. code-block:: console
 
@@ -32,7 +32,7 @@ Attualmente sviluppato, mantenuto e gestito da **Archie**.
 
 .. note::
 
-   Questo progetto ha lo scopo di raccogliere informazioni utili per orientarsi
+   Questo **vademecum** ha lo scopo di raccogliere informazioni utili per orientarsi
    nel mondo di **LeU**, è una guida che affianca l'help e **non** intende sostituirlo.
    Spesso giocando a LeU mi sono accorto che esiste una conoscenza custodita esclusivamente
    nelle menti dei giocatori più esperti, che però è indispensabile per non rimanere
