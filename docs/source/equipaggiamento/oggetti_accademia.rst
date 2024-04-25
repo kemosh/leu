@@ -68,79 +68,30 @@ Livello  Rarità      Punti Rarità
 Set Guaritore dei Piani
 -----------------------
 
-============ ============ ==== ====== ==== ======= ======== ======= ======= ====
-Pezzo        Set          HP   HIT    Mana HP Reg  Mana Reg SP      Focus   TS
-============ ============ ==== ====== ==== ======= ======== ======= ======= ====
-elmo         guaritore    130                      70       7       18%     -20
-occhio       guaritore    130         130                   7       18%     -20
-spallacci    guaritore                130                   **14**  18%     -20
-cintura      guaritore    130  12                           7       18%     -20
-stivali      guaritore    130                               7       **36%** -20
-orecchino    guaritore                     70      70       7       18%     -20
-============ ============ ==== ====== ==== ======= ======== ======= ======= ====
+============ ==== ==== ====== ======= ======== ======= ======= ====
+Pezzo        HP   Mana HIT    HP Reg  Mana Reg SP      Focus   TS
+============ ==== ==== ====== ======= ======== ======= ======= ====
+elmo         130                      70       7       18%     -20
+occhio       130  130                          7       18%     -20
+spallacci         130                          **14**  18%     -20
+cintura      130       12                      7       18%     -20
+stivali      130                               7       **36%** -20
+orecchino                     70      70       7       18%     -20
+============ ==== ==== ====== ======= ======== ======= ======= ====
 
 Set Manipolatore dei Piani
 --------------------------
 
-============ ============ ==== ====== ==== ======= ======== ======= ======= ====
-Pezzo        Set          HP   HIT    Mana HP Reg  Mana Reg SP      Focus   TS
-============ ============ ==== ====== ==== ======= ======== ======= ======= ====
-elmo         manipolatore      12                  70       7       18%     -20
-occhio       manipolatore 130  **24**                       7       18%     -20
-spallacci    manipolatore 130  12                           7       18%     -20
-mantello     manipolatore 130  12                           7       18%     -20
-stivali      manipolatore      12     130                   **14**          -20
-============ ============ ==== ====== ==== ======= ======== ======= ======= ====
-
-* | Oggetto '**elmo manipolatore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO TESTA PERSONAL-EQ 
-
-  1. mana regain (max 70)
-  2. SP (max 7)
-  3. HIT (max 12)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**occhio manipolatore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. HIT (max 12)
-  4. HIT (max 12)
-  5. TS (max -20)
-
-* | Oggetto '**spallacci manipolatore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO BRACCIA PERSONAL-EQ 
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. HIT (max 12)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**mantello manipolatore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO INTORNO PERSONAL-EQ 
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. HIT (max 12)
-  4. focus (max 18)
-  5. TS (max -20)
-  
-* | Oggetto '**stivali manipolatore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PIEDI PERSONAL-EQ 
-
-  1. mana (max 130)
-  2. SP (max 7)
-  3. SP (max 7)
-  4. HIT (max 12)
-  5. TS (max -20)
+============ ==== ==== ====== ======= ======== ======= ======= ====
+Pezzo        HP   Mana HIT    HP Reg  Mana Reg SP      Focus   TS
+============ ==== ==== ====== ======= ======== ======= ======= ====
+elmo                   12             70       7       18%     -20
+occhio       130       **24**                  7               -20
+spallacci    130       12                      7       18%     -20
+mantello     130       12                      7       18%     -20
+stivali           130  12                      **14**          -20
+paraschiena                   70      70       7       18%     -20
+============ ==== ==== ====== ======= ======== ======= ======= ====
 
 Set Difensore dei Piani
 -----------------------
