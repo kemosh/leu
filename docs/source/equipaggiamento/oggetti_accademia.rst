@@ -8,9 +8,9 @@ speciali (vedi ``help set piani``), usando il comando ``info set`` si vede
 quali di questi bonus sono attivi. I pezzi **NOSET** hanno un cap al livello
 che può essere alzato fino a 20 usando i **frammenti entropici** e
 fino a 25 usando i **frammenti entropici maggiori**, l'operazione costa
-**ethereum**, chiedere l'help a **Vitalik**.
-Tutti i pezzi hanno la seguente tabella di evoluzione degli slot, a seconda
-del livello di infusione (vedi ``help infusione``):
+**ethereum**, consultare :doc:`accademia_astrale` per i dettagli.
+Tutti i pezzi seguono la seguente tabella per evoluzione degli slot, a seconda
+del livello di infusione, vedi ``help infusione``:
 
 ======= ===  ======= ====== === === ====== === ==== ======
 Livello AC   HP/Mana SP/DAM Red HIT Ea/Foc TS  F.M. Regain
@@ -203,12 +203,54 @@ Alcuni oggetti NOSET hanno le stesse caratteristiche di corrispettivi pezzi SET,
 ecco la tabella:
 
 ========================== ========= =======================
-Pezzo **SET**              Tipologia Pezzi NOSET Equivalenti
+Pezzo SET                  Tipologia Pezzi NOSET Equivalenti
 ========================== ========= =======================
 cintura guaritore piani    caster    cintura stoffa
 ========================== ========= =======================
 
 NOSET Unici
 -----------
-Pezzi **NOSET** per cui non c'è un corrispettivo **SET**:
+Pezzi **NOSET** per cui non c'è un corrispettivo **SET**. Alcuni oggetti
+con nome diverse si equivalgono (per esempio maschera e occhiali):
 
+* | Oggetto '**pendente oro**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ ORECCHIO 
+
+  1. HP (max 130)
+  2. mana (max 130)
+  3. SP (max 7)
+  4. HIT (max 12)
+  5. TS (max -20)
+
+* | Oggetto '**scudo dei passati**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ SCHIENA 
+
+  1. mana (max 130)
+  2. SP (max 7)
+  3. SP (max 7)
+  4. SP (max 7)
+  5. TS (max -20)
+
+* | Oggetto '**maschera argento**', Tipo: ARMATURA
+  | Oggetto '**occhiali argento**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ OCCHI 
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. focus (max 18)
+  4. focus (max 18)
+  5. TS (max -20)
+
+* | Oggetto '**maschera oro**', Tipo: ARMATURA
+  | Oggetto '**occhiali oro**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ OCCHI 
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. SP (max 7)
+  4. HIT (max 12)
+  5. TS (max -20)
