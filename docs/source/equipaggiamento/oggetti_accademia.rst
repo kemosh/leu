@@ -35,14 +35,62 @@ Livello AC   HP/Mana SP/DAM Red HIT Ea/Foc TS  F.M. Regain
 
 .. note::
 
-    I pezzi tank (set Difensore e oggetti di ferro) hanno un bonus del
-    75% ai punti ferita, quindi il massimo al 25° livello è **227 HP**
+   I pezzi tank (set Difensore e oggetti di ferro) hanno un bonus del
+   75% ai punti ferita, quindi il massimo al 25° livello è **227 HP**
 
-Set Guaritore Astrale
----------------------
+Il livello di rarità di tutti gli oggetti (SET e NOSET) dipende dal livello,
+secondo la seguente tabella:
 
-Set Manipolatore Astrale
-------------------------
+======== ==========  ============
+Livello  Rarità      Punti Rarità
+======== ==========  ============
+1-10     COMUNE      0
+11-15    NON COMUNE  1
+16-20    RARO        2
+21-25    RELIQUIA    3
+======== ==========  ============
+
+.. note::
+
+   La key pendente è usata sia per alcuni orecchini (pendente-oro-massiccio) che
+   per alcune collane (pendente-argento), attenzione a non spendere risorse in un
+   pezzo che poi non si può indossare!
+
+Set Guaritore dei Piani
+-----------------------
+
+* | Oggetto '**occhio guaritore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ
+
+  1. HP (max 130)
+  2. mana (max 130)
+  3. SP (max 7)
+  4. focus (max 18)
+  5. TS (max -20)
+
+* | Oggetto '**spallacci guaritore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO BRACCIA PERSONAL-EQ
+
+  1. mana (max 130)
+  2. SP (max 7)
+  3. SP (max 7)
+  4. focus (max 18)
+  5. TS (max -20)
+
+Set Manipolatore dei Piani
+--------------------------
+
+* | Oggetto '**occhio manipolatore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. HIT (max 12)
+  4. HIT (max 12)
+  5. TS (max -20)
 
 Set Difensore dei Piani
 -----------------------
@@ -77,5 +125,9 @@ Set Difensore dei Piani
   4. redu pierce (max 6)
   5. TS (max -20)
 
-Set Distruttore Astrale
------------------------
+Set Distruttore dei Piani
+-------------------------
+
+NOSET Equivalenti
+-----------------
+Alcuni oggetti NOSET hanno le stesse caratteristiche di alcuno pezzi SET, ecco la tabella:
