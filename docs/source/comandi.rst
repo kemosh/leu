@@ -6,9 +6,9 @@ Comandi Base
 I comandi base possono essere visti nell'help digitando ``help``,
 riportiamo di seguito alcuni comandi particolarmente utili:
 
-* | interagire con key composte, per esempio un **frammento iridescente** avendo in
-    inventario altri tipi di frammenti, come si può notare ogni parte della key può
-    essere abbreviata:
+* | interagire con key composte, per esempio un **frammento iridescente**, avendo in
+    inventario altri tipi di frammenti. Come si può notare dall'esempio, ogni parte
+    della key può essere abbreviata:
 
   - ``drop frammento-iridescente``
   - ``drop fram-irid``
