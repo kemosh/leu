@@ -206,7 +206,7 @@ ecco la tabella:
 Pezzo **SET**              Tipologia Pezzi NOSET Equivalenti
 ========================== ========= =======================
 cintura guaritore piani    caster    cintura stoffa
-========================== ========= ==================
+========================== ========= =======================
 
 NOSET Unici
 -----------
