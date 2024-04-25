@@ -61,9 +61,9 @@ Livello  Rarità      Punti Rarità
 
 .. note::
 
-   La key ``pendente`` è usata sia per alcuni orecchini (per esempio ``pendente-oro-massiccio``),
-   sia per alcune collane (per esempio ``pendente-argento``), attenzione a non spendere risorse
-   in un pezzo che non si può indossare!
+   La key ``pendente`` è usata sia per alcuni orecchini (per esempio ``pendente-oro``),
+   sia per alcune collane (per esempio ``pendente-argento``), attenzione a non spendere
+   risorse in un pezzo che non si può indossare!
 
 Set Guaritore dei Piani
 -----------------------
@@ -98,6 +98,16 @@ Set Guaritore dei Piani
   4. focus (max 18)
   5. TS (max -20)
 
+* | Oggetto '**cintura guaritore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO VITA PERSONAL-EQ 
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. HIT (max 12)
+  4. focus (max 18)
+  5. TS (max -20)
+
 Set Manipolatore dei Piani
 --------------------------
 
@@ -124,6 +134,16 @@ Set Manipolatore dei Piani
 * | Oggetto '**spallacci manipolatore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
   | Puo' essere indossato su : INVENTARIO BRACCIA PERSONAL-EQ 
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. HIT (max 12)
+  4. focus (max 18)
+  5. TS (max -20)
+
+* | Oggetto '**mantello manipolatore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO INTORNO PERSONAL-EQ 
 
   1. HP (max 130)
   2. SP (max 7)
@@ -179,4 +199,16 @@ Set Distruttore dei Piani
 
 NOSET Equivalenti
 -----------------
-Alcuni oggetti NOSET hanno le stesse caratteristiche di alcuno pezzi SET, ecco la tabella:
+Alcuni oggetti NOSET hanno le stesse caratteristiche di corrispettivi pezzi SET,
+ecco la tabella:
+
+========================== ========= =======================
+Pezzo **SET**              Tipologia Pezzi NOSET Equivalenti
+========================== ========= =======================
+cintura guaritore piani    caster    cintura stoffa
+========================== ========= ==================
+
+NOSET Unici
+-----------
+Pezzi **NOSET** per cui non c'è un corrispettivo **SET**:
+
