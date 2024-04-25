@@ -68,68 +68,29 @@ Livello  Rarità      Punti Rarità
 Set Guaritore dei Piani
 -----------------------
 
-============ ============ ==== ==== ==== ==== ===== ===== ====
-Pezzo        Set          HP   HIT  Mana MReg SP    Focus TS
-============ ============ ==== ==== ==== ==== ===== ===== ====
-elmo         guaritore    130            70   7     18%   -20
-occhio       guaritore    130       130       7     18%   -20
-spallacci    guaritore              130       14    18%   -20
-cintura      guaritore    130  12             7     18%   -20
-stivali      guaritore    130                 7     36%   -20
-============ ============ ==== ==== ==== ==== ===== ===== ====
-
-* | Oggetto '**elmo guaritore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO TESTA PERSONAL-EQ
-
-  1. HP (max 130)
-  2. mana regain (max 70)
-  3. SP (max 7)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**occhio guaritore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ
-
-  1. HP (max 130)
-  2. mana (max 130)
-  3. SP (max 7)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**spallacci guaritore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO BRACCIA PERSONAL-EQ
-
-  1. mana (max 130)
-  2. SP (max 7)
-  3. SP (max 7)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**cintura guaritore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO VITA PERSONAL-EQ 
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. HIT (max 12)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**stivali guaritore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PIEDI PERSONAL-EQ 
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. focus (max 18)
-  4. focus (max 18)
-  5. TS (max -20)
+============ ============ ==== ====== ==== ======= ======== ======= ======= ====
+Pezzo        Set          HP   HIT    Mana HP Reg  Mana Reg SP      Focus   TS
+============ ============ ==== ====== ==== ======= ======== ======= ======= ====
+elmo         guaritore    130                      70       7       18%     -20
+occhio       guaritore    130         130                   7       18%     -20
+spallacci    guaritore                130                   **14**  18%     -20
+cintura      guaritore    130  12                           7       18%     -20
+stivali      guaritore    130                               7       **36%** -20
+orecchino    guaritore                     70      70       7       18%     -20
+============ ============ ==== ====== ==== ======= ======== ======= ======= ====
 
 Set Manipolatore dei Piani
 --------------------------
+
+============ ============ ==== ====== ==== ======= ======== ======= ======= ====
+Pezzo        Set          HP   HIT    Mana HP Reg  Mana Reg SP      Focus   TS
+============ ============ ==== ====== ==== ======= ======== ======= ======= ====
+elmo         manipolatore      12                  70       7       18%     -20
+occhio       manipolatore 130  **24**                       7       18%     -20
+spallacci    manipolatore 130  12                           7       18%     -20
+mantello     manipolatore 130  12                           7       18%     -20
+stivali      manipolatore      12     130                   **14**          -20
+============ ============ ==== ====== ==== ======= ======== ======= ======= ====
 
 * | Oggetto '**elmo manipolatore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
