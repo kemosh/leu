@@ -12,9 +12,9 @@ fino a 25 usando i **frammenti entropici maggiori**, l'operazione costa
 Tutti i pezzi seguono la seguente tabella per evoluzione degli slot, a seconda
 del livello di infusione, vedi ``help infusione``:
 
-======= ===  ======= ====== === === ====== === ==== ======
-Livello AC   HP/Mana SP/DAM Red HIT Ea/Foc TS  F.M. Regain
-======= ===  ======= ====== === === ====== === ==== ======
+======= ===  ======= ====== === === ====== === ==== ====
+Livello AC   HP/Mana SP/DAM Red HIT Ea/Foc TS  SF   Reg
+======= ===  ======= ====== === === ====== === ==== ====
  1      5    20      1      1   1   1      -2  -4   0
  2      5    22      1      1   1   1      -2  -4   2 
  3      6    24      1      1   1   1      -2  -6   2
