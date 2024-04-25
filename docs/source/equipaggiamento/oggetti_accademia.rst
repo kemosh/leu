@@ -68,6 +68,16 @@ Livello  Rarità      Punti Rarità
 Set Guaritore dei Piani
 -----------------------
 
+============ ============ ==== ==== ==== ==== ===== ===== ====
+Pezzo        Set          HP   HIT  Mana MReg SP    Focus TS
+============ ============ ==== ==== ==== ==== ===== ===== ====
+elmo         guaritore    130            70   7     18%   -20
+occhio       guaritore    130       130       7     18%   -20
+spallacci    guaritore              130       14    18%   -20
+cintura      guaritore    130  12             7     18%   -20
+stivali      guaritore    130                 7     36%   -20
+============ ============ ==== ==== ==== ==== ===== ===== ====
+
 * | Oggetto '**elmo guaritore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
   | Puo' essere indossato su : INVENTARIO TESTA PERSONAL-EQ
@@ -105,6 +115,16 @@ Set Guaritore dei Piani
   1. HP (max 130)
   2. SP (max 7)
   3. HIT (max 12)
+  4. focus (max 18)
+  5. TS (max -20)
+
+* | Oggetto '**stivali guaritore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PIEDI PERSONAL-EQ 
+
+  1. HP (max 130)
+  2. SP (max 7)
+  3. focus (max 18)
   4. focus (max 18)
   5. TS (max -20)
 
@@ -150,9 +170,29 @@ Set Manipolatore dei Piani
   3. HIT (max 12)
   4. focus (max 18)
   5. TS (max -20)
+  
+* | Oggetto '**stivali manipolatore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO PIEDI PERSONAL-EQ 
+
+  1. mana (max 130)
+  2. SP (max 7)
+  3. SP (max 7)
+  4. HIT (max 12)
+  5. TS (max -20)
 
 Set Difensore dei Piani
 -----------------------
+
+* | Oggetto '**occhio difensore piani**', Tipo: ARMATURA
+  | L'oggetto e`: RESISTENTE NO-EDIT 
+  | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ 
+
+  1. HP (max 227)
+  2. DAM (max 7)
+  3. redu pierce (max 6)
+  4. redu blunt (max 6)
+  5. TS (max -20)
 
 * | Oggetto '**mantello difensore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
@@ -214,6 +254,7 @@ Pezzi **NOSET** per cui non c'è un corrispettivo **SET**. Alcuni oggetti
 con nome diverse si equivalgono (per esempio maschera e occhiali):
 
 * | Oggetto '**pendente oro**', Tipo: ARMATURA
+  | Oggetto '**gioiello oro**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
   | Puo' essere indossato su : INVENTARIO PERSONAL-EQ ORECCHIO 
 
