@@ -6,6 +6,11 @@ La quest in origine prevedeva di trovare una serie di oggetti per **Valik** al f
 di ottenere una chiave per aprire un portale, ora è possibile usare **picklock** e
 saltare questa parte.
 
+.. note::
+
+    Prima di iniziare la quest Guardare l'ora (``time``), tra le 22:00 e le 5:00
+    ci sono i fantasmi ed è più pericoloso.
+
 Requisiti
 ---------
 * **picklock**
@@ -14,6 +19,7 @@ Requisiti
 
 Premi
 -----
+* **400 eth**
 * ingredienti per equipaggiamento Rhyodin
 
 Inizio
