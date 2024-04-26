@@ -107,69 +107,25 @@ stivali
 pavese       227                **12**             7               -20 
 ============ ==== ====== ====== ====== ===== ===== ======= ======= ====
 
-* | Oggetto '**occhio difensore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO COLLO PERSONAL-EQ 
-
-  1. HP (max 227)
-  2. DAM (max 7)
-  3. redu pierce (max 6)
-  4. redu blunt (max 6)
-  5. TS (max -20)
-
-* | Oggetto '**mantello difensore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO INTORNO PERSONAL-EQ
-
-  1. HP (max 227)
-  2. DAM (max 7)
-  3. redu pierce (max 6)
-  4. redu slash (max 6)
-  5. TS (max -20)
-
-* | Oggetto '**pavese difensore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO SCUDO PERSONAL-EQ
-
-  1. HP (max 227)
-  2. DAM (max 7)
-  3. redu blunt (max 6)
-  4. redu blunt (max 6)
-  5. TS (max -20)
-
-* | Oggetto '**gambali difensore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO GAMBE PERSONAL-EQ
-
-  1. HP regain (max 70)
-  2. redu blunt (max 6)
-  3. redu slash (max 6)
-  4. redu pierce (max 6)
-  5. TS (max -20)
-
 Set Distruttore dei Piani
 -------------------------
 
-* | Oggetto '**orecchino distruttore piani**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ ORECCHIO 
-
-  1. HP (max 130)
-  2. DAM (max 7)
-  3. HIT (max 12)
-  4. extra attack (max 18)
-  5. TS (max -20)
+============ ==== ====== ====== ====== ===== ===== ======= ======= ====
+Pezzo        HP   HIT    HP Reg redBL  redSL redPR DAM     ExAtt   TS
+============ ==== ====== ====== ====== ===== ===== ======= ======= ====
+orecchino    130  12                               7       18%     -20                             
+============ ==== ====== ====== ====== ===== ===== ======= ======= ====
 
 NOSET Equivalenti
 -----------------
 Alcuni oggetti NOSET hanno le stesse caratteristiche di corrispettivi pezzi SET,
 ecco la tabella:
 
-========================== ========= =======================
-Pezzo SET                  Tipologia Pezzi NOSET Equivalenti
-========================== ========= =======================
-cintura guaritore piani    caster    cintura stoffa
-========================== ========= =======================
+================ ============= =======================
+Pezzo SET        Set           Pezzo NOSET Equivalente
+================ ============= =======================
+cintura          guaritore     cintura stoffa
+================ ============= =======================
 
 NOSET Unici
 -----------
