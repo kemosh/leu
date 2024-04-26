@@ -68,53 +68,53 @@ Livello  Rarità      Punti Rarità
 Set Guaritore dei Piani
 -----------------------
 
-============ ==== ====== ==== ====== ======== ======= ======= ====
-Pezzo        HP   HIT    Mana HP Reg Mana Reg SP      Focus   TS
-============ ==== ====== ==== ====== ======== ======= ======= ====
-elmo         130                     70       7       18%     -20
-occhio       130         130                  7       18%     -20
-spallacci                130                  **14**  18%     -20
-cintura      130  12                          7       18%     -20
-stivali      130                              7       **36%** -20
-orecchino                     70     70       7       18%     -20
-============ ==== ====== ==== ====== ======== ======= ======= ====
+============ ====== ==== ====== ==== ======== ======= ======= ====
+Pezzo        HIT    HP   HP Reg Mana Mana Reg SP      Focus   TS
+============ ====== ==== ====== ==== ======== ======= ======= ====
+elmo                130              70       7       18%     -20
+occhio              130         130           7       18%     -20
+spallacci                       130           **14**  18%     -20
+cintura      12     130                       7       18%     -20
+stivali             130                       7       **36%** -20
+orecchino                70          70       7       18%     -20
+============ ====== ==== ====== ==== ======== ======= ======= ====
 
 Set Manipolatore dei Piani
 --------------------------
 
-============ ==== ====== ==== ====== ======== ======= ======= ====
-Pezzo        HP   HIT    Mana HP Reg Mana Reg SP      Focus   TS
-============ ==== ====== ==== ====== ======== ======= ======= ====
-elmo              12                 70       7       18%     -20
-occhio       130  **24**                      7               -20
-spallacci    130  12                          7       18%     -20
-mantello     130  12                          7       18%     -20
-stivali           12     130                  **14**          -20
-paraschiena                   70     70       7       18%     -20
-============ ==== ====== ==== ====== ======== ======= ======= ====
+============ ====== ==== ====== ==== ======== ======= ======= ====
+Pezzo        HIT    HP   HP Reg Mana Mana Reg SP      Focus   TS
+============ ====== ==== ====== ==== ======== ======= ======= ====
+elmo         12                      70       7       18%     -20
+occhio       **24** 130                       7               -20
+spallacci    12     130                       7       18%     -20
+mantello     12     130                       7       18%     -20
+stivali      12                 130           **14**          -20
+paraschiena              70          70       7       18%     -20
+============ ====== ==== ====== ==== ======== ======= ======= ====
 
 Set Difensore dei Piani
 -----------------------
 
-============ ==== ====== ====== ====== ===== ===== ======= ======= ====
-Pezzo        HP   HIT    HP Reg redBL  redSL redPR DAM     ExAtt   TS
-============ ==== ====== ====== ====== ===== ===== ======= ======= ====
+============ ====== ==== ====== ====== ===== ===== ======= ======= ====
+Pezzo        HIT    HP   HP Reg redBL  redSL redPR DAM     ExAtt   TS
+============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 elmo                            
-occhio       227                6            6     7               -20
+occhio              227         6            6     7               -20
 gambali                  70     6      6     6                     -20
-mantello     227                       6     6     7               -20
+mantello            227                6     6     7               -20
 stivali 
-pavese       227                **12**             7               -20 
-============ ==== ====== ====== ====== ===== ===== ======= ======= ====
+pavese              227         **12**             7               -20 
+============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 
 Set Distruttore dei Piani
 -------------------------
 
-============ ==== ====== ====== ====== ===== ===== ======= ======= ====
-Pezzo        HP   HIT    HP Reg redBL  redSL redPR DAM     ExAtt   TS
-============ ==== ====== ====== ====== ===== ===== ======= ======= ====
-orecchino    130  12                               7       18%     -20                             
-============ ==== ====== ====== ====== ===== ===== ======= ======= ====
+============ ====== ==== ====== ====== ===== ===== ======= ======= ====
+Pezzo        HIT    HP   HP Reg redBL  redSL redPR DAM     ExAtt   TS
+============ ====== ==== ====== ====== ===== ===== ======= ======= ====
+orecchino    12     130                            7       18%     -20                             
+============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 
 NOSET Equivalenti
 -----------------
@@ -135,54 +135,11 @@ con nome diverse si equivalgono (per esempio maschera e occhiali):
 +--------------------+-----+------+---------+------+----------+------+-------+----+
 | Pezzo              | HIT |  HP  |  HP Reg | Mana | Mana Reg | SP   | Focus | TS |
 +====================+=====+======+=========+======+==========+======+=======+====+
-| pendente oro       | 12  | 130  |         | 130  |          | 7    |       | -20|
-| gioiello oro       |     |      |         |      |          |      |       |    |
+| | pendente oro     | 12  | 130  |         | 130  |          | 7    |       | -20|
+| | gioiello oro     |     |      |         |      |          |      |       |    |
 +--------------------+-----+------+---------+------+----------+------+-------+----+
 | | maschera argento |     | 130  |         |      |          | 7    |**36%**| -20|
 | | occhiali argento |     |      |         |      |          |      |       |    |
 +--------------------+-----+------+---------+------+----------+------+-------+----+
 | scudo dei passati  |     |      |         | 130  |          |**21**|       | -20|
 +--------------------+-----+------+---------+------+----------+------+-------+----+
-
-* | Oggetto '**pendente oro**', Tipo: ARMATURA
-  | Oggetto '**gioiello oro**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ ORECCHIO 
-
-  1. HP (max 130)
-  2. mana (max 130)
-  3. SP (max 7)
-  4. HIT (max 12)
-  5. TS (max -20)
-
-* | Oggetto '**scudo dei passati**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ SCHIENA 
-
-  1. mana (max 130)
-  2. SP (max 7)
-  3. SP (max 7)
-  4. SP (max 7)
-  5. TS (max -20)
-
-* | Oggetto '**maschera argento**', Tipo: ARMATURA
-  | Oggetto '**occhiali argento**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ OCCHI 
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. focus (max 18)
-  4. focus (max 18)
-  5. TS (max -20)
-
-* | Oggetto '**maschera oro**', Tipo: ARMATURA
-  | Oggetto '**occhiali oro**', Tipo: ARMATURA
-  | L'oggetto e`: RESISTENTE NO-EDIT 
-  | Puo' essere indossato su : INVENTARIO PERSONAL-EQ OCCHI 
-
-  1. HP (max 130)
-  2. SP (max 7)
-  3. SP (max 7)
-  4. HIT (max 12)
-  5. TS (max -20)
