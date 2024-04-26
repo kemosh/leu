@@ -26,6 +26,11 @@ Premi
 
 .. note::
 
+   Per sapere quante e quali monete sono poppate si può andare da **Ekkhae**
+   (vedi :ref:`locate_object`) e chiedere un locate: ``whisper ekk moneta``
+
+.. note::
+
    Nell'area della quest non è possibile lasciare oggetti, attenzione a non
    raccogliere troppe **monete d'argento**!
 

@@ -1,0 +1,22 @@
+RHYODIN
+=======
+La quest consiste nel riportare nella dimensione reale la zona di Rhyodin.
+Guardare l'ora (``time``), tra le 22:00 e le 5:00 ci sono i fantasmi ed è più pericoloso.
+La quest in origine prevedeva di trovare una serie di oggetti per **Valik** al fine
+di ottenere una chiave per aprire un portale, ora è possibile usare **picklock** e
+saltare questa parte.
+
+Requisiti
+---------
+* **picklock**
+* **bachetta di quercia** o altro metodo di sblocco magico
+* 5x **pagnotta** da dare a **Latimore**
+
+Premi
+-----
+* ingredienti per equipaggiamento Rhyodin
+
+Inizio
+------
+* ``astral;u;n;w;w;enter spe`` per arrivare al *Fiume delle Anime Perdute*
+* ``w;w;w;u;w;w;s;w;w;s;s;s;e;e;push teschio``

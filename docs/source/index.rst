@@ -68,6 +68,7 @@ Attualmente sviluppato, mantenuto e gestito da **Archie**.
    quest/tirck
    quest/ecate
    quest/incubi
+   quest/rhyodin
    quest/bosco_dei_sogni
    quest/celestia
    quest/regni_combattenti

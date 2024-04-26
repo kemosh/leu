@@ -78,8 +78,11 @@ Riparazione Equipaggiamento
 * path per **Plutarco** da *Alma Civitas* (ripara tutto):
   ``astral;u;n;w;w;n;u;w;u;u;enter spe;e;d;d;d;n;n;e;e;e;u;u;open masso;e;e;n;e;s;d;d;w;w``
 
+.. _locate_object:
+
 Localizzazione Oggetti
 ----------------------
+**Ekkhae, la gitana** offre il servizio di **locate object**:
 
 * path da *Alma Civitas*: ``s;s;e;e;e``
 * comando: ``whisper gitana OGGETTO``

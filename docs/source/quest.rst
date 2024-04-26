@@ -57,7 +57,7 @@ Livello 3
    :doc:`quest/ecate`                        180 min.
    GIARDINI                                  180 min.
    :doc:`quest/incubi`                       180 min.
-   RHYODIN                            eth    180 min.
+   :doc:`/quest/rhyodin`              eth    180 min.
    OLTRE IL PORTALE                          240 min.
    PILASTRI                           eth    300 min.
    VILLA DELLE FESTE                         360 min.
