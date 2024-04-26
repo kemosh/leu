@@ -9,7 +9,7 @@ quali di questi bonus sono attivi. I pezzi **NOSET** hanno un cap al livello
 che può essere alzato fino a 20 usando i **frammenti entropici** e
 fino a 25 usando i **frammenti entropici maggiori**, l'operazione costa
 **ethereum**, consultare :doc:`/accademia_astrale` per i dettagli.
-Tutti i pezzi seguono la seguente tabella per evoluzione degli slot, a seconda
+Tutti gli slot seguono la seguente tabella di evoluzione, a seconda
 del livello di infusione, vedi ``help infusione``:
 
 ======= ===  ======= ====== === === ====== === ==== ====
