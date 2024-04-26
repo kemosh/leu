@@ -9,7 +9,7 @@ quali di questi bonus sono attivi. I pezzi **NOSET** hanno un cap al livello
 che può essere alzato fino a 20 usando i **frammenti entropici** e
 fino a 25 usando i **frammenti entropici maggiori**, l'operazione costa
 **ethereum**, consultare :doc:`/accademia_astrale` per i dettagli.
-Tutti gli slot seguono la seguente tabella di evoluzione, a seconda
+Tutti i pezzi seguono la seguente tabella per evoluzione degli slot, a seconda
 del livello di infusione, vedi ``help infusione``:
 
 ======= ===  ======= ====== === === ====== === ==== ====
@@ -135,12 +135,10 @@ con nome diverse si equivalgono (per esempio maschera e occhiali):
 +------------------+-----+------+---------+------+----------+----+-------+----+
 | Pezzo            | HIT |  HP  |  HP Reg | Mana | Mana Reg | SP | Focus | TS |
 +==================+=====+======+=========+======+==========+====+=======+====+
-| pendente oro     |     |      |         |      |          |    |       |    |
-+------------------+ 12  | 130  |         | 130  |          | 7  |       | -20|
+| pendente oro     | 12  | 130  |         | 130  |          | 7  |       | -20|
 | gioiello oro     |     |      |         |      |          |    |       |    |
 +------------------+-----+------+---------+------+----------+----+-------+----+
-| maschera argento |     |      |         |      |          |    |       |    |
-+------------------+     | 130  |         |      |          | 7  |  36%  | -20|
+| maschera argento |     | 130  |         |      |          | 7  |  36%  | -20|
 | occhiali argento |     |      |         |      |          |    |       |    |
 +------------------+-----+------+---------+------+----------+----+-------+----+
 | scudo dei passati|     |      |         | 130  |          | 21 |       | -20|
