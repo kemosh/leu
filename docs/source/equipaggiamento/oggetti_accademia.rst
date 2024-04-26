@@ -132,6 +132,20 @@ NOSET Unici
 Pezzi **NOSET** per cui non c'è un corrispettivo **SET**. Alcuni oggetti
 con nome diverse si equivalgono (per esempio maschera e occhiali):
 
++------------------+-----+------+---------+------+----------+----+-------+----+
+| Pezzo            | HIT |  HP  |  HP Reg | Mana | Mana Reg | SP | Focus | TS |
++==================+=====+======+=========+======+==========+====+=======+====+
+| pendente oro     |     |      |         |      |          |    |       |    |
++------------------+ 12  | 130  |         | 130  |          | 7  |       | -20|
+| gioiello oro     |     |      |         |      |          |    |       |    |
++------------------+-----+------+---------+------+----------+----+-------+----+
+| maschera argento |     |      |         |      |          |    |       |    |
++------------------+     | 130  |         |      |          | 7  |  36%  | -20|
+| occhiali argento |     |      |         |      |          |    |       |    |
++------------------+-----+------+---------+------+----------+----+-------+----+
+| scudo dei passati|     |      |         | 130  |          | 21 |       | -20|
++------------------+-----+------+---------+------+----------+----+-------+----+
+
 * | Oggetto '**pendente oro**', Tipo: ARMATURA
   | Oggetto '**gioiello oro**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 
