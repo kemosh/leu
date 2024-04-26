@@ -96,16 +96,16 @@ paraschiena                   70     70       7       18%     -20
 Set Difensore dei Piani
 -----------------------
 
-============ ==== ====== ====== ===== ===== ===== ======= ======= ====
-Pezzo        HP   HIT    HP Reg redBL redSL redPR DAM     ExAtt   TS
-============ ==== ====== ====== ===== ===== ===== ======= ======= ====
+============ ==== ====== ====== ====== ===== ===== ======= ======= ====
+Pezzo        HP   HIT    HP Reg redBL  redSL redPR DAM     ExAtt   TS
+============ ==== ====== ====== ====== ===== ===== ======= ======= ====
 elmo                            
-occhio       227                6           6     7               -20
-gambali                  70     6     6     6                     -20
-mantello     227                      6     6     7               -20
+occhio       227                6            6     7               -20
+gambali                  70     6      6     6                     -20
+mantello     227                       6     6     7               -20
 stivali 
-pavese       227                **12**            7               -20 
-============ ==== ====== ====== ===== ===== ===== ======= ======= ====
+pavese       227                **12**             7               -20 
+============ ==== ====== ====== ====== ===== ===== ======= ======= ====
 
 * | Oggetto '**occhio difensore piani**', Tipo: ARMATURA
   | L'oggetto e`: RESISTENTE NO-EDIT 

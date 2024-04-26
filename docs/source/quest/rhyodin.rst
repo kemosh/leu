@@ -1,14 +1,13 @@
 RHYODIN
 =======
 La quest consiste nel riportare nella dimensione reale la zona di Rhyodin.
-Guardare l'ora (``time``), tra le 22:00 e le 5:00 ci sono i fantasmi ed è più pericoloso.
-La quest in origine prevedeva di trovare una serie di oggetti per **Valik** al fine
+In origine era necessario trovare una serie di oggetti per **Valik** al fine
 di ottenere una chiave per aprire un portale, ora è possibile usare **picklock** e
 saltare questa parte.
 
 .. note::
 
-    Prima di iniziare la quest Guardare l'ora (``time``), tra le 22:00 e le 5:00
+    Prima di iniziare la quest guardare l'ora (``time``), tra le 22:00 e le 5:00
     ci sono i fantasmi ed è più pericoloso.
 
 Requisiti
