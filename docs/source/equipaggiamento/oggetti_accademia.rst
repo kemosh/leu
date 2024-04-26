@@ -62,8 +62,7 @@ Livello  Rarità      Punti Rarità
 .. note::
 
    La key ``pendente`` è usata sia per alcuni orecchini (per esempio ``pendente-oro``),
-   sia per alcune collane (per esempio ``pendente-argento``), attenzione a non spendere
-   risorse in un pezzo che non si può indossare!
+   sia per alcune collane (per esempio ``pendente-argento``)!
 
 Set Guaritore dei Piani
 -----------------------
