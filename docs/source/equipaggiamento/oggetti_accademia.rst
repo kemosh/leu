@@ -99,11 +99,10 @@ Set Difensore dei Piani
 ============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 Pezzo        HIT    HP   HP Reg redBL  redSL redPR DAM     ExAtt   TS
 ============ ====== ==== ====== ====== ===== ===== ======= ======= ====
-elmo                            
+elmo                227                6     6     7               -20
 occhio              227         6            6     7               -20
 gambali                  70     6      6     6                     -20
 mantello            227                6     6     7               -20
-stivali 
 pavese              227         **12**             7               -20 
 ============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 
@@ -125,6 +124,9 @@ ecco la tabella:
 Pezzo SET        Set           Pezzo NOSET Equivalente
 ================ ============= =======================
 cintura          guaritore     cintura stoffa
+stivali          guaritore     stivali stoffa
+stivali          manipolatore  scarpe seta
+mantello         manipolatore  manto seta
 ================ ============= =======================
 
 NOSET Unici
@@ -138,8 +140,14 @@ con nome diverse si equivalgono (per esempio maschera e occhiali):
 | | pendente oro     | 12  | 130  |         | 130  |          | 7    |       | -20|
 | | gioiello oro     |     |      |         |      |          |      |       |    |
 +--------------------+-----+------+---------+------+----------+------+-------+----+
+| | maschera oro     | 12  | 130  |         |      |          |**14**|       | -20|
+| | occhiali oro     |     |      |         |      |          |      |       |    |
++--------------------+-----+------+---------+------+----------+------+-------+----+
 | | maschera argento |     | 130  |         |      |          | 7    |**36%**| -20|
 | | occhiali argento |     |      |         |      |          |      |       |    |
++--------------------+-----+------+---------+------+----------+------+-------+----+
+| | pantaloni oro    |     | 130  |         |      |          | 7    |**36%**| -20|
+| | schinieri oro    |     |      |         |      |          |      |       |    |
 +--------------------+-----+------+---------+------+----------+------+-------+----+
 | scudo dei passati  |     |      |         | 130  |          |**21**|       | -20|
 +--------------------+-----+------+---------+------+----------+------+-------+----+
