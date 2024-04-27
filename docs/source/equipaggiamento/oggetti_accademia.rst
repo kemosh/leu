@@ -126,6 +126,7 @@ cintura          guaritore     cintura stoffa
 stivali          guaritore     stivali stoffa
 stivali          manipolatore  scarpe seta
 mantello         manipolatore  manto seta
+spallacci        manipolatore  maniche oro
 ================ ============= =======================
 
 NOSET Unici
@@ -147,6 +148,8 @@ con nome diverse si equivalgono (per esempio maschera e occhiali):
 +--------------------+-----+------+---------+------+----------+------+-------+----+
 | | pantaloni oro    |     | 130  |         |      |          | 7    |**36%**| -20|
 | | schinieri oro    |     |      |         |      |          |      |       |    |
++--------------------+-----+------+---------+------+----------+------+-------+----+
+| maniche oro        | 12  |      |         | 130  |          | 7    | 18%   | -20|
 +--------------------+-----+------+---------+------+----------+------+-------+----+
 | scudo dei passati  |     |      |         | 130  |          |**21**|       | -20|
 +--------------------+-----+------+---------+------+----------+------+-------+----+
