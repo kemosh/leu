@@ -36,7 +36,7 @@ Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
 
   - buon prompt di default: ``set prompt 19``
   - | prompt per monaci, ranger, ladri e psionici (mostra i punti energia: ``%e/%E``): 
-    | ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0011%g $c0008%x $c0005%e/%E $c0007%n/%c - %N/%C %S``
+    | ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0011%g $c0008%x $c0007%n/%c - %N/%C $c0005%e/%E $c0007%S``
 
   da notare che i colori si specificano usando ``$cXXYY`` dove XX è il colore di sfondo e YY è il colore
   del testo. Il testo normale, grigio su sfondo nero, corriponde a ``$cXXYY``, vedi: ``help color``
@@ -49,6 +49,7 @@ Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
 
 - | **Compact Combat**, permette di ridurre lo scroll raggruppando gli attacchi fisici:
   | ``set compact enable``
+  | il compact combat non è compagibile con il brief (vedi ``help brief``)
 
 Scopo del Gioco
 ---------------
