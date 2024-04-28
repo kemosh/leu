@@ -32,17 +32,23 @@ Configurazione LeU
 Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
 
 - **Prompt**, è fondamentale per avere informazioni in tempo reale durante la battaglia
-  (consultare ``help prompt``) per i dettagli:
+  (consultare ``help prompt``) per i dettagli, ecco alcune configurazioni consigliate:
 
   - buon prompt di default: ``set prompt 19``
-  - prompt caster: ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0009%e/%E$c0007 %S``
+  - | prompt per monaci, ranger, ladri e psionici (mostra i punti energia: ``%e/%E``): 
+    | ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0011%g $c0008%x $c0005%e/%E $c0007%n/%c - %N/%C %S``
 
   da notare che i colori si specificano usando ``$cXXYY`` dove XX è il colore di sfondo e YY è il colore
-  del testo. Il testo normale, grigio su sfondo nero, corriponde a ``$cXXYY``
+  del testo. Il testo normale, grigio su sfondo nero, corriponde a ``$cXXYY``, vedi: ``help color``
 
-- Colori
-- Autoexits
-- Compact Combat
+- | **Colori**, abilitare i colori con il comando:
+  | ``set ansi on``
+
+- | **Autoexits**, impostare la visualizzazione automatica delle uscite con il comando:
+  | ``set autoexits on``
+
+- | **Compact Combat**, permette di ridurre lo scroll raggruppando gli attacchi fisici:
+  | ``set compact enable``
 
 Scopo del Gioco
 ---------------
