@@ -71,7 +71,7 @@ per i dettagli: ``help position``. Ecco le 5 procedure:
     in posizioni diverse della stanza
 
 * | **Raggio**
-  | *frase*: ``?``
+  | *frase*: ``La pyoylvyer..ey txorneyra` pzolvere.z``
   | *difficoltà*: medio
   | *procedura*: il MOB guarderà un punto della stanza e poi, il round successivo, lo colpirà
      con un raggio, causando 1500 HP di danno a chiunque si trovi in quella posizione.
@@ -93,10 +93,10 @@ per i dettagli: ``help position``. Ecco le 5 procedure:
   | *frase*: ``Rxacc..o..glxiyerete.. ymolzto piuy` diz quanto.. ..av..eyte yszemi..nayto``
   | *difficoltà*: difficile
   | *procedura*: quando il MOB pronuncia la frase, il round precedente rispetto a quando
-    cerrà avvolto da un'aurea, bisogna smettere di fargli danno, dando stop se si è
+    verrà avvolto da un'aurea, bisogna smettere di fargli danno, dando stop se si è
     ingaggiati in combattimento (il tank deve dare stop 2 volte), altrimenti si curerà fino
-    a 20K HP. Inoltre il round dell'aurea, ogni cura lanciata sul MOB gli causa ingenti
-    danni.
+    a 20K HP. Inoltre durante il round dell'aurea, ogni cura lanciata sul MOB gli causerà
+    ingenti danni.
 
 Se non si segue la procedura si subisce danno mortale (3000 HP), invece seguire la 
 procedura permette di continuare a svolgere il combattimento subendo il normale danno.
