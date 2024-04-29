@@ -22,6 +22,7 @@ Premi
 -----
 * **400 eth**
 * ingredienti per equipaggiamento Rhyodin
+* oggetti Ryhodin
 
 Inizio
 ------
@@ -56,16 +57,23 @@ Le Prime due Chiavi
 
 * i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata
 
-
-La Tomba Nascosta del Generale
-------------------------------
-* andare nord del cumulo a est, c'è un passaggio segreto down
-* unlock barriera; open barriera (chiave eterea)
-* usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago``
-
 La Tomba Nascosta del Re
 ------------------------
 * andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;unlock barriera;open barriera``
 * andare down: sconfiggerre **Re Fantasma** e **Regina Fantasma** (con 4x **guardia del corpo**) e prendere la
   **chiave distorta** e la **chiave spettrale**
-* aprire usando la chiave trovata nel sarcofago: ``unlock pulsante;open pulsante``
+
+La Tomba Nascosta del Generale
+------------------------------
+* andare nord del cumulo a est, c'è un passaggio segreto down
+* ``unlock barriera; open barriera;d`` (**chiave Eterea**)
+* ``unlock sarcofago; open sarcofago;get all sarcofato`` (**chiave Spettrale**)
+* usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago``
+
+Una Intensa Luce
+----------------
+Questa è la stanza finale con i premi, qui si incontra Shimeril e si salva il regno di Ryhodin.
+
+* tornare alla *Tomba Nascosta del Re*
+* ``unlock pulsante;open pulsante;down``
+* aspettare la teleport: ``unlock forziere;open forziere;get all forziere;unlock scrigno;open scrigno;get all scrigno``
