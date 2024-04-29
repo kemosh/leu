@@ -28,7 +28,7 @@ Inizio
 * andare agli *Alloggi Militari*: ``s;e;s;w;u;e;n;n;e;e;e``
 * qui dovrebbe esserci **Lattimore** che dorme. Seguire **Lattimore** e dargli 5 pagnotte
 * lattimore si muoverà fino alla *Sala Riuninoni* e consegnerà una chiave (si sposterà w;w;w;s;s;w;u;n;e)
-* andare all'ingresso, dalla *Sala Riunioni*: ``w;s;d;e;n;n;e;e;s;s;e``
-  **NB** il path per l'ingresso dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
-* ulock
+* | andare al *Portale d'ingresso*, dalla *Sala Riunioni*: ``w;s;d;e;n;n;e;e;s;s;e``
+  | **NB** il path per il *Portale d'ingresso* dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
+* ``ulock ea;open ea;e``
 
