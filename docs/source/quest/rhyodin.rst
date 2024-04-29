@@ -60,6 +60,7 @@ Le Prime due Chiavi
 La Tomba Nascosta del Generale
 ------------------------------
 * andare nord del cumulo a est, c'è un passaggio segreto down
+* unlock barriera; open barriera (chiave eterea)
 * usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago``
 
 La Tomba Nascosta del Re
