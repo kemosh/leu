@@ -38,8 +38,8 @@ Inizio
 * ``n;n;unlock porta;open porta;w;get sigillo;e;n;n``
 * a est c'è: *La grotta del terrore*, sbloccare magicamente ad est (**bacchetta di quercia**) e aprire
 
-Corsa per la chiave
--------------------
+Le Tre Chiavi
+-------------
 * andare a est, uccidere i MOB e raccogliere i **glifo di Interdizione** fino a trovarne uno **indistruttibile** (la chiave)
 * trovata la chiave andare a sud fino a un'uscita chiusa *In trappola!*: ``unlock so;open so;s``
 * scatta una teleport, poi ci si trova in un'area con molti mob e due locazioni *Il cumulo di ossa*, una a est una a ovest
@@ -52,7 +52,20 @@ Corsa per la chiave
   uccidere il **Generale Fantasma** e recuperare la **chiave Eterea** dal suo corpo
 
 * i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata
+
+
+La Tomba Nascosta del Generale
+------------------------------
 * andare nord del cumulo a est, c'è un passaggio segreto down
+* usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago``
+
+La Tomba del Re
+---------------
+* andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;unlock barriera;open barriera``
+* andare down: sconfiggerre **Re Fantasma** e **Regina Fantasma** (con 4x **guardia del corpo**) e prendere la
+  **chiave distorta**
+* aprire usando la chiave trovata nel sarcofago: ``unlock pulsante;open pulsante``
+
 
 
 
