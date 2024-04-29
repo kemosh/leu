@@ -35,7 +35,24 @@ Inizio
 * ``ulock ea;open ea;e;s;s;s`` fino a *I Candelli di Rhyodin*
 * invece di reperire gli oggetti da **Valik** è possibile fare ``doorbash so``
 * ``s;picklock bauletto;get all bauletto``, andare tutto a nord: ``run n`` e scavare: ``dig tunnel``
+* ``n;n;unlock porta;open porta;w;get sigillo;e;n;n``
+* a est c'è: *La grotta del terrore*, sbloccare magicamente ad est (**bacchetta di quercia**) e aprire
 
+Corsa per la chiave
+-------------------
+* andare a est, uccidere i MOB e raccogliere i **glifo di Interdizione** fino a trovarne uno **indistruttibile** (la chiave)
+* trovata la chiave andare a sud fino a un'uscita chiusa *In trappola!*: ``unlock so;open so;s``
+* scatta una teleport, poi ci si trova in un'area con molti mob e due locazioni *Il cumulo di ossa*, una a est una a ovest
+  i cumuli sono le uniche stanze gain
+* in particolare ci sono due MOB:
+
+  - **Luogotenente Fantasma**
+  - **Generale Fantasma**
+
+  uccidere il **Generale Fantasma** e recuperare la **chiave Eterea** dal suo corpo
+
+* i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata
+* andare nord del cumulo a est, c'è un passaggio segreto down
 
 
 
