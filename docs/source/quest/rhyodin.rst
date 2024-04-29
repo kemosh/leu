@@ -51,30 +51,28 @@ Le Prime due Chiavi
   i cumuli sono le uniche stanze gain
 * in particolare ci sono due MOB:
 
-  - **Luogotenente Fantasma**
-  - **Generale Fantasma**
+  - **Luogotenente Fantasma** ha la **chiave Spettrale**
+  - **Generale Fantasma** ha la **chiave Eterea**
 
-  uccidere il **Generale Fantasma** e recuperare la **chiave Eterea** dal suo corpo
+  uccidere i due MOB e recuperare le chiavi
 
 * i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata
-
-La Tomba Nascosta del Re
-------------------------
-* andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;unlock barriera;open barriera``
-* andare down: sconfiggerre **Re Fantasma** e **Regina Fantasma** (con 4x **guardia del corpo**) e prendere la
-  **chiave distorta** e la **chiave spettrale**
 
 La Tomba Nascosta del Generale
 ------------------------------
 * andare nord del cumulo a est, c'è un passaggio segreto down
 * ``unlock barriera; open barriera;d`` (**chiave Eterea**)
 * ``unlock sarcofago; open sarcofago;get all sarcofato`` (**chiave Spettrale**)
-* usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago``
+* usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago;get all sarcofago`` e ottenere
+  **chiave ossea**
+
+La Tomba Nascosta del Re
+------------------------
+* andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;unlock barriera;open barriera``
+* andare down: sconfiggerre **Re Fantasma** e **Regina Fantasma** (con 4x **guardia del corpo**) e prendere la
+  **chiave distorta**
 
 Una Intensa Luce
 ----------------
-Questa è la stanza finale con i premi, qui si incontra Shimeril e si salva il regno di Ryhodin.
-
-* tornare alla *Tomba Nascosta del Re*
 * ``unlock pulsante;open pulsante;down``
 * aspettare la teleport: ``unlock forziere;open forziere;get all forziere;unlock scrigno;open scrigno;get all scrigno``
