@@ -2,7 +2,7 @@ RHYODIN
 =======
 La quest consiste nel riportare nella dimensione reale la zona di Rhyodin.
 In origine era necessario trovare una serie di oggetti per **Valik** al fine
-di ottenere una chiave per aprire un portale, ora è possibile usare **picklock** e
+di ottenere una chiave per aprire un portale, ora è possibile usare **doorbash** e
 saltare questa parte.
 
 .. note::
@@ -12,7 +12,7 @@ saltare questa parte.
 
 Requisiti
 ---------
-* **picklock**
+* **doorbash**
 * **bachetta di quercia** o altro metodo di sblocco magico
 * 5x **pagnotta** da dare a **Latimore**
 
@@ -30,5 +30,8 @@ Inizio
 * lattimore si muoverà fino alla *Sala Riuninoni* e consegnerà una chiave (si sposterà w;w;w;s;s;w;u;n;e)
 * | andare al *Portale d'ingresso*, dalla *Sala Riunioni*: ``w;s;d;e;n;n;e;e;s;s;e``
   | **NB** il path per il *Portale d'ingresso* dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
-* ``ulock ea;open ea;e``
+* ``ulock ea;open ea;e;s;s;s`` fino a *I Candelli di Rhyodin*
+* invece di reperire gli oggetti da **Valik** è possibile fare ``doorbash so``
+
+
 
