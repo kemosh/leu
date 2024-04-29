@@ -32,7 +32,7 @@ Inizio
 * lattimore si muoverà fino alla *Sala Riuninoni* e consegnerà una chiave (si sposterà w;w;w;s;s;w;u;n;e)
 * | andare al *Portale d'ingresso*, dalla *Sala Riunioni*: ``w;s;d;e;n;n;e;e;s;s;e``
   | **NB** il path per il *Portale d'ingresso* dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
-* ``ulock ea;open ea;e;s;s;s`` fino a *I Candelli di Rhyodin*
+* ``ulock ea;open ea;e;s;s;s`` fino a *I Cancelli di Rhyodin*
 * invece di reperire gli oggetti da **Valik** è possibile fare ``doorbash so``
 * ``s;picklock bauletto;get all bauletto``, andare tutto a nord: ``run n`` e scavare: ``dig tunnel``
 * ``n;n;unlock porta;open porta;w;get sigillo;e;n;n``
