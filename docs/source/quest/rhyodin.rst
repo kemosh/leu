@@ -43,7 +43,7 @@ La Corsa per la Quest
 * andare a est, uccidere i MOB e raccogliere i **glifo di Interdizione** fino a trovarne uno **indistruttibile** (la chiave)
 * trovata la chiave andare a sud fino a un'uscita chiusa *In trappola!*: ``unlock so;open so;s``
 
-Le prime due Chiavi
+Le Prime due Chiavi
 -------------------
 * scatta una teleport, poi ci si trova in un'area con molti mob e due locazioni *Il cumulo di ossa*, una a est una a ovest
   i cumuli sono le uniche stanze gain
@@ -62,8 +62,8 @@ La Tomba Nascosta del Generale
 * andare nord del cumulo a est, c'è un passaggio segreto down
 * usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago``
 
-La Tomba del Re
----------------
+La Tomba Nascosta del Re
+------------------------
 * andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;unlock barriera;open barriera``
 * andare down: sconfiggerre **Re Fantasma** e **Regina Fantasma** (con 4x **guardia del corpo**) e prendere la
   **chiave distorta**
