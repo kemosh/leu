@@ -25,3 +25,6 @@ Inizio
 ------
 * ``astral;u;n;w;w;enter spe`` per arrivare al *Fiume delle Anime Perdute*
 * ``w;w;w;u;w;w;s;w;w;s;s;s;e;e;push teschio``
+* andare all'ingresso: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
+* cercare l'orco **Lattimore**
+
