@@ -3,7 +3,8 @@ RHYODIN
 La quest consiste nel riportare nella dimensione reale la zona di Rhyodin.
 In origine era necessario trovare una serie di oggetti per **Valik** al fine
 di ottenere una chiave per aprire un portale, ora è possibile usare **doorbash** e
-saltare questa parte.
+saltare questa parte. Vedi :doc:`equipaggiamento/oggetti_rhyodin` per gli oggetti
+che è possibile forgiare con gli ingredienti che si trovano in questa quest.
 
 .. note::
 
