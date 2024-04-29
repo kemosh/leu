@@ -13,6 +13,8 @@ saltare questa parte.
 Requisiti
 ---------
 * **doorbash**
+* **picklock**
+* **pala** o oggetto/arma con flag **dig**
 * **bachetta di quercia** o altro metodo di sblocco magico
 * 5x **pagnotta** da dare a **Latimore**
 
@@ -32,6 +34,9 @@ Inizio
   | **NB** il path per il *Portale d'ingresso* dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
 * ``ulock ea;open ea;e;s;s;s`` fino a *I Candelli di Rhyodin*
 * invece di reperire gli oggetti da **Valik** è possibile fare ``doorbash so``
+* ``s;picklock bauletto;get all bauletto``, andare tutto a nord: ``run n`` e scavare: ``dig tunnel``
+
+
 
 
 
