@@ -6,7 +6,7 @@ Primi Passi
 
 * XP per raggiungere il livello 50
 
-* reincarnazione: è possibile reincarnarsi in ul altra razza per ottenere 
+* reincarnazione: è possibile reincarnarsi in una delle razze speciali per ottenere 
   abilità, resistenze e immunità, consulta l'help per i dettagli. Per reincarnarni
   è necessarion procurarsi un **cristallo della forma** e darlo a un MOB, specifico
   per ogni razza:
@@ -15,10 +15,11 @@ Primi Passi
 
 * aumentare la statistiche naturali: è necessario un cristallo specifico per ogni
   statistica. I cristalli possono essere comprati ad *Allania* e lo stesso vale per il
-  servizio di icremento statistica
+  servizio di icremento statistica.
+  In totale **è possibile aumentare di 10 punti le statistiche iniziali**
 
-* **edit** e **over edit** sul personaggio: costano **gemme**, possono essere fatti ad Allania,
-  usare i comandi ``showres`` e ``showedit`` per verificare lo stato
+* **edit** e **over edit** sul personaggio: costano **gemme** e **XP**, possono essere
+    fatti ad Allania, usare i comandi ``showres`` e ``showedit`` per verificare lo stato
 
 * **edit leggendari**: come i precedenti ma costano **gemme** e **lingotti**, andranno
   fatti mano a mano che si trovano i lingotti
