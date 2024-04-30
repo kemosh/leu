@@ -30,8 +30,9 @@ Inizio
 * ``astral;u;n;w;w;enter spe`` per arrivare al *Fiume delle Anime Perdute*
 * ``w;w;w;u;w;w;s;w;w;s;s;s;e;e;push teschio``
 * andare agli *Alloggi Militari*: ``s;e;s;w;u;e;n;n;e;e;e``
-* qui dovrebbe esserci **Lattimore** che dorme. Seguire **Lattimore** e dargli 5 pagnotte
-* lattimore si muoverà fino alla *Sala Riuninoni* e consegnerà una chiave (si sposterà w;w;w;s;s;w;u;n;e)
+* qui dovrebbe esserci **Lattimore** che dorme. Dare 5 pagnotte a **Lattimore** e precederlo 
+  in *Sala Riunioni*: ``w;w;w;s;s;w;u;n;e``
+* aspettare **Lattimore** per ricevere la chiave
 * | andare al *Portale d'ingresso*, dalla *Sala Riunioni*: ``w;s;d;e;n;n;e;e;s;s;e``
   | **NB** il path per il *Portale d'ingresso* dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
 * ``ulock ea;open ea;e;s;s;s`` fino a *I Cancelli di Rhyodin*
