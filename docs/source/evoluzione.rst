@@ -36,7 +36,7 @@ Oggetto molto potente che può essere comprato con le gemme. Vedi ``help scintil
 
 Corazza di Skaglie di Drago
 ---------------------------
-Con 20 **skalie di drago** è possibile comprare la **corazza di drago**, un'armatura con
+Con 20 **skaglie di drago** è possibile comprare la **corazza di drago**, un'armatura con
 **resistenza all'impatto**. Spendendo altri ingredienti è possibile potenziarla fino a una
 versione che ha rarità **COMUNE**, vedi ``help corazze supreme``. Le **skaglie di drago**
 in origine uscivano come premio a **Ravenloft**, ora è anche possibile comprarle da
