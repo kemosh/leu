@@ -43,7 +43,8 @@ Inizio
 
 La Corsa per la Quest
 ---------------------
-* andare a est, uccidere i MOB e raccogliere i **glifo di Interdizione** fino a trovarne uno **indistruttibile** (la chiave)
+* andare a est, uccidere i MOB e raccogliere i **glifo di Interdizione** fino a trovarne uno **indistruttibile** (la chiave),
+  tra i vari scheletri guardiani c'è la **Regina degli Scheletri** che è più forte
 * trovata la chiave andare a sud fino a un'uscita chiusa *In trappola!*: ``unlock so;open so;s``
 
 Le Prime due Chiavi
