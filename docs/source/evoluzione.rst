@@ -11,18 +11,17 @@ Primi Passi
   è necessarion procurarsi un **cristallo della forma** e darlo a un MOB, specifico
   per ogni razza:
 
-  * **spettro**: consegnare il cristallo a uno ``spettro-anello``, è portalabile
+  - **spettro**: consegnare il cristallo a uno ``spettro-anello``, è portalabile
 
 * aumentare la statistiche naturali: è necessario un cristallo specifico per ogni
-  statistica. I cristalli possono essere comprati ad *Allania* e lo stesso vale per il
-  servizio di icremento statistica.
+  statistica. I cristalli possono essere comprati ad *Allania* e lo stesso vale per
+  il servizio di icremento statistica.
   In totale **è possibile aumentare di 10 punti le statistiche iniziali**
 
 * **edit** e **over edit** sul personaggio: costano **gemme** e **XP**, possono essere
-    fatti ad Allania, usare i comandi ``showres`` e ``showedit`` per verificare lo stato
+  fatti ad Allania. Usare i comandi ``showres`` e ``showedit`` per verificare lo stato
 
-* **edit leggendari**: come i precedenti ma costano **gemme** e **lingotti**, andranno
-  fatti mano a mano che si trovano i lingotti
+* **edit leggendari**: come i precedenti ma costano **gemme**, **mdc** e **lingotti**
 
 Equipaggiamento Accademia Astrale
 ---------------------------------
