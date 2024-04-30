@@ -70,7 +70,7 @@ La Tomba Nascosta del Generale
 
 La Tomba Nascosta del Re
 ------------------------
-* andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;unlock barriera;open barriera``
+* andare a west del cumulo a ovest: ``unlock coperchio;open coperchio;d;unlock barriera;open barriera``
 * andare down: sconfiggerre **Re Fantasma** e **Regina Fantasma** (con 4x **guardia del corpo**) e prendere la
   **chiave distorta**
 
