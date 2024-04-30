@@ -39,7 +39,7 @@ Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
     | ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0011%g $c0008%x $c0007%n/%c - %N/%C $c0005%e/%E $c0007%S``
 
   da notare che i colori si specificano usando ``$cXXYY`` dove XX è il colore di sfondo e YY è il colore
-  del testo. Il testo normale, grigio su sfondo nero, corriponde a ``$cXXYY``, vedi: ``help color``
+  del testo. Il testo normale, grigio su sfondo nero, corriponde a ``$c0007``, vedi: ``help color``
 
 - | **Colori**, abilitare i colori con il comando:
   | ``set ansi on``
