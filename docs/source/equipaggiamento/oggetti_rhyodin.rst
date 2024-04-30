@@ -18,7 +18,7 @@ Oggetti
 
   | Il livello di potenza di questo oggetto e` 33.
 
-* | Oggetto 'anello Rhyodin tank', Tipo: ARMATURA
+* | Oggetto '**anello Rhyodin tank**', Tipo: ARMATURA
   | L'oggetto e`: METALLICO ANTI-CHIERICI ANTI-MAGHI ANTI-PSIONICI ANTI-DRUIDI 
   | Puo' essere indossato su : INVENTARIO DITO PERSONAL-EQ 
   | Peso: 5, Valore: 50000, Costo di rent: 5000 [RARO]
