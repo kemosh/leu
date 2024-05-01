@@ -9,7 +9,14 @@ che è possibile forgiare con gli ingredienti che si trovano in questa quest.
 .. note::
 
     Prima di iniziare la quest guardare l'ora (``time``), tra le 22:00 e le 5:00
-    ci sono i fantasmi ed è più pericoloso.
+    ci sono i fantasmi ed è più pericoloso. Alle 5:00 i fantasmi si dissolvono
+    *"nella luce del mattino"*
+
+.. note::
+
+    Durante l'ora dei fantasmi **Lattimore** si nasconde sotto il letto, è **hide**
+    ne *Gli Alloggi Militari*, attenzione a non ucciderlo con attacchi ad area.
+    Viene fuori alle 6:00 e si mette a dormire
 
 Requisiti
 ---------
