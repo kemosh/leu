@@ -44,7 +44,8 @@ Inizio
 La Corsa per la Quest
 ---------------------
 * andare a est, uccidere i MOB e raccogliere i **glifo di Interdizione** fino a trovarne uno **indistruttibile** (la chiave),
-  tra i vari scheletri guardiani c'è la **Regina degli Scheletri** che è più forte
+  attenzione, solo nel proprio inventario si vede la differenza, finchè non vengono raccolti tutti i glifi sembrano
+  indistruttibili. Tra i vari scheletri guardiani c'è la **Regina degli Scheletri** che è più forte
 * trovata la chiave andare a sud fino a un'uscita chiusa *In trappola!*: ``unlock so;open so;s``
 
 Le Prime due Chiavi
@@ -58,15 +59,15 @@ Le Prime due Chiavi
 
   uccidere i due MOB e recuperare le chiavi
 
-* i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata
+* i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata, quando
+  si droppa l'ectoplasma vuoto, questo scompare automaticamente, quindi si puo' usare la stringa
+  ``open ecto;get all ecto;drop ecto``
 
 La Tomba Nascosta del Generale
 ------------------------------
 * andare nord del cumulo a est, c'è un passaggio segreto down
-* ``unlock barriera; open barriera;d`` (**chiave Eterea**)
-* ``unlock sarcofago; open sarcofago;get all sarcofato`` (**chiave Spettrale**)
-* usare la **chiave Eterea** per aprire il sarcofago: ``unlock sarcofago;open sarcofago;get all sarcofago`` e ottenere
-  **chiave ossea**
+* ``unlock barriera; open barriera;d`` (serve **chiave Eterea**)
+* ``unlock sarcofago; open sarcofago;get all sarcofago`` (serve **chiave Spettrale**) per ottenere **chiave ossea**
 
 La Tomba Nascosta del Re
 ------------------------
