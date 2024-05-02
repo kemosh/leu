@@ -55,7 +55,7 @@ La Corsa per la Quest
   indistruttibili. Tra i vari scheletri guardiani c'è la **Regina degli Scheletri** che è più forte
 * trovata la chiave andare a sud fino a un'uscita chiusa *In trappola!*: ``unlock so;open so;s``
 
-Le Prime due Chiavi
+Le Prime tre Chiavi
 -------------------
 * scatta una teleport, poi ci si trova in un'area con molti mob e due locazioni *Il cumulo di ossa*, una a est una a ovest
   i cumuli sono le uniche stanze gain
@@ -68,7 +68,7 @@ Le Prime due Chiavi
 
 * i guerrieri hanno addosso un **ectoplasma**, uno di questi contiene la **chiave Fantasma** che va recuperata, quando
   si droppa l'ectoplasma vuoto, questo scompare automaticamente, quindi si puo' usare la stringa
-  ``open ecto;get all ecto;drop ecto``
+  ``get ecto;open ecto;get all ecto;drop ecto``
 
 La Tomba Nascosta del Generale
 ------------------------------
