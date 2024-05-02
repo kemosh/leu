@@ -120,6 +120,14 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
   - ritorno: ``w;w;w;w;w;d;d;s;w;w;s``
 
+.. note::
+   
+   È possibile chiedere ai venditori di identificare gli oggetti prima di comprarli
+   con il comando: ``ask MOB identifica NUMERO``, dove ``NUMERO`` è il numero
+   associato all'oggetto, mostrato dal comando ``NUMERO``. Il numero può essere
+   usato anche in fase di acquisto con: ``buy NUMERO``. I venditori di vecchia
+   concezione potrebbero non supportare questa funzionalità.
+
 Pick Lock
 ---------
 Comprare la **bacchetta di quercia** da **Elvira** al costo di 28750 monete d'oro
