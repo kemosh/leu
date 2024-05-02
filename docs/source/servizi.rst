@@ -208,5 +208,6 @@ A questo punto ci si trova davanti a **Thor**, per il processo di creazione:
 Per gli oggetti che si possono forgiare vedi:
 
 - :doc:`equipaggiamento/oggetti_drow`
+- :doc:`equipaggiamento/oggetti_rhyodin`
 - :doc:`equipaggiamento/oggetti_invasioni`
-- :doc:`equipaggiamento/oggetti_costantinopoli`
+
