@@ -9,8 +9,8 @@ che è possibile forgiare con gli ingredienti che si trovano in questa quest.
 .. note::
 
     Prima di iniziare la quest guardare l'ora (``time``), tra le 22:00 e le 5:00
-    ci sono i fantasmi ed è più pericoloso. Alle 5:00 i fantasmi si dissolvono
-    *"nella luce del mattino"*
+    ci sono i fantasmi e **Capitan Fantasma**, ed è più pericoloso. Alle 5:00 i
+    fantasmi si dissolvono *"nella luce del mattino"*
 
 .. note::
 
