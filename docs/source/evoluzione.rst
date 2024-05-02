@@ -41,12 +41,13 @@ Con 20 **skaglie di drago** è possibile comprare la **corazza di drago**, un'ar
 versione che ha rarità **COMUNE**, vedi ``help corazze supreme``. Le **skaglie di drago**
 in origine uscivano come premio a **Ravenloft**, ora è anche possibile comprarle da
 **Tarr**, ad *Allania*, oppure comprare direttamente la corazza per **30K mdc**.
+Vedi ``help leggendari maggiori`` per gli edit speciali sulla corazza.
 
 Guanti degli Inferi
 -------------------
 Possono essere forgiati con 20 **artigli del diavolo** o comprati ad *Allania* per
-**40K mdc**, dal MOB che vende oggetti **Abisso**. Come per la corazza, è possibile
-potenziare questo oggetto con edit speciali (vedi ``help leggendari maggiori``)
+**40K mdc** da **Ulrik**, il MOB che vende oggetti **Abisso**. Come per la corazza,
+è possibile potenziare questo oggetto con edit speciali (vedi ``help leggendari maggiori``)
 e poi, una volta reso NOEDIT, usare i cristalli delle invasioni.
 
 Edit
