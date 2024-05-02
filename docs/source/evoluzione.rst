@@ -44,7 +44,10 @@ in origine uscivano come premio a **Ravenloft**, ora è anche possibile comprarl
 
 Guanti degli Inferi
 -------------------
-Con 10 **artigli del diavolo**
+Possono essere forgiati con 20 **artigli del diavolo** o comprati ad *Allania* per
+**40K mdc**, dal MOB che vende oggetti **Abisso**. Come per la corazza, è possibile
+potenziare questo oggetto con edit speciali (vedi ``help leggendari maggiori``)
+e poi, una volta reso NOEDIT, usare i cristalli delle invasioni.
 
 Edit
 ----
