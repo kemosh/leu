@@ -72,7 +72,7 @@ Pezzo        HIT    HP   HP Reg Mana Mana Reg SP      Focus   TS
 ============ ====== ==== ====== ==== ======== ======= ======= ====
 elmo                130              70       7       18%     -20
 occhio              130         130           7       18%     -20
-spallacci                       130           **14**  18%     -20
+spallacci                70                   **14**  18%     -20
 cintura      12     130                       7       18%     -20
 stivali             130                       7       **36%** -20
 orecchino                70          70       7       18%     -20
@@ -125,6 +125,7 @@ Pezzo SET        Set           Pezzo NOSET Equivalente
 ================ ============= =======================
 cintura          guaritore     cintura stoffa
 stivali          guaritore     stivali stoffa
+spallacci        guaritore     parabraccia argento
 stivali          manipolatore  scarpe seta
 mantello         manipolatore  manto seta
 spallacci        manipolatore  maniche oro
