@@ -99,7 +99,7 @@ Set Difensore dei Piani
 ============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 Pezzo        HIT    HP   HP Reg redBL  redSL redPR DAM     ExAtt   TS
 ============ ====== ==== ====== ====== ===== ===== ======= ======= ====
-elmo                227                6     6     7               -20
+elmo                227         6      6           7               -20
 occhio              227         6            6     7               -20
 gambali                  70     6      6     6                     -20
 mantello            227                6     6     7               -20
@@ -131,6 +131,8 @@ elmo             manipolatore  copricapo oro
 stivali          manipolatore  scarpe seta
 mantello         manipolatore  manto seta
 spallacci        manipolatore  maniche oro
+elmo             difensore     copricapo ferro
+gambali          difensore     pantaloni ferro
 ================ ============= =======================
 
 NOSET Unici
@@ -161,8 +163,6 @@ con nome diverse si equivalgono (per esempio maschera e occhiali):
 +--------------------+-----+------+--------+-------+-------+-------+-----+-------+----+
 | Pezzo              | HIT |  HP  | HP Reg | redBL | redSL | redPR | DAM | ExAtt | TS |
 +====================+=====+======+========+=======+=======+=======+=====+=======+====+
-| copricapo ferro    |     | 227  |        | 6     | 6     |       | 7   |       | -20|
-+--------------------+-----+------+--------+-------+-------+-------+-----+-------+----+
 | parabraccia ferro  |     | 227  |        |       | 6     | 6     | 7   | 18%   | -20|
 +--------------------+-----+------+--------+-------+-------+-------+-----+-------+----+
 
