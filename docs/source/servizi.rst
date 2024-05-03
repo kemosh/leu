@@ -101,10 +101,11 @@ Allania
 Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
 è possibile comprare oggetti quest, ingredienti e fare varie conversioni.
 
-* path per andare a *Un'intersezione tra le gallerie*:
-  ``astral;u;n;w;w;n;u;w;u;u;w;d;w;s;s;s;s;w;w;w;w;d;d``
-* path per tornare da *Un'intersezione tra le gallerie*:
-  ``w;s;s;e;s;enter portale``
+* path per andare e tornare da *Un'intersezione tra le gallerie*:
+
+  - andata: ``astral;u;n;w;w;n;u;w;u;u;w;d;w;s;s;s;s;w;w;w;w;d;d``
+  - ritorno: ``w;s;s;e;s;enter portale``
+
 * per esaminare i servizi, una volta arrivati a *Un'intersezione tra le gallerie*:
   ``exa NUMERO``, con ``NUMERO = prima, ..., quinta``
 * path per **Tarr** (vende il **cristallo della crono-traslazione**), da
@@ -113,12 +114,21 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   - andata: ``n;e;e;n;u;u;e;e;e;n``
   - ritorno: ``s;w;w;w;d;d;s;w;w;s``
 
-* path per **Viaggiatori** (oggetti speciali), bisogna avere 
-  il cristallo della crono-traslazione in inventario,
-  poi da *Un'intersezione tra le gallerie*:
+* path per **Arren** (oggetti ****): 
+
+  - andata: ``n;e;e;n;u;u;e;e;n``
+  - ritorno: ``s;w;w;d;d;s;w;w;s``
+
+* path per **Viaggiatori** (oggetti speciali), da *Un'intersezione tra le gallerie*:
 
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
   - ritorno: ``w;w;w;w;w;d;d;s;w;w;s``
+
+.. note::
+
+   Per comprare gli oggetti dai **Viaggiatori** è necessario avere un
+   **cristallo della cronotraslazione** in inventario, il cristallo
+   verrà consumato durante l'acquisto
 
 .. note::
    
@@ -153,14 +163,9 @@ Sanctuary
 È molto importante avere a disposizione l'incantesimo **sanctuary** anche se non fa
 parte delle abilità della propria classe, ecco come procurarselo:
 
-* **Scettro di Ravenloft**, ha 6 cariche, quando usato lancia sanctuary su tutti i
-  presenti:
-
-  - andare ad *Allania*, all'intersezione delle gallerie
-  - andare da **Arren**: ``n;e;e;n;u;u;e;e;n``
-  - comprare lo scettro: ``buy 7``, costa **350 mdc** e, una volta scarico, può essere 
-    rivenduto per **70 mdc**
-  - tornare: ``s;w;w;d;d;s;w;w;s``
+* **Scettro di Ravenloft**, ha 6 cariche e quando usato lancia sanctuary su tutti i
+  presenti. Costa **350 mdc** e, una volta scarico, può essere rivenduto per **70 mdc**.
+  Può essere comprato ad *Allania* da **Arren**
 
 * **Scudo di Silver**, lancia sanctuary a piacere, ha un cooldown di 2 round:
 
