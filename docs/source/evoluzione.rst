@@ -23,6 +23,13 @@ Primi Passi
 
 * **edit leggendari**: come i precedenti ma costano **gemme**, **mdc** e **lingotti**
 
+Cap Ethereum
+------------
+Andando nei *Quartieri Privati* e cercando la **cabina** è possibile incrementare il cap
+ethereum fino a 2000 (è il numero tra parentesi che si vede nella riga relativa all'ethereum
+digitando score. Questo permetterà anche di ricevere più ethereum dalle quest e dalla
+relativa missione giornaliera. L'operazione costa astralite e va ripetuta più volte.
+
 Equipaggiamento Accademia Astrale
 ---------------------------------
 Con i dungeon è possibile procurarsi equipaggiamento di ottima qualità che può essere potenziato
