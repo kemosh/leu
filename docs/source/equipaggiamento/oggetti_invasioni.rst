@@ -87,4 +87,5 @@ di **25K eth**. Per effettuare il reroll basta consegnare l'oggetto **Vitalik**,
 è possibile **bloccare** alcuni slot, facendo il reroll solo degli altri, ma
 questo avrà un costo di un **monile triangolare dorato** per ogni slot che si vuole
 fissare e va fatto prima di ogni reroll. Il comando è: ``use monile OGGETTO SLOT`` con
-``SLOT = 2, ..., 5``, dato che il primo slot è fisso.
+``SLOT = 2, ..., 5``, dato che il primo slot è fisso. Se si identifica un oggetto con
+uno o più slot bloccati, la relativa scritta ``Effetto`` sarà visualizzata in rosso.
