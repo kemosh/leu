@@ -90,6 +90,7 @@ spallacci    12     130                       7       18%     -20
 mantello     12     130                       7       18%     -20
 stivali      12                 130           **14**          -20
 paraschiena              70          70       7       18%     -20
+sigillo             130              70       7       18%     -20
 ============ ====== ==== ====== ==== ======== ======= ======= ====
 
 Set Difensore dei Piani
