@@ -123,9 +123,11 @@ ecco la tabella:
 ================ ============= =======================
 Pezzo SET        Set           Pezzo NOSET Equivalente
 ================ ============= =======================
+elmo             guaritore     copricapo argento
 cintura          guaritore     cintura stoffa
 stivali          guaritore     stivali stoffa
 spallacci        guaritore     parabraccia argento
+elmo             manipolatore  copricapo oro
 stivali          manipolatore  scarpe seta
 mantello         manipolatore  manto seta
 spallacci        manipolatore  maniche oro
