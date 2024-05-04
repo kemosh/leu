@@ -86,3 +86,11 @@ Attualmente sviluppato, mantenuto e gestito da **Archie**.
    equipaggiamento/oggetti_costantinopoli
    equipaggiamento/oggetti_regni
    equipaggiamento/oggetti_rhyodin
+
+.. toctree::
+   :caption: Aree
+   :maxdepth: 2
+   :hidden:
+
+   aree/astral
+   
