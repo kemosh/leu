@@ -89,3 +89,7 @@ questo avrà un costo di un **monile triangolare dorato** per ogni slot che si v
 fissare e va fatto prima di ogni reroll. Il comando è: ``use monile OGGETTO SLOT`` con
 ``SLOT = 2, ..., 5``, dato che il primo slot è fisso. Se si identifica un oggetto con
 uno o più slot bloccati, la relativa scritta ``Effetto`` sarà visualizzata in rosso.
+
+.. note::
+
+   Tutte le armi invasioni hanno i flag **cut** e **dig**
