@@ -114,10 +114,15 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   - andata: ``n;e;e;n;u;u;e;e;e;n``
   - ritorno: ``s;w;w;w;d;d;s;w;w;s``
 
-* path per **Arren** (oggetti ****): 
+* path per **Arren** (oggetti *Ravenloft*): 
 
   - andata: ``n;e;e;n;u;u;e;e;n``
   - ritorno: ``s;w;w;d;d;s;w;w;s``
+
+* path per **Grok** (oggetti *Bosco Verde*):
+
+  - andtata: n;e;e;n;u;u;e;n
+  - ritorno: s;w;d;d;s;w;w;s
 
 * path per **Viaggiatori** (oggetti speciali), da *Un'intersezione tra le gallerie*:
 
