@@ -108,8 +108,10 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
 
 * per esaminare i servizi, una volta arrivati a *Un'intersezione tra le gallerie*:
   ``exa NUMERO``, con ``NUMERO = prima, ..., quinta``
-* path per **Tarr** (vende il **cristallo della crono-traslazione**), da
-  *Un'intersezione tra le gallerie*:
+
+Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le gallerie*:
+
+* path per **Tarr** (vende il **cristallo della crono-traslazione**):
 
   - andata: ``n;e;e;n;u;u;e;e;e;n``
   - ritorno: ``s;w;w;w;d;d;s;w;w;s``
@@ -124,7 +126,12 @@ Allania offre diversi servizi di edit sul personaggio e sugli oggetti, inoltre
   - andtata: n;e;e;n;u;u;e;n
   - ritorno: s;w;d;d;s;w;w;s
 
-* path per **Viaggiatori** (oggetti speciali), da *Un'intersezione tra le gallerie*:
+* path per **Kallia** (oggetti *El Quebbar*):
+
+  - andata: ``n;e;e;n;u;u;e;e;e;e``
+  - ritorno: ``w;w;w;w;d;d;s;w;w;s``
+
+* path per **Viaggiatori** (oggetti **leggentari superiori**):
 
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
   - ritorno: ``w;w;w;w;w;d;d;s;w;w;s``
