@@ -58,7 +58,7 @@ La Corsa per la Quest
 Le Prime tre Chiavi
 -------------------
 * scatta una teleport, poi ci si trova in un'area con molti mob e due locazioni *Il cumulo di ossa*, una a est una a ovest
-  i cumuli sono le uniche stanze gain
+  i cumuli sono le uniche stanze gain, appena finisce la teleport conviene andare sul primo cumulo: ``n;n;e``
 * in particolare ci sono due MOB:
 
   - **Luogotenente Fantasma** ha la **chiave Spettrale**
