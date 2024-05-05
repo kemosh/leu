@@ -34,9 +34,12 @@ Ci sono alcune importanti configurazioni che vanno impostate nel gioco:
 - **Prompt**, è fondamentale per avere informazioni in tempo reale durante la battaglia
   (consultare ``help prompt``) per i dettagli, ecco alcune configurazioni consigliate:
 
-  - buon prompt di default: ``set prompt 19``
-  - | prompt per monaci, ranger, ladri e psionici (mostra i punti energia: ``%e/%E``): 
+  - | buon prompt di default:
+    | ``set prompt 19``
+  - | prompt per **monaci**, **ranger**, **ladri** e **psionici** (mostra i punti energia: ``%e/%E``): 
     | ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0011%g $c0008%x $c0007%n/%c - %N/%C $c0005%e/%E $c0007%S``
+  - | prompt per **maghi** puri e **stregoni**:
+    | ``set prompt |$c0115%bH2| |$c0415%bM2| |$c0615%bV2| $c0011%g $c0008%x $c0007%n/%c - %N/%C $c0005%e/%E $c0008%d $c0007%S``
 
   da notare che i colori si specificano usando ``$cXXYY`` dove XX è il colore di sfondo e YY è il colore
   del testo. Il testo normale, grigio su sfondo nero, corriponde a ``$c0007``, vedi: ``help color``
