@@ -42,7 +42,7 @@ Inizio
 * aspettare **Lattimore** per ricevere la chiave
 * | andare al *Portale d'ingresso*, dalla *Sala Riunioni*: ``w;s;d;e;n;n;e;e;s;s;e``
   | **NB** il path per il *Portale d'ingresso* dalla locazione dove si apre il teschio è: ``s;e;s;w;u;e;n;n;e;e;s;s;e``
-* ``ulock ea;open ea;e;s;s;s`` fino a *I Cancelli di Rhyodin*
+* ``unlock ea;open ea;e;s;s;s`` fino a *I Cancelli di Rhyodin*
 * invece di reperire gli oggetti da **Valik** è possibile fare ``doorbash so``
 * ``s;pick bauletto;open bauletto;get all bauletto``, andare tutto a nord: ``run n`` e scavare: ``dig tunnel``
 * ``n;n;unlock porta;open porta;w;get sigillo;e;n;n``
