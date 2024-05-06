@@ -22,7 +22,7 @@ Si accede alla quest per la strada verso *Ade*, dopo il tempio di *Tholos*:
 - ``portal turista;run e;n;e;e;e;e;e;n;e;e;n;e;e;e`` per arrivare a *Tholos*
 - ``pull anello`` per aprire a est
 - ``e;n;e`` per arrivare a *La strada nera*
-- proseguira a nord fina a *Il Nero Portale* e aprire a nord con ``pull testa``
+- proseguire a nord fina a *Il Nero Portale* e aprire a nord con ``pull testa``
 
 Corsa
 -----
@@ -31,5 +31,10 @@ morbosita, angoscia, sonno, miseria, fame, paura, affanno, discordia, guerra, do
 
 - uccidere tutti i MOB e raccogliere ``sogno fallace``
 - ``open sogno;get all sogno;drop sogno`` fino a trovare ``l'illusione`` che è la chiave
+
+Le tre Schegge
+--------------
+- andare nella locazione centrale: *Il centro del vestibolo*
+- 
 
 keys: passaggio, nottolino, rilievo, figura
