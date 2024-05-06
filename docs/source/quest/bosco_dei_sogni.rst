@@ -37,6 +37,21 @@ Le tre Schegge
 - andare nella locazione centrale: *Il centro del vestibolo*
 - ``unlock mente;open mente`` (serve **l'illusione**)
 - andare down, aspettare la teleport e andare up fino a *Il giardino pensile*
-- cercare e uccidere 
+- cercare e uccidere **Aletto**, **Tisifone** e **Megera** e raccogliere le tre schegge dai cadaveri.
+  Attenzione **Megera** è in hide e fa stab da 2K!
+- unire le schegge: ``join 1.scheggia 2.scheggia 3.scheggia`` per ottenere il ``tetraedro infernale``
+- evitare la locazione *Scivolando giu* altrimenti si cade nella *Selva degli incubi*, si verrà attaccati dagli incubi
+  e bisognerà risalire
 
-keys: passaggio, nottolino, rilievo, figura
+Morfeo, Fantaso e Fobetore
+--------------------------
+- tornare nella prima locazione de *Il giardino pensile*, quella a cui si arriva facendo up dopo la teleport
+- aprire il passaggio segreto a nord: ``unlock passaggio;open passaggio`` ed entrare
+- andare up, cercare e uccidere **Fantaso**, **Fobetore** e **Morfeo** raccogliento: ``strano cammeo``, ``spillo``
+  e ``perno a U``
+- andare nella location *La piana onirica*, quella con 3 uscite: East, South, West
+- sbloccare i tre passaggi segreti: ``unlock nottolino;open nottolino;u;unlock rilievo;open rilievo;u;unlock figura;open figura``
+
+L'Albero dei Sogni
+------------------
+Andando up c'è L'Albero dei Sogni con le Radici in hide
