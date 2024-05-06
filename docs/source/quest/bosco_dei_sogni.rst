@@ -17,4 +17,15 @@ Premi
 
 Inizio
 ------
-Si accede alla quest per la strada verso *Ade*, dopo il *Tampio di Thalos*.
+Si accede alla quest per la strada verso *Ade*, dopo il tempio di *Tholos*:
+
+- ``portal turista;run e;n;e;e;e;e;e;n;e;e;n;e;e;e`` per arrivare a *Tholos*
+- ``pull anello`` per aprire a est
+- ``e;n;e`` per arrivare a *La strada nera*
+
+Corsa
+-----
+Proseguire a nord, uccidere i MOB e raccogliere tutti i songo fallace. Poi le schegge da Megera, Tisifone, Aletto (?)
+andare a nord fino a *Il Nero Portale* e fare ``pull testa``
+
+keys: passaggio, nottolino, rilievo, figura
