@@ -12,8 +12,10 @@ Nessuno.
 Premi
 -----
 
-* **ethereum**
+* **720 ethereum**
 * lingotti
+* monete da vendere per mdc
+* 40K monete d'oro
 
 Inizio
 ------
@@ -54,4 +56,6 @@ Morfeo, Fantaso e Fobetore
 
 L'Albero dei Sogni
 ------------------
-Andando up c'è L'Albero dei Sogni con le Radici in hide
+Andando up c'è L'Albero dei Sogni con le Radici in hide. Attenzione se fi fa ``flee`` si finisce nella selva degli incubi.
+Bisogna andare a nord-ovest fino a trovare un'uscita up per tornare dall'Albero. Ucciso l'albero prendere la chiave,
+sbloccare a nord e andare nella stanza dei premi.
