@@ -35,6 +35,8 @@ morbosita, angoscia, sonno, miseria, fame, paura, affanno, discordia, guerra, do
 Le tre Schegge
 --------------
 - andare nella locazione centrale: *Il centro del vestibolo*
-- 
+- ``unlock mente;open mente`` (serve **l'illusione**)
+- andare down, aspettare la teleport e andare up fino a *Il giardino pensile*
+- cercare e uccidere 
 
 keys: passaggio, nottolino, rilievo, figura
