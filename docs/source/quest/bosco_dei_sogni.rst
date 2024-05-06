@@ -22,10 +22,14 @@ Si accede alla quest per la strada verso *Ade*, dopo il tempio di *Tholos*:
 - ``portal turista;run e;n;e;e;e;e;e;n;e;e;n;e;e;e`` per arrivare a *Tholos*
 - ``pull anello`` per aprire a est
 - ``e;n;e`` per arrivare a *La strada nera*
+- proseguira a nord fina a *Il Nero Portale* e aprire a nord con ``pull testa``
 
 Corsa
 -----
-Proseguire a nord, uccidere i MOB e raccogliere tutti i songo fallace. Poi le schegge da Megera, Tisifone, Aletto (?)
-andare a nord fino a *Il Nero Portale* e fare ``pull testa``
+Andando a nord comincia la corsa che consiste nel trovare la chiave trasportata da uno dei MOB (Lutto, Morte, Rimorso,
+morbosita, angoscia, sonno, miseria, fame, paura, affanno, discordia, guerra, dolore, vecchiaia, malattia):
+
+- uccidere tutti i MOB e raccogliere ``sogno fallace``
+- ``open sogno;get all sogno;drop sogno`` fino a trovare ``l'illusione`` che è la chiave
 
 keys: passaggio, nottolino, rilievo, figura
