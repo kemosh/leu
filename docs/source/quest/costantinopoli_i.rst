@@ -23,6 +23,7 @@ Premi
   servono per forgiare orecchini speciali, vedi: :doc:`equipaggiamento/oggetti_costantinopoli`
 * monete d'oro
 * lingotti
+* **sacchetto ithlin**
 
 .. note::
 
