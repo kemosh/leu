@@ -54,13 +54,13 @@ Altri Incubi
 * dalla locazione di partenza andare a nord fino a una locazione senza uscita a west
 * ``unlock corteccia; open corteccia``, andare a west e uccidere **Gorgimera**
 * ``get chiave gorgimera;unlock scrigno; open scrigno; ent scrigno; u; n; turn filo``
-* andare down, uccidere **Viverena** e prendere ``corno`` da uno dei cadaveri
+* andare down, uccidere 2x **Viverna** e prendere ``corno`` da uno dei cadaveri
 * ``unlock pannello; open pannello; ent pannello; n; n; s; open west``
 * andare a west e uccidere **Pursan**
 * ``get staffa pursan;unlock enustik; pull enustik``
 * trovare (``track sin``) e uccidere **Sin**, ``get preghiera sin``
 * da qualunque locazione: ``e;e;s;w;s;e;unlock jecht; lift jecht;u;turn coda; ent argentea``
-* aspettare la teleport e uccidere **Moontail** quando appare
+* aspettare la teleport e uccidere **MoonTail** quando appare
 * ``get chiave moontail;unlock antropogonia;open antropogonia``
 
 Boss e Premi
