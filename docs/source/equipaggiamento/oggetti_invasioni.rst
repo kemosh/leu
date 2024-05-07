@@ -25,7 +25,7 @@ I cristalli possono essere applicati su tutti gli oggetti NOEDIT, ecco gli effet
    pungente                     +1 redu pierce    +2
    contundente                  +1 redu blunt     +2
    fluorescente                 +6 mana           +30
-   robusto                      +3 HP             +45
+   robusto                      +3 HP             +15
    ============================ ================= =======
 
 .. note::
