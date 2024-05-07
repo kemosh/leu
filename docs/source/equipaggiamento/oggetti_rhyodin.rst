@@ -71,7 +71,7 @@ Seguendo le istruzioni:
 
 Quindi in ogni caso servono i seguenti ingredienti:
 
-* 5x lingotti di un metallo sconosciuto (lingotto-metallo)
+* 8x lingotti di un metallo sconosciuto (lingotto-metallo)
 * 1x pezzi di pelle di una bestia sconosciuta (pelle-bestia)
 * 2x cinghie di pelle lavorate (cinghie-pelle)
 * 1x pergamena
