@@ -146,7 +146,7 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
    
    È possibile chiedere ai venditori di identificare gli oggetti prima di comprarli
    con il comando: ``ask MOB identifica NUMERO``, dove ``NUMERO`` è il numero
-   associato all'oggetto, mostrato dal comando ``NUMERO``. Il numero può essere
+   associato all'oggetto, mostrato dal comando ``list``. Il numero può essere
    usato anche in fase di acquisto con: ``buy NUMERO``. I venditori di vecchia
    concezione potrebbero non supportare questa funzionalità.
 
