@@ -16,6 +16,7 @@ Premi
 * **elisir di giovinezza**
 * **ricordo della vita mortale**
 * sesterzio d'oro
+* **cristallo della destrezza**
 
 Inizio
 ------
