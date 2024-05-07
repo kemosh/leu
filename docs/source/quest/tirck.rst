@@ -19,6 +19,7 @@ Premi
 * lingotti: soprattutto fasce B, C, meno probabili D, E, frammenti A sui mob 
 * sacchetti: fino a **oro**
 * sesterzio di bronzo
+* **cristallo dell'apprendimento**
 
 Inizio
 ------
