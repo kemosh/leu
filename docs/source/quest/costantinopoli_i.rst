@@ -22,8 +22,8 @@ Premi
 * 1-2 monete con l'effige de **aquila**, **lupa**, **alloro**, **croce**:
   servono per forgiare orecchini speciali, vedi: :doc:`equipaggiamento/oggetti_costantinopoli`
 * monete d'oro
-* lingotti
-* **sacchetto ithlin**
+* lingotti: **E**, **F**, **G**
+* 0-2 **sacchetto ithlin**
 
 .. note::
 
@@ -54,24 +54,25 @@ Inizio
 
 Campo di Battaglia I
 --------------------
-Area 3x3 con *varco* a west o a nord, uccidere gli ottomani, raccogliere una ``vittoria-battaglia``
+Area 3x3 con *varco* a west, uccidere gli ottomani, raccogliere una ``vittoria-battaglia``
 che è la chiave per il *varco*. Aprire il *varco* e procedere oltre. Per evitare il tiro degli
 arceri spostarsi a est.
 
 Campo di Battaglia II
 ---------------------
-Area 3x3 con *varco* a weat o a nord. Raccogliere la ``vittoria-battaglia``, aprire il *varco*
+Area 3x3 con *varco* a nord. Raccogliere la ``vittoria-battaglia``, aprire il *varco*
 e procedere oltre.
 
 Campo di Battaglia III
 ----------------------
-Area 3x3 con *varco* a west o a nord.
+Area 3x3 con *varco* a nord. Raccogliere la ``vittoria-battaglia``, aprire il *varco*
+e procedere oltre.
 
 Campo di Battaglia IV
 ---------------------
 Area 3x3 con **cannonieri** che fanno molto danno. I cannonieri sono a west, andando tutto a est
 si è fuori tiro. Attaccare e scappare a est per recuperare, i **cannonieri** non inseguono.
-Recuperare una ``vittoria-importante`` e procedere a west.
+Recuperare una ``vittoria-importante``, aprire *varco* a west e procedere.
 
 Corridoio 
 ----------
