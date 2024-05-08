@@ -65,7 +65,7 @@ Cavalieri della Luce
 
 **Servizi**:
 
-* MOG guaritore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
+* MOB guaritore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
 * Fabbro
 * Identificazione equipaggiamento
 * Astral
