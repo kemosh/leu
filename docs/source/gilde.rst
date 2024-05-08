@@ -8,7 +8,7 @@ Cavalieri della Luce
 
 * path da *Alma Civitas*: ``s;run e;s``
 
-Oggetti speciali:
+**Oggetti speciali**:
 
 * | Oggetto '**pergamena luminescente**', Tipo: PERGAMENA
   | L'oggetto e`: MAGICO 
@@ -63,7 +63,7 @@ Oggetti speciali:
 
   1. Effetto:  +4 a Colpire e Danno Fisico
 
-Servizi:
+**Servizi**:
 
 * MOG guaritore (**Fisks**), tra le altre cose può lanciare **remove curse**, usare ``list`` e ``buy``
 * Fabbro
