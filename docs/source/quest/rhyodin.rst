@@ -28,7 +28,7 @@ Requisiti
 
 Premi
 -----
-* **400 eth**
+* **600 eth**
 * ingredienti per equipaggiamento Rhyodin
 * oggetti Ryhodin
 
