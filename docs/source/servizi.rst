@@ -131,6 +131,11 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
   - andata: ``n;e;e;n;u;u;e;e;e;e``
   - ritorno: ``w;w;w;w;d;d;s;w;w;s``
 
+* path per **Silvius** (conversione lingotti, vedi ``help conversione ingredienti``):
+
+  - andata: ``n;e;e;n;u;u;e;e;e;s``
+  - ritorno: ``n;w;w;w;d;d;;s;w;w;s``
+
 * path per **Viaggiatori** (oggetti **leggentari superiori**):
 
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
