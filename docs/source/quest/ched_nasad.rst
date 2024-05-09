@@ -14,6 +14,7 @@ Premi
 Inizio
 ------
 Accedere all'area dei drow andando in astral ed entrando nella pozza **grigio fumo**:
+
 * ``astral;n;u;u;n;w;w;n``
 
 Corsa
@@ -25,5 +26,6 @@ c'è la **Chiave della Citta'**. Trovata la chiave andare verso ovest fino a
 Il Pugnale e la Chiave
 ----------------------
 ENtrati nella città bisogna cercare ed eliminare i MOB **Notturno**, uno di questi ha
-il **pugnale** e la **chiave**. Si riconisce facilmente perchè fa danno da pierce.
+il **pugnale** e la **chiave**. Si riconisce facilmente perchè fa danno da pierce. Usare
+la stringa: ``get borsellino cad;open borsellino;get all borsellino;drop borsellino``
 
