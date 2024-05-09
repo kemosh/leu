@@ -71,6 +71,7 @@ Attualmente sviluppato, mantenuto e gestito da **Archie**.
    quest/rhyodin
    quest/bosco_dei_sogni
    quest/celestia
+   quest/ched_nasad
    quest/regni_combattenti
    quest/costantinopoli_i
 
