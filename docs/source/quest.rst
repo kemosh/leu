@@ -79,7 +79,7 @@ Livello 4
    LABIRINTI                          eth    360 min.
    :doc:`quest/bosco_dei_sogni`       eth    no repop
    :doc:`quest/celestia`                     no repop
-   CHED NASAD                         eth    no repop
+   :doc:`/quest/ched_nasad`           eth    no repop
    CITTADELLA                         eth    no repop
    CUSTODI BARRIERA                          no repop
    :doc:`quest/regni_combattenti`            no repop
