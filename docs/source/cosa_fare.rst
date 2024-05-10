@@ -28,6 +28,12 @@ Monete d'Oro
   - ``portal tephanis;turn pomello;n;get rubini``
   - richiudere altrimenti non ripoppa al massimo
 
+* vari MOB in *Ade* (molti hanno anche oggetti vendibili per **mdc**):
+  - **Vlad**, 1K
+  - **Centauro**, 4K
+  - **Minosse**, 15K
+  - **Ade**, 30K
+
 Dungeon
 -------
 Vedi :ref:`accademia_dungeon`.
