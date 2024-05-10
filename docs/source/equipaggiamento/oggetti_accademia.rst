@@ -149,7 +149,7 @@ caso degli altri pezzi (SET e NOSET equivalenti):
 | | gioiello oro      |     |      |         |      |          |      |       |
 +---------------------+-----+------+---------+------+----------+------+-------+
 | | maschera oro      | 12  | 130  |         |      |          |**14**|       |
-| | occhiali oro      |     |      |         |      |          |      |       |    |
+| | occhiali oro      |     |      |         |      |          |      |       |
 +---------------------+-----+------+---------+------+----------+------+-------+
 | | maschera argento  |     | 130  |         |      |          | 7    |**36%**|
 | | occhiali argento  |     |      |         |      |          |      |       |
