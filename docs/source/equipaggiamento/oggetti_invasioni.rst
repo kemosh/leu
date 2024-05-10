@@ -50,7 +50,7 @@ Ecco le ricette:
    =========================== ======== ================================
    Simbolo Benem (caster)      3        4 amaranto, 2 smeraldo
    Simbolo Hansolo (tank)      3        4 indaco, 2 ambra
-   Moonshatter (arma caster)   3        3 ambra, 1 smeralo, 2 indaco
+   Moonshatter (arma caster)   3        3 ambra, 1 smeraldo, 2 indaco
    Moonschyte (arma slash)     3        3 amaranto, 2 smeraldo, 1 indaco
    Moonthunder (arma blunt)    3        3 indaco, 2 amaranto, 1 ambra
    Moonspear (arma pierce)     3        3 smeraldo, 2 ambra, 1 amaranto
