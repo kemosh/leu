@@ -8,10 +8,12 @@ TBD
 Tiro per Colpire
 ----------------
 Viene usato sia per gli attacchi fisici che per gli incantesimi, nel caso degli
-incantesimi viene usato solo per stabilire se l'attacco è particolarmente efficace,
-in entrami i casi comparirà il messaggio:
+incantesimi viene usato solo per stabilire se si porta a segno un **colpo accurato**
+(+40% danno), in entrami i casi comparirà il messaggio:
 
 ``Riesci a scovare il punto debole di MOB e COLPISCI!``
+
+Vedi ``help colpo``, ``help colpo accurato``.
 
 Spell Power
 -----------
@@ -27,10 +29,12 @@ nel caso comparirà il messaggio:
 ``La tua conoscenza della magia aumenta il danno dell'incantesimo!``
 
 Lo spell focus da 101% a 300% invece fornisce una possibilità di infliggere
-un colpo critico (0.25% per ogni punto oltre 100% di spell focus),
+un colpo critico (+50% danno) pari a 0.25% per ogni punto oltre 100% di spell focus,
 nel caso comparirà il messaggio:
 
 ``Riesci criticamente a colpire MOB in un punto vitale!``
+
+Vedi ``help colpo``, ``help colpo critico``.
 
 Riduzione Danno
 ---------------
