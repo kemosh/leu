@@ -103,7 +103,8 @@ elmo                227         6      6           7               -20
 occhio              227         6            6     7               -20
 gambali                  70     6      6     6                     -20
 mantello            227                6     6     7               -20
-pavese              227         **12**             7               -20 
+pavese              227         **12**             7               -20
+cintura      12          70     6            6                     -20     
 ============ ====== ==== ====== ====== ===== ===== ======= ======= ====
 
 Set Distruttore dei Piani
