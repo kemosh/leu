@@ -121,6 +121,11 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
   - andata: ``n;e;e;n;u;u;e;e;n``
   - ritorno: ``s;w;w;d;d;s;w;w;s``
 
+* path per **Ulrick** (oggetti *Abisso*): 
+
+  - andata: ``n;e;e;n;u;u;e;e;s``
+  - ritorno: ``n;w;w;d;d;s;w;w;s``
+
 * path per **Grok** (oggetti *Bosco Verde*):
 
   - andtata: n;e;e;n;u;u;e;n
@@ -136,7 +141,7 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
   - andata: ``n;e;e;n;u;u;e;e;e;s``
   - ritorno: ``n;w;w;w;d;d;;s;w;w;s``
 
-* path per **Viaggiatori** (oggetti **leggentari superiori**), bisongna avere il
+* path per **Viaggiatori** (oggetti **leggentari superiori**), bisogna avere il
   **cristallo della cronotraslazione** in inventario per sbloccare la parete:
 
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
