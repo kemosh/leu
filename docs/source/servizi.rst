@@ -140,7 +140,7 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
   **cristallo della cronotraslazione** in inventario per sbloccare la parete:
 
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
-  - ritorno: ``w;w;w;w;w;d;d;s;w;w;s``
+  - ritorno: ``enter realta;w;w;w;w;d;d;s;w;w;s``
 
 .. note::
 
