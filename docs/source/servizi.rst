@@ -136,7 +136,8 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
   - andata: ``n;e;e;n;u;u;e;e;e;s``
   - ritorno: ``n;w;w;w;d;d;;s;w;w;s``
 
-* path per **Viaggiatori** (oggetti **leggentari superiori**):
+* path per **Viaggiatori** (oggetti **leggentari superiori**), bisongna avere il
+  **cristallo della cronotraslazione** in inventario per sbloccare la parete:
 
   - andata: ``n;e;e;n;u;u;e;e;e;e;unlock parete;twist parete;e``
   - ritorno: ``w;w;w;w;w;d;d;s;w;w;s``
@@ -144,8 +145,8 @@ Path per i venditori (``exa NUMERO``) relativi a *Un'intersezione tra le galleri
 .. note::
 
    Per comprare gli oggetti dai **Viaggiatori** è necessario avere un
-   **cristallo della cronotraslazione** in inventario, il cristallo
-   verrà consumato durante l'acquisto
+   **cristallo della cronotraslazione** in inventario che verrà 
+   consumato durante l'acquisto
 
 .. note::
    
