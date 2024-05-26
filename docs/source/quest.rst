@@ -14,13 +14,13 @@ Livello 1
    AMON                                      60 min.
    KELEPHO                                   60 min.
    TORRE DELLA MAGIA                         60 min.
-   :doc:`quest/ancalador`                    90 min.
+   :doc:`/quest/ancalador`                   90 min.
    CYNIDICEA                                 90 min.
    ELMINSTER                                 90 min.
    GIORNI DEL TEMPO                          90 min.
    MAGMA                                     90 min.
    HUMA                                      90 min.
-   :doc:`quest/tirck`                        150 min.
+   :doc:`/quest/tirck`                       150 min.
    COSTANTINOPOLI II                         no repop
    ================================== ====== ==========
 
@@ -54,9 +54,9 @@ Livello 3
    Quest                              Note   Repop time                                    
    ================================== ====== ==========
    AVATAR GUARDIANO                          90 min.
-   :doc:`quest/ecate`                        180 min.
-   GIARDINI                                  180 min.
-   :doc:`quest/incubi`                       180 min.
+   :doc:`/quest/ecate`                       180 min.
+   :doc:`/quest/giardini_infiniti`           180 min.
+   :doc:`/quest/incubi`                      180 min.
    :doc:`/quest/rhyodin`              eth    180 min.
    OLTRE IL PORTALE                          240 min.
    PILASTRI                           eth    300 min.
@@ -77,12 +77,12 @@ Livello 4
    ================================== ====== ===========================
    LAGO GHIACCIATO                           240 min.
    LABIRINTI                          eth    360 min.
-   :doc:`quest/bosco_dei_sogni`       eth    no repop
-   :doc:`quest/celestia`                     no repop
+   :doc:`/quest/bosco_dei_sogni`      eth    no repop
+   :doc:`/quest/celestia`                    no repop
    :doc:`/quest/ched_nasad`           eth    no repop
    CITTADELLA                         eth    no repop
    CUSTODI BARRIERA                          no repop
-   :doc:`quest/regni_combattenti`            no repop
+   :doc:`/quest/regni_combattenti`           no repop
    YETHRAEL                                  33% pop in OLTRE IL PORTALE
    ================================== ====== ===========================
 
@@ -95,6 +95,6 @@ Livello 5
    ================================== ====== ==========
    Quest                              Note   Repop time                                    
    ================================== ====== ==========
-   :doc:`quest/costantinopoli_i`             no repop
+   :doc:`/quest/costantinopoli_i`            no repop
    DUNWICH                            eth    no repop
    ================================== ====== ==========

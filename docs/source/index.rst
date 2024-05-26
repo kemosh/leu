@@ -67,6 +67,7 @@ Attualmente sviluppato, mantenuto e gestito da **Archie**.
    quest/ancalador
    quest/tirck
    quest/ecate
+   quest/giardini_infiniti
    quest/incubi
    quest/rhyodin
    quest/bosco_dei_sogni
