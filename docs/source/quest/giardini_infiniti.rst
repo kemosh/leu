@@ -49,7 +49,7 @@ Giungla del Terrore
   ``cumuli di ricchezza`` del valore di **15K monete d'oro** l'uno
 - ``e;n;n;e;unlock pianta;pull pianta;n`` fino al *Bosco degli inganni* (SAFE ROOM)
 
-Bosco degli inganni
+Bosco degli Inganni
 -------------------
 - segnare la locazione iniziale
 - prendere la chiave ``ghianda`` da un **chipmunk dai denti a sciabola**, è quella indistruttibile
@@ -58,8 +58,9 @@ Bosco degli inganni
 
 Daraya la Ninfa Oscura
 ----------------------
-A questo punto ci si trova ne *Il Giardino infinito* ci sono fiori vendibili per **mdc** in molte locazioni,
-la struttura del giardino è casuale e cambia ad ogni repop. Contiene locazioni NOMIND, NOMAGIC, NOREG.
+A questo punto ci si trova ne *Il Giardino infinito*, in molte locazioni ci sono fiori vendibili per **mdc**,
+la struttura del giardino è casuale e cambia a ogni repop. Include locazioni NOMIND, NOMAGIC, NOREG.
+Su **Daraya** potrebbe poppare equipaggiamento speciale, nel caso NOSCRAP.
 
 - ``e;e;n;e`` e uccidere **Daraya**, la ninfa si muove se necessario usare track per trovarla
 - prendere la chiave ``pietra ottagonale`` dal cadavere
