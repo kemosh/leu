@@ -30,8 +30,8 @@ ci sono 15 cumuli, il germoglio è a sua volta dentro un ``intrico di viticci in
 - **attenzione**: tutte le locazioni down sono **DT** a tempo!
 - prendere il ``germoglio`` e tornare alla locazione segnata con la moneta
 
-La Giungla del Terrore
-----------------------
+Giungla del Terrore
+-------------------
 - ``e;w;s;unlock gemma; open gemma``
 - andare up (NO MIND)
 - prendere la chiave ``mora screziata`` da un **Aracnocorno** (è quella che non si può junkare)
