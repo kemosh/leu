@@ -8,8 +8,9 @@ Requisiti
 
 Premi
 -----
-* **mdc** (ogni fiore che si raccoglie nei giardini vale 50 mdc)
+* 5-10 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**)
 * **15-30K monete d'oro**
+* monete o doblone
 * ingredienti (fleur de lys)
 * sacchetti?
 * sesterzio d'argento
@@ -26,6 +27,7 @@ Corsa
 Per vincere la corsa bisogna prendere la chiave ``germoglio`` da un ``Cumulo strisciante``,
 ci sono 15 cumuli, il germoglio è a sua volta dentro un ``intrico di viticci in decomposizione``,
 **non fare** ``get all viticci``, farà scattare una trappola!
+
 - segnare la locazione iniziale: ``drop 1 coin``
 - **attenzione**: tutte le locazioni down sono **DT** a tempo!
 - prendere il ``germoglio`` e tornare alla locazione segnata con la moneta
@@ -58,6 +60,7 @@ Daraya la Ninfa Oscura
 ----------------------
 A questo punto ci si trova ne *Il Giardino infinito* ci sono fiori vendibili per **mdc** in molte locazioni,
 la struttura del giardino è casuale e cambia ad ogni repop. Contiene locazioni NOMIND, NOMAGIC, NOREG.
+
 - ``e;e;n;e`` e uccidere **Daraya**, la ninfa si muove se necessario usare track per trovarla
 - prendere la chiave ``pietra ottagonale`` dal cadavere
 - cercare la locazione *fonte mistica*, appare come: *Acqua cristallina sgorga da una roccia bianchissima,
