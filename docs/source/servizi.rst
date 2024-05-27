@@ -23,6 +23,16 @@ Qui è possibile depositare soldi e ingredienti:
 - visualizza cassetta (ingredienti): ``cassetta`` oppure ``cassetta NUMERO`` 
   per una specifica pagina, con ``NUMERO = 1, ..., 5``
 
+Bottega dei Ricordi perduti
+---------------------------
+È fatta da 3 stanze, nella prima c'è il venditore/rottamatore **Hamlin** e l'assicuratore **lloyd**,
+nelle altre 2 stanze i venditori **Triddit** e **Linette**. Dando un oggetto all'assicuratore è
+possibile abilitare/disabilitare la protezione contro transizioni involontarie. Qui è possibile
+comprare ``spada-coraggio``, ``martello-coraggio``, ``anello-coraggio`` e ``baule-eroe``,
+molto utili nelle fasi iniziali:
+
+- path da *Alma Civitas*: ``s;s;e;e;s;s;open we;w``
+
 Maestri Abilità Secondarie
 --------------------------
 Insegnano abilità secondarie comuni a tutte le classi, molti sono raggiunginili tramite portal

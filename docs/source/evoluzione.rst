@@ -6,17 +6,36 @@ Primi Passi
 
 * XP per raggiungere il livello 50
 
-* reincarnazione: è possibile reincarnarsi in una delle razze speciali per ottenere 
+* Eq iniziale, ci sono alcuni oggetti in vendita presso *La bottega dei ricordi perduti*
+  che possono tornare utili, in particolare:
+
+  - **martello del coraggio**: può essere convertito in HIT&SP ad *Allania* e può essere
+    editato: 53D1 +5/+5 ARTIFACT
+
+  - **anello del coraggio**: è NON COMUNE, può essere convertito HIT&SP ad *Allania* e
+    può essere editato +5/+5, inoltre con i sacchetti può raggiungere +45 HP ed è possibile
+    editare 5% SP o EA
+
+  - **baule dell'eroe**: contenitore ARTIFACT
+
+Razze Speciali e statistiche
+----------------------------
+Vedi ``help razze`` per l'elenco delle razza speciali
+
+* **reincarnazione**: è possibile reincarnarsi in una delle razze speciali per ottenere 
   abilità, resistenze e immunità, consulta l'help per i dettagli. Per reincarnarni
   è necessarion procurarsi un **cristallo della forma** e darlo a un MOB, specifico
   per ogni razza:
 
   - **spettro**: consegnare il cristallo a uno ``spettro-anello``, è portalabile
 
-* aumentare la statistiche naturali: è necessario un cristallo specifico per ogni
+* aumentare la **statistiche naturali**: è necessario un cristallo specifico per ogni
   statistica. I cristalli possono essere comprati ad *Allania* e lo stesso vale per
-  il servizio di icremento statistica.
-  In totale **è possibile aumentare di 10 punti le statistiche iniziali**
+  il servizio di icremento statistica. In totale è possibile aumentare di **10 punti**
+  le statistiche iniziali
+
+Edit & Over Edit
+----------------
 
 * **edit** e **over edit** sul personaggio: costano **gemme** e **XP**, possono essere
   fatti ad Allania. Usare i comandi ``showres`` e ``showedit`` per verificare lo stato
