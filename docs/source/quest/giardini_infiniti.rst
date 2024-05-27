@@ -8,11 +8,11 @@ Requisiti
 
 Premi
 -----
-* 5-10 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**)
+* 10-15 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**)
 * **15-30K monete d'oro**
 * monete o doblone
 * ingredienti (fleur de lys)
-* sacchetti?
+* sacchetti fino a **ithildin**
 * sesterzio d'argento
 * **cristallo della lungimiranza**
 
