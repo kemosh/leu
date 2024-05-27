@@ -2,6 +2,7 @@ Astral
 ======
 
 * color **terra**, *Zona di Guerra*: ``n;u;e``
+* color **oro**, *Torre della Magia*: ``u;n;w;n``
 * color **grigio**, *Arachnos*: ``n;u;u;n``
 * color **grigio palude**, *Orshingal* (Enfan, xp e diamanti): ``n;u;u;n;e``
 * color **cangiante**, *Colosseo*: ``n;u;u;n;w``
