@@ -248,4 +248,3 @@ Per gli oggetti che si possono forgiare vedi:
 - :doc:`equipaggiamento/oggetti_drow`
 - :doc:`equipaggiamento/oggetti_rhyodin`
 - :doc:`equipaggiamento/oggetti_invasioni`
-
