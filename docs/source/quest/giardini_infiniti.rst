@@ -26,7 +26,7 @@ Corsa
 -----
 Per vincere la corsa bisogna prendere la chiave ``germoglio`` da un ``Cumulo strisciante``,
 ci sono 15 cumuli, il germoglio è a sua volta dentro un ``intrico di viticci in decomposizione``,
-**non fare** ``get all viticci``, farà scattare una trappola!
+**non fare** ``get all viticci``, farà scattare una trappola! Usare: ``open viti;get germoglio viti;drop viti``
 
 - segnare la locazione iniziale: ``drop 1 coin``
 - **attenzione**: tutte le locazioni down sono **DT** a tempo!
