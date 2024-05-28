@@ -2,16 +2,19 @@ GIARDINI INFINITI
 =================
 La quest consiste nell'attraversare i giardini infiniti e sfidare **Daraya**, la ninfa oscura.
 
+.. note::
+   Ci sono molti finti passaggi segreti (per esempio tra liane nel rovereto)!
+
 Requisiti
 ---------
 * falcetto o arma con flag **cut**
 
 Premi
 -----
-* 10-15 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**)
+* 15 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**), usare la key ``fior``
 * **15-30K monete d'oro**
 * monete o doblone
-* ingredienti (fleur de lys)
+* ingredienti per forgaira armi caster, vedi: :doc:`equipaggiamento/oggetti_giardini`
 * sacchetti fino a **ithildin**
 * sesterzio d'argento
 * **cristallo della lungimiranza**
