@@ -1,11 +1,18 @@
 ANCALADOR
 =========
-La quest consiste nell'uccidere **Eucropio** e opzionalmente liberare il druido
+La quest consiste nell'uccidere **Eucropio** e opzionalmente liberare il **Druido**
 da lui imprigionato. Si accede alla quest da **Ancalador**, il drago pietrificato.
 
 Requisiti
 ---------
 Nessuno.
+
+Premi
+-----
+* **160 mdc** vendendo le pietre
+* 30K monete d'oro se si completa la parte del Druido
+* lingotti di tipo G
+* sesterzio di bronzo
 
 Inizio
 ------
