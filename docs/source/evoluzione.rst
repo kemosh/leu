@@ -44,10 +44,15 @@ Edit & Over Edit
 
 Cap Ethereum
 ------------
-Andando nei *Quartieri Privati* e cercando la **cabina** è possibile incrementare il cap
+Andando nei *Quartieri Privati* ed entrando nella **cabina** è possibile incrementare il cap
 ethereum fino a 2000 (è il numero tra parentesi che si vede nella riga relativa all'ethereum
-digitando score. Questo permetterà anche di ricevere più ethereum dalle quest e dalla
-relativa missione giornaliera. L'operazione costa astralite e va ripetuta più volte.
+digitando score). Questo permetterà anche di ricevere più ethereum dalle quest e dalla
+relativa missione giornaliera. L'operazione costa **120 astralite** e va ripetuta più volte a
+distanza di una settimana (forse non è più necessario aspettare).
+
+* andare da **Vitalik**
+* ``e;u;enter portone``
+* ``enter cabina``
 
 Equipaggiamento Accademia Astrale
 ---------------------------------
