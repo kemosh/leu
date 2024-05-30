@@ -83,9 +83,9 @@ e poi, una volta reso NOEDIT, usare i cristalli delle invasioni.
 
 Sacchetti
 ---------
-Su tutti gli oggetti, tranne quelli dell'accademia, è possibile usare i sacchetti per ottenere
-fino a 30 HP in più. Se l'oggetto ha uno slot HP, l'effetto dei sacchetti andrà a incrementare
-quel valore. Vedi ``help sacchetti``.
+Su tutti gli oggetti (anche i NOEDIT), tranne quelli dell'accademia, è possibile usare i
+sacchetti per ottenere fino a 30 HP in più. Se l'oggetto ha uno slot HP, l'effetto dei sacchetti
+andrà a incrementare quel valore. Vedi ``help sacchetti``.
 
 Edit
 ----
