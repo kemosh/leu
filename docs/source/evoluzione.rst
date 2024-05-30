@@ -81,6 +81,12 @@ Possono essere forgiati con 20 **artigli del diavolo** o comprati ad *Allania* p
 è possibile potenziare questo oggetto con edit speciali (vedi ``help leggendari maggiori``)
 e poi, una volta reso NOEDIT, usare i cristalli delle invasioni.
 
+Sacchetti
+---------
+Su tutti gli oggetti, tranne quelli dell'accademia, è possibile usare i sacchetti per ottenere
+fino a 30 HP in più. Se l'oggetto ha uno slot HP, l'effetto dei sacchetti andrà a incrementare
+quel valore. Vedi ``help sacchetti``.
+
 Edit
 ----
 Oggetti come l'armatura o i guanti sono editabili, è possibile andare dai MOB di *Allania* per
