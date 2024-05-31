@@ -11,7 +11,7 @@ Requisiti
 
 Premi
 -----
-* 15 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**), usare la key ``fior``
+* 16 fiori (ogni fiore che si raccoglie nei giardini vale **50 mdc**), usare la key ``fior``
 * **15-30K monete d'oro**
 * monete o doblone
 * ingredienti per forgaira armi caster, vedi: :doc:`equipaggiamento/oggetti_giardini`
@@ -38,9 +38,10 @@ ci sono 15 cumuli, il germoglio è a sua volta dentro un ``intrico di viticci in
 Giungla del Terrore
 -------------------
 - ``e;w;s;unlock gemma; open gemma``
-- andare up (NO MIND)
+- andare up (NO MIND) e segnare la locazione
 - prendere la chiave ``mora screziata`` da un **Aracnocorno** (è quella che non si può junkare)
-- impugnare falcetto e da qualunque locazione: ``e;e;e;e;n;n;w;n;n; cut ramo;n;w;n`` fino al *Roveto della follia*
+- impugnare falcetto, tornare alla locazione segnata e: ``e;e;e;e;n;n;w;n;n; cut ramo;n;w;n``
+  fino al *Roveto della follia*
 - ``unlock cima; open cima`` e andare up ne *La giungla del terrore* (NO MAGIC)
 - segnare la posizione
 - prendere la chiave ``strana resina`` da un **Rampicante Vampiro**, fare attenzione che verso sud c'e' una
@@ -70,3 +71,8 @@ Su **Daraya** potrebbe poppare equipaggiamento speciale, nel caso NOSCRAP.
 - cercare la locazione *fonte mistica*, appare come: *Acqua cristallina sgorga da una roccia bianchissima,
   emanando essa stessa un soave profumo ultraterreno*
 - ``unlock fonte;open fonte;get all fonte``
+
+.. note::
+   Per trovare la *fonte mistica* e raccagliere tutti i fiori si può procedere per "righe", si va tutto est o
+   ovest fino a tornare da dove si è partiti e poi si fa un passo a sud o nord e si ripete il procedimento
+
