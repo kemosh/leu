@@ -38,15 +38,15 @@ ci sono 15 cumuli, il germoglio è a sua volta dentro un ``intrico di viticci in
 Giungla del Terrore
 -------------------
 - ``e;w;s;unlock gemma; open gemma``
-- andare up (NO MIND) e segnare la locazione
+- andare up (NO MIND) e segnare la posizione
 - prendere la chiave ``mora screziata`` da un **Aracnocorno** (è quella che non si può junkare)
-- impugnare falcetto, tornare alla locazione segnata e: ``e;e;e;e;n;n;w;n;n; cut ramo;n;w;n``
+- impugnare falcetto, tornare alla posizione segnata e: ``e;e;e;e;n;n;w;n;n; cut ramo;n;w;n``
   fino al *Roveto della follia*
-- ``unlock cima; open cima`` e andare up ne *La giungla del terrore* (NO MAGIC)
-- segnare la posizione
+- ``unlock cima; open cima``
+- andare up ne *La giungla del terrore* (NO MAGIC) e segnare la posizione
 - prendere la chiave ``strana resina`` da un **Rampicante Vampiro**, fare attenzione che verso sud c'e' una
   teleport che rimanda al rovereto
-- tornare down al rovereto
+- tornare alla posizione segnata e andare down
 - ``u;s;s;w;w;unlock liana;pull liana`` e si apre a nord verso *La foresta dell'inquietudine*
 - ``n;n;n;n;n;w;w;w;s``, impugnare il falcetto e ``cut pianta``
 - andare a west e prendere ``falcetto`` da uno dei due turbini, per terra ci sono uno o più
