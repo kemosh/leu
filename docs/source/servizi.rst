@@ -86,7 +86,9 @@ Riparazione Equipaggiamento
 * path per **Iwaldur** da *Alma Civitas* (oggetti di basso livello):
   ``s;e;e;n``
 * path per **Plutarco** da *Alma Civitas* (ripara tutto):
-  ``astral;u;n;w;w;n;u;w;u;u;enter spe;e;d;d;d;n;n;e;e;e;u;u;open masso;e;e;n;e;s;d;d;w;w``
+  
+  - andata: ``astral;u;n;w;w;n;u;w;u;u;enter spe;e;d;d;d;n;n;e;e;e;u;u;open masso;e;e;n;e;s;d;d;w;w``
+  - ritorno: ``e;e;n``
 
 .. _locate_object:
 
